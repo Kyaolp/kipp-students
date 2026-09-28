@@ -1,7 +1,7 @@
 ---
 title: "Relationship Conversation"
 week: 3
-status: "Belum dimulai"
+status: "Siap dinilai "
 self_score: "—"
 assessor_score: "—"
 description: "Evidence listening, boundary, request, atau repair."
@@ -21,5 +21,37 @@ Melakukan personal conversation dengan listening, clarity, boundary, dan relatio
 ::: {.callout-tip title="Lihat contoh pengisian"}
 [Buka contoh fiktif Minggu 3](../examples/week-03.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
+
+## Konteks dan relationship state
+
+Saya dan juga teman saya yang dimana adalah sepupu saya juga dan kita 1 kos dan kamarnya agak berjarak dan saya jarang ngobrol dengan teman saya karena malas ke kamarnya.
+
+**State sebelum percakapan:** kepercayaan masih baik, tetapi Saya mulai menghindari teman saya. Objective saya adalah menghindari mengunjungi kamarnya karena saya merasa tidak nyaman dengan berantakannya kamar.
+
+## Analisis
+
+Saya mulai sangat malas ke kamar teman saya dikarenakan tercium bau yang kurang mengenakkan di hidung saya. Teman saya juga tidak pernah mengunjungi kamar saya untuk sekedar ngobrol.
+
+Saya sudah beberapa kali menegur dia tentang kebersihan kamarnya tapi tetap tidak peduli dan hanya mengabaikan teguran saya.
+
+
+## Relationship outcome dan evidence
+
+Saya jadi sangat jarang sekali mengobrol dengan dia dan hanya sekedar menyapa saja saat bertemu, dan juga saat dia membutuhkan sesuatu dari saya ataupun saat saya membutuhkan sesuatu dari dia.
+
+AI tidak digunakan karena cerita hanya berupa kejadian yang sudah lama dan tidak ada evidence karena semua dilakukan di dunia nyata tanpa adanya niat untuk memperburuk citra teman saya
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| Person & Character | 2 | Ketidakjelasan state hubungan |
+| Objective & State | 2 | Tidak tercapai |
+| Repertoire, Language & AI | 2 | Tidak terjadi hal yang signifikan|
+| Response & Adaptation | 3 | Sesuai dengan keinginan masing-masing |
+| Agreement, Action & Relationship | 3 |   |
+
+**Total: 12/20 — Kurang Kompeten.**
+
 
 {{< include ../includes/evidence-template.md >}}

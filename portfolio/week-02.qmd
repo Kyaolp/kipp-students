@@ -1,7 +1,7 @@
 ---
 title: "Intra-Self Communication Journal"
 week: 2
-status: "Belum dimulai"
+status: "Siap dinilai"
 self_score: "—"
 assessor_score: "—"
 description: "Evidence perubahan dari reaction menuju response."
@@ -21,5 +21,38 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 ::: {.callout-tip title="Lihat contoh pengisian"}
 [Buka contoh fiktif Minggu 2](../examples/week-02.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
+
+## Episode
+
+**Event:** Guru menyuruh saya untuk mengubah judul karya ilmiah saat bab 1 dan 2 sudah dibuat .”
+
+| Lapisan | Catatan Davin |
+|---|---|
+| Fact | Pengajuan bab 3 saya ditolak karena relevansinya kurang terutama dari judul karya ilmiah |
+| Initial story | "Guru berkata bahwa apa yang saya teliti ini kurang cukup untuk dijelaskan dalam bab tersebut” |
+| Emotion/body signal | Lelah, merasa perjuangan sia", mau pulang |
+| Reactive character | “Defender” bertanya mengapa judul harus dikaji ulang/ diubah  |
+| Desired character | "Researcher" bisa dicari lebih dalam lagi judul yang saya buat |
+
+Initial story melampaui fakta: 
+
+## Feedback, AI, dan refleksi
+
+Saya menggunakan AI sebagai bantuan dalam mmeperbaiki bahasa yang saya gunakan.
+Feedback: Teman saya mengatakan bahwa setuju saja dengan apa kata guru 
+Refleksi: Pembelajaran agar tidak mengulangi hal yang sama 
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| Person & Character | 4 | Mampu mengenali emosi, tingkat intensitas, dan sinyal fisik secara jujur |
+| Objective & State | 4 | Mampu memisahkan antara fakta kejadian dan asumsi/dramatisasi |
+| Repertoire, Language & AI | 3 | menggunakan bahasa yang baik dan tidak menyinggung |
+| Response & Adaptation | 3 | Pendapat guru mengubah karya ilmiah |
+| Agreement, Action & Relationship | 2 | Setuju dengan apa yang disampaikan guru  |
+
+**Total: 16/20 — Kompeten.**
+
 
 {{< include ../includes/evidence-template.md >}}
