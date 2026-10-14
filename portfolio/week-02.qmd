@@ -2,7 +2,7 @@
 title: "Intra-Self Communication Journal"
 week: 2
 status: "Siap dinilai"
-self_score: "—"
+self_score: "16"
 assessor_score: "—"
 description: "Evidence perubahan dari reaction menuju response."
 categories: [Fondasi, Intra-Self]
@@ -18,41 +18,55 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 - Initial story dan sedikitnya dua alternative narratives.
 - Internal agreement dan bukti tindakan berikutnya.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 2](../examples/week-02.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
 
 ## Episode
 
-**Event:** Guru menyuruh saya untuk mengubah judul karya ilmiah saat bab 1 dan 2 sudah dibuat .”
+**Event:** Guru menyuruh saya untuk mengubah judul karya ilmiah saat bab 1 dan 2 sudah dibuat.
 
 | Lapisan | Catatan Davin |
 |---|---|
-| Fact | Pengajuan bab 3 saya ditolak karena relevansinya kurang terutama dari judul karya ilmiah |
-| Initial story | "Guru berkata bahwa apa yang saya teliti ini kurang cukup untuk dijelaskan dalam bab tersebut” |
-| Emotion/body signal | Lelah, merasa perjuangan sia", mau pulang |
-| Reactive character | “Defender” bertanya mengapa judul harus dikaji ulang/ diubah  |
-| Desired character | "Researcher" bisa dicari lebih dalam lagi judul yang saya buat |
+| Fact | Pengajuan lanjutan ditolak sementara dan guru meminta peninjauan serta penyesuaian judul agar lebih relevan dengan isi bab. |
+| Initial story | "Guru berkata bahwa apa yang saya teliti ini kurang cukup dan membuat kerja keras saya pada bab 1 dan 2 sia-sia begitu saja." |
+| Emotion/body signal | Lelah secara mental, merasa usaha tidak dihargai, muncul dorongan ingin menyerah atau pulang (skor kelelahan 7/10, bahu tegang). |
+| Reactive character | “Defender” yang merasa kesal dan ingin mempertanyakan mengapa baru diberi tahu sekarang saat bab sudah berjalan jauh. |
+| Desired character | "Researcher" yang melihat data secara objektif dan mencari cara memperbaiki judul agar selaras dengan isi penelitian. |
 
-Initial story melampaui fakta: 
+Initial story melampaui fakta: Mengasumsikan bahwa seluruh pekerjaan bab 1–2 ditolak total dan diri saya gagal, padahal instruksi sebenarnya adalah penyesuaian/penajaman fokus judul.
+
+## Alternative Narratives
+
+1. **Peluang Penajaman:** Judul yang direvisi justru membuat arah penelitian menjadi jauh lebih fokus, tajam, dan mudah dikerjakan pada bab-bab berikutnya.
+2. **Standar Kualitas:** Teguran ini adalah bentuk kontrol kualitas dari guru agar penelitian memiliki benang merah yang konsisten antara latar belakang (Bab 1), landasan teori (Bab 2), dan judul karya ilmiah.
+
+Alternative kedua paling objektif karena membantu saya melihat koreksi guru sebagai masukan konstruktif alih-alih serangan personal.
+
+## Internal Conversation & Agreement
+
+> **Defender:** "Sudahlah, protes saja atau ikuti seadanya karena malas merombak ulang."  
+> **Researcher:** "Tarik napas. Mari cek kembali bagian mana dari judul dan bab 1-2 yang kurang nyambung, lalu diskusikan opsi perbaikan ke guru."  
+> **Davin:** "Saya akan mengambil jeda 30 menit untuk meredakan emosi, lalu merumuskan 2 opsi alternatif judul baru untuk dikonsultasikan besok."  
+
+**Internal Agreement:** Sebelum menemui guru kembali, saya sepakat untuk membuat matriks perbandingan judul lama dan usulan judul baru yang lebih selaras dengan isi bab 1 dan 2.
+
+## Evidence Tindakan
+
+- Catatan revisi poin-poin ketidaksesuaian antara judul dan isi bab.
+- Lembar konsultasi atau tangkapan layar komunikasi dengan guru saat menyetujui judul yang direvisi.
 
 ## Feedback, AI, dan refleksi
 
-Saya menggunakan AI sebagai bantuan dalam mmeperbaiki bahasa yang saya gunakan.
-Feedback: Teman saya mengatakan bahwa setuju saja dengan apa kata guru 
-Refleksi: Pembelajaran agar tidak mengulangi hal yang sama 
+- **Penggunaan AI:** Saya menggunakan AI untuk membantu menyusun struktur kalimat refleksi agar lebih rapi, objektif, dan terstruktur secara akademis.
+- **Feedback:** Teman saya memberikan masukan agar saya tidak bersikap defensif, melainkan mendengarkan arahan guru dengan kepala dingin.
+- **Refleksi:** Pengalaman ini melatih saya untuk memisahkan antara kritik terhadap pekerjaan (dokumen/judul) dengan harga diri pribadi, sehingga proses perbaikan bisa dilakukan dengan lebih cepat dan tenang.
 
 ## Self-assessment
 
 | Dimensi | Skor | Evidence singkat |
 |---|---:|---|
-| Person & Character | 4 | Mampu mengenali emosi, tingkat intensitas, dan sinyal fisik secara jujur |
-| Objective & State | 4 | Mampu memisahkan antara fakta kejadian dan asumsi/dramatisasi |
-| Repertoire, Language & AI | 3 | menggunakan bahasa yang baik dan tidak menyinggung |
-| Response & Adaptation | 3 | Pendapat guru mengubah karya ilmiah |
-| Agreement, Action & Relationship | 2 | Setuju dengan apa yang disampaikan guru  |
+| Person & Character | 4 | Mampu mengenali emosi lelah dan membedakan peran *Defender* vs *Researcher*. |
+| Objective & State | 4 | Mampu memisahkan fakta penolakan judul dari asumsi bahwa karya saya gagal total. |
+| Repertoire, Language & AI | 3 | Menggunakan bahasa reflektif yang baik dan AI secara etis untuk merapikan tulisan. |
+| Response & Adaptation | 3 | Mengubah reaksi awal yang ingin menyerah menjadi tindakan proaktif merevisi judul. |
+| Agreement, Action & Relationship | 2 | Membuat kesepakatan internal untuk berdiskusi ulang dan menyesuaikan arahan guru. |
 
 **Total: 16/20 — Kompeten.**
-
-
-{{< include ../includes/evidence-template.md >}}
