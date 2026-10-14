@@ -1,164 +1,201 @@
 ---
 title: "Laporan UTS KIPP - Sesi 2a"
-subtitle: "Persahabatan dan profesionalitas - target pertama"
-author: "[Nama mahasiswa]"
+subtitle: "sesi 2a"
+author: "Davin"
 lang: id
-status: "Belum dimulai"
+status: "Siap dinilai"
 format:
   html:
     toc: true
 execute:
   eval: false
 ---
-
-::: {.callout-tip title="Template belum terisi"}
-Isi dari sesi Anda sendiri. [Lihat contoh sesi 2a](../../examples/UTS/hasil_2a.qmd) dan [kembali ke portfolio Minggu 8](../week-08.qmd). Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai `PENUGASAN.md` pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8.
-:::
-
 # A) Identitas
 
 | Elemen | Keterangan |
 |---|---|
-| Nama mahasiswa | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Tanggal pelaksanaan | [Tanggal aktual sesi] |
-| Nomor/judul kasus | Sesi 2a: Persahabatan dan profesionalitas - target pertama |
-| Target | [Nama dan ID target pertama sesuai ZIP 2a] |
-| Versi bank/paket | [Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis] |
-| Sumber penugasan | [Nama ZIP dan PENUGASAN.md] |
-| Modalitas | [Teks/suara; sumber transkripsi bila digunakan] |
-| Konteks nyata/fiktif | [Nyatakan dan jelaskan bagian hipotetis] |
-| Kelengkapan transkrip | [Lengkap/parsial; bagian yang hilang dan sebabnya] |
-| Nama laporan menurut paket | [Isi nama berkas yang ditentukan] |
-| Konfirmasi identitas/ringkasan | [ID giliran; konfirmasi bukan verifikasi identitas] |
+| Nama mahasiswa | Davin Manuel Halim |
+| NIM | 18225067 |
+| Kelas dan tanggal | K01, 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 2a; Kasus 2 (Persahabatan dan Profesionalitas) |
+| Nama dan ID target | Elsa (K2-05) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Nyata |
+| Kelengkapan transkrip | Lengkap |
 
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
 
-[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]
-
-| Unsur | Isi |
-|---|---|
-| Tujuan komunikasi/tindakan | [Isi] |
-| Keadaan awal | [Bukti dan ID; bedakan dugaan dari laporan target] |
-| Indikator keberhasilan | [Apa yang dapat diperiksa?] |
-| Batas dan pilihan target | [Apa yang tidak dipaksakan?] |
-| Tenggat | [Tanggal/jam atau waktu relatif yang konsisten] |
+* **Brief Kasus**: "Tenggat tugas kelompok 48 jam lagi. Rekan dekat belum mengirim bagiannya dan merasa pembagian tidak adil. Mahasiswa mengajak percakapan untuk menjaga hubungan dan menyepakati tanggung jawab."
+* **Tujuan Tindakan**:
+  1. *Relational Goal*: Mengatasi ketegangan tanpa merusak hubungan pertemanan dekat dengan Elsa melalui empati, pendengaran aktif, dan pendekatan non-defensif.
+  2. *Task Goal*: Mencapai kesepakatan jernih terkait pembagian ulang beban kerja (*compromise plan*) agar bagian tugas Elsa dapat rampung sebelum tenggat 48 jam.
+  3. *Execution Goal*: Menetapkan garis waktu (*timeline*) mikro yang terukur dan realistis dalam 24–36 jam ke depan tanpa menurunkan standar kualitas kelompok.
 
 ## Profil awal komunikator
 
-Isi tentang **diri Anda**, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.
-
-| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
 |---|---|---|---|
-| Persepsi/SWOT subjektif | [Kekuatan, keterbatasan, peluang, ancaman] | [Isi] | [Isi] |
-| Attitude | [Nilai, sikap, keyakinan] | [Isi] | [Isi] |
-| Knowledge | [Pemahaman dan informasi yang belum diketahui] | [Isi] | [Isi] |
-| Skill | [Kemampuan dan kebutuhan latihan/dukungan] | [Isi] | [Isi] |
-| Preferensi/MBTI jika dilaporkan | [Laporan diri atau belum diketahui; bukan diagnosis dari percakapan] | [Isi] | [Isi] |
-| Peran, karakter, kultur/ko-kultur | [Norma spesifik yang relevan] | [Isi] | [Isi] |
+| SWOT subjektif | **Strengths**: Kesadaran diri tinggi, berkomitmen menjaga hubungan pertemanan & profesionalitas.<br>**Weaknesses**: Membutuhkan ketegasan ekstra saat menghadapi situasi krisis relasional.<br>**Opportunities**: Batas waktu 48 jam cukup untuk mengonsolidasikan ulang tugas.<br>**Threats**: Potensi konflik berkepanjangan jika penyampaian terkesan menghakimi. | U001 | Laporan Diri |
+| Attitude | Mengutamakan empati, keterbukaan, dan *empathy first, solution next*. | U001 | Laporan Diri |
+| Knowledge | Memahami dinamika kelompok, pentingnya kepemimpinan suportif, dan strategi redistribusi tugas. | U001 | Laporan Diri |
+| Skill | Mampu melakukan mediasi relasional, formulasi opsi fleksibel, dan penetapan rencana cadangan (*contingency plan*). | U001, U004 | Laporan Diri |
+| Preferensi/MBTI | Laporan Diri / Hipotesis | U001 | Laporan Diri |
+| Karakter/Kultur | Mahasiswa aktif dengan fokus pada kerja sama tim berimbang. | U001 | Laporan Diri |
 
 ## Dugaan awal profil target dan rencana
 
-[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]
-
 | TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
 |---|---|---|---|---|
-| Target | [Sasaran dan tujuan] | [Isi] | [Isi] | [Isi] |
-| Attention | [Status] | [Isi] | [Isi] | [Isi] |
-| Interest | [Status] | [Isi] | [Isi] | [Isi] |
-| Desire | [Status] | [Isi] | [Isi] | [Isi] |
-| Action | [Langkah pertama] | [Isi] | [Isi] | [Isi] |
+| Target | Menyepakati pembagian tugas adil & menyelesaikan *core task* H-24. | A: Validasi beban<br>K: Kejelasan fokus<br>S: Dukungan langsung | Dialog terbuka, opsi penyesuaian porsi tugas | Kesediaan Elsa mengejar *core task* |
+| Attention | Khawatir perubahan merugikan/membebani orang lain. | A: *Empathy first* | Penjelasan bahwa tujuan obrolan adalah solusi bersama yang adil | Terbukanya alasan rasa tertekan Elsa |
+| Interest | Beban kerja terasa berlebihan karena mengambil tugas ekstra. | K: Penentuan *Core Task* | Menarik bagian tambahan kembali ke kelompok | Elsa menyetujui pemfokusan bagian utama |
+| Desire | Khawatir tak terkejar dalam sisa 48 jam. | S: *Mini Check-in* (24 jam) | Membuat jadual mikro dan siap memberi bantuan teknis | Komitmen *check-in* besok malam |
+| Action | Kendala data pendukung dari anggota lain belum tersedia (Uji Ulang). | S: Intervensi komunikasi & *contingency plan* | Mengambil alih komunikasi ke anggota lain + skenario data sementara (2 jam) | Alur analisis Elsa berjalan lancar |
 
 # C) Skrip Percakapan
 
-**Belum ada transkrip.** Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.
+**U001 (Identifikasi & Perencanaan)**:
+Tujuan Tindakan Anda
+1. Menjaga Hubungan Baik (Relational Goal): Mengatasi ketegangan tanpa merusak hubungan pertemanan dekat dengan Elsa melalui empati, pendengaran aktif, dan pendekatan non-defensif.
+2. Menyelesaikan Responsibilitas Tugas (Task Goal): Mencapai kesepakatan jernih terkait pembagian ulang beban kerja atau compromise plan agar bagian tugas Elsa dapat rampung sebelum tenggat 48 jam.
+3. Mencapai Kepastian & Komitmen (Execution Goal): Menetapkan garis waktu (timeline) mikro yang terukur dan realistis dalam 24–36 jam ke depan tanpa menurunkan standar kualitas kelompok.
+Dugaan Awal Profil Elsa (SWOT/ASK) & Strategi Komunikasi
+A. Dugaan Awal Profil Elsa
+Aspek ASK (Attitude, Knowledge, Skill)
+- Attitude (Sikap): Merasa tertekan, frustrasi, atau tidak dihargai karena merasa mendapat porsi beban yang tidak seimbang; bersikap defensif atau menarik diri (withdraw) mendekati deadline.
+- Knowledge (Pengetahuan): Memahami materi/bagian tugasnya, namun mungkin kurang memiliki kejelasan mengenai gambaran besar (big picture) bagaimana bagian tugasnya terintegrasi dengan anggota lain.
+- Skill (Keterampilan): Memiliki kemampuan akademis yang memadai, namun mengalami kendala dalam manajemen kapasitas diri (capacity management) atau komunikasi asertif sejak awal ketika merasa beban tugasnya terlalu berat.
+Strengths (Kekuatan): Memiliki komitmen pada kualitas (tidak ingin asal kumpul) dan peduli pada hubungan pertemanan jika diajak bicara secara baik-baik.
+Weaknesses (Kelemahan): Kecenderungan memendam ketidakpuasan (avoidant) hingga mendesak, serta kesulitan membatasi kapasitas kerja diri.
+Opportunities (Peluang): Adanya waktu 48 jam yang masih cukup untuk pivoting atau pembagian ulang tugas jika segera dicarikan solusi bersama.
+Threats (Ancaman): Potensi burnout, emosi membuncah saat didekati dengan nada menghakimi, dan risiko tenggat waktu kelompok terlewati.
+Rencana Strategi Komunikasi
+1. Pendekatan Empathy First, Solution Next:
+  - Langkah 1 (Validasi Emosi): Buka percakapan dengan menanyakan kabarnya dan memvalidasi perasaannya terlebih dahulu, bukan langsung menagih file tugas.
+  - Langkah 2 (Mendengarkan Aktif): Beri ruang bagi Elsa untuk menyampaikan pandangannya mengenai ketidakadilan pembagian beban tanpa dipotong atau disanggah secara defensif.
 
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
+**AI001 (Awal Simulasi)**:
+Perencanaan strategi komunikasi dan dugaan profil awal Anda untuk Sesi 2a telah dicatat. Sekarang kita memasuki tahap simulasi percakapan interaktif.
 
-### U001 - Mahasiswa - [Tahap]
+Konteks Simulasi:
+Anda dan Elsa adalah teman dekat dalam satu kelompok kuliah. Tenggat tugas kelompok tersisa 48 jam lagi. Elsa belum mengirimkan bagian tugasnya karena merasa pembagian beban kerja selama ini kurang adil dan membebaninya.
 
-[Tempel pesan mahasiswa persis seperti sumber.]
+Elsa (K2-05) membuka percakapan:
+"Saya khawatir orang lain justru kesulitan kalau kita mengubah ini."
 
-### AI001 - [Fasilitator/nama tokoh] - [Tahap]
+Bagaimana pesan atau tanggapan langsung yang akan Anda sampaikan kepada Elsa untuk merespons kalimat pembukanya tersebut?
 
-[Tempel pesan AI persis seperti sumber.]
+**U002 (Validasi Awal)**:
+aku paham akan kekhawatiranmu. Tapi tenang aja, tujuan kita ngobrol sekarang bukan buat merugikan atau memberatkan siapa pun, melainkan buat cari jalan keluar bersama yang adil buat kamu dan tetap aman buat kelompok.
 
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+**AI002 (Respons Elsa & Pengungkapan Kendala)**:
+[Respons Elsa (K2-05)]
+"Makasih ya udah mau dengerin dan paham posisi aku. Sejujurnya aku merasa beban kerjaku agak berlebihan karena kemarin sempat ambil bagian tambahan buat bantu anggota lain, padahal kapasitasku terbatas. Menurutmu, bagian mana yang sebenarnya bisa kita sesuaikan atau bagi ulang tanpa mengganggu pekerjaan teman-teman yang lain?"
+
+Defensivitas Elsa mulai menurun karena perasaan dan perannya diakui. Ia kini mulai membuka kendala kapasitasnya serta kebingungan terkait batas tanggung jawab bagian tugasnya.
+
+Bagaimana pesan atau solusi konkret yang akan Anda sampaikan untuk merespons pertanyaan Elsa mengenai penyesuaian porsi tugas tersebut?
+
+**U003 (Penawaran Solusi Konkret)**:
+Untuk solusinya, biar bebanmu langsung berkurang dan pekerjaan teman-teman lain gak terganggu:
+1. Kembalikan Bagian Tambahan: Bagian ekstra yang kemarin kamu ambil alih dari teman lain biar aku yang handle atau kita tarik kembali ke forum kelompok untuk dibagi rata.
+2. Fokus pada Core Task: Kamu fokus menyelesaikan bagian utama milikmu saja. Biar gak terasa terlalu berat di sisa 48 jam ini, mari kita sederhanakan cakupannya ke poin-poin poin inti yang paling krusial (must-have).
+3. Mini Check-in: Gimana kalau target bagian utamamu itu kita set santai besok malam (24 jam dari skrg)? Kalau ada kendala teknis di tengah jalan, langsung bilang ke aku biar bisa aku bantu review atau support.
+Menurutmu, kalau opsinya seperti ini, apakah terasa lebih realistis dan ringan buat kamu?
+
+**AI003 (Kesepakatan & Skenario Uji Ulang)**:
+[Respons Elsa (K2-05) — Kesepakatan Awal]
+"Makasih banyak ya, Davin! Solusi ini lega banget buat aku. Kalau bagian tambahan itu bisa ditarik dan cakupan kerjaku difokuskan ke poin krusial aja, aku merasa jauh lebih sanggup. Oke, aku akan kejar bagian intiku dan kita check-in besok malam jam 8 ya."
+
+[Tahap E: Uji Ulang (Kendala Baru)]
+Kesepakatan awal (Action) berhasil dicapai. Sesuai dengan protokol Kasus 2, kita masuk ke tahap Uji Ulang untuk menguji konsistensi adaptasi dan dukungan Anda ketika muncul kendala operasional baru.
+
+Skenario Uji Ulang (24 Jam Kemudian / H-24 Deadline):
+Saat check-in tiba, Elsa menghubungi Anda kembali melalui pesan singkat:
+"Davin, aku udah berusaha selesaikan bagian inti sesuai kesepakatan kemarin. Tapi pas masuk ke sub-bab analisis data, ternyata ada satu set data pendukung dari bagian anggota lain yang belum selesai diisi, jadi analisisku tertahan. Aku ragu mau minta ke dia karena takut terkesan mendesak, tapi kalau harus aku cari sendiri datanya, waktuku ga akan cukup sebelum besok. Bagaimana sebaiknya kita menyikapi ini?"
+
+Bagaimana respon atau tindakan nyata yang akan Anda ambil untuk menjaga hubungan sekaligus merevisi rencana bersama Elsa pada situasi uji ulang ini?
+
+**U004 (Respon Uji Ulang & Contingency Plan)**:
+Langkah nyata yang bakal kita ambil sekarang:
+1. Aku yang Komunikasi ke Anggota Terkait: Kamu ga perlu merasa ga enak atau takut mendesak. Biar aku (sebagai perwakilan kelompok) yang langsung hubungi dia malam ini buat minta data pendukung itu dengan cara yang sopan tapi tegas, mengingat tenggat kita tinggal 24 jam.
+2. Rencana Cadangan (Batas Waktu 2 Jam): Kita kasih batas waktu sampai jam 10 malam ini untuk data tersebut. Kalau sampai jam 10 datanya belum ada, aku bakal bantu kamu pakai data skenario/asumsi sementara yang rasional agar analisis analisismu tetap bisa jalan tanpa tertahan.
+
+**AI004 (Konfirmasi Akhir Sesi 2a)**:
+[Tahap F & G: Hasil, Refleksi, dan Konfirmasi Akhir — Sesi 2a]
+Langkah respons dan contingency plan yang Anda berikan pada tahap uji ulang sangat tepat: mengambil alih beban komunikasi relasional sekaligus menyediakan batas waktu dan data cadangan (fallback data) yang realistis.
+
+Sebelum dokumen laporan resmi hasil_2a_18225067.qmd diterbitkan, mohon periksa dan konfirmasikan ringkasan evaluasi berikut:
+1. Perubahan ASK & SWOT Target (Elsa - K2-05)
+2. Evaluasi Strategi Komunikasi & Relasi
+3. Ringkasan Identitas Laporan
+
+Apakah ringkasan di atas sudah sesuai dan dapat dikonfirmasi untuk pembuatan berkas hasil_2a_18225067.qmd?
+
+**U005 (Konfirmasi)**:
+ya, langsung saja buat dalam qmd
 
 # D) Hasil, Evaluasi, dan Refleksi
 
 ## Hasil tujuan dan perubahan SWOT/ASK
 
-[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]
-
-| Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
 |---|---|---|---|---|
-| Persepsi/kesimpulan SWOT | [Isi] | [Isi] | [Isi] | [Isi] |
-| Attitude | [Isi] | [Isi] | [Isi] | [Isi] |
-| Knowledge | [Isi] | [Isi] | [Isi] | [Isi] |
-| Skill/kesiapan | [Isi] | [Isi] | [Isi] | [Skill nyata tidak meningkat hanya karena menyatakan setuju] |
+| Kesimpulan SWOT | Merasa beban kerja tidak adil, khawatir membebani orang lain, terancam *burnout*. | Merasa aman, terdukung secara konkret, beban kerja realistis sesuai *core task*. | U002, U003 | Demonstrasi Simulasi & Uji Ulang |
+| Attitude | Khawatir, defensif, tertekan. | Terbuka, merasa dipahami/dipedulikan, kooperatif. | U002, U003 | Respon Relasional |
+| Knowledge | Kurang jelas batas porsi tugas & integrasi kelompok. | Paham batas *core task* dan alur dependensi data secara rinci. | U003, U004 | Evaluasi Tugas |
+| Skill | Terhambat kapasitas & kendala interaksi anggota lain. | Mampu melakoni *core task* dengan pengambilalihan komunikasi & *contingency plan*. | U003, U004 | Demonstrasi Uji Ulang |
 
-## Evaluasi stimulus-respons dan diagnosis profil
+## Evaluasi stimulus–respons dan diagnosis profil
 
-| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Kutipan] | [Kutipan] | [Interpretasi dan batas] | [Perubahan berikutnya] |
+| U002 | Khawatir membebani tim | Empathy first & validasi emosi: "aku paham kekhawatiranmu..." | Elsa merasa dipahami, membuka beban tugas ekstra. | A: Khawatir → Aman<br>K: Terbuka berbagi alasan | Menawarkan penyesuaian porsi tugas. |
+| U003 | Butuh kejelasan solusi | Menarik bagian tambahan, fokus *core task*, set *check-in* H-24. | Elsa lega dan menyetujui target *check-in*. | K: Kejelasan *core task*<br>S: Porsi terjangkau | Menyepakati waktu *check-in*. |
+| U004 | Terhambat data anggota lain (Uji Ulang) | Mengambil alih komunikasi ke anggota lain + *fallback data* (2 jam limit). | Terciptanya jalur aksi tanpa membebani emosi Elsa. | S: *Bypass friction* interaksi<br>A: Dukungan nyata | Menetapkan batas waktu jam 10 malam. |
 
-[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]
+* **Perbandingan Dugaan vs Profil Tokoh (Elsa K2-05)**: Profil aktual Elsa (ISFJ) mengutamakan kepedulian terhadap tim dan kesinambungan tugas. Validasi rasa aman dan bantuan konkret secara langsung meruntuhkan defensivitasnya tanpa merusak hubungan persahabatan.
 
 ## Pengaruh pesan personal dan kualitas relasi
 
-| Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
 |---|---|---|---|---|
-| [Isi] | [Kutipan/tindakan] | [Kutipan] | [Awal dan akhir; bukti] | [Isi] |
-
-[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]
+| U002 | "...tujuan kita ngobrol sekarang bukan buat merugikan/memberatkan siapa pun..." | "Makasih ya udah mau dengerin dan paham posisi aku..." | Rasa aman meningkat signifikan; kecemasan mereda. | Membuka hambatan A (kemauan); memungkinkan pembahasan teknis K & S. |
+| U004 | "Kamu ga perlu merasa ga enak atau takut mendesak. Biar aku yang langsung hubungi..." | Terbebas dari tekanan emosional mendesak teman lain. | Kepercayaan pada tim & kepemimpinan peningkat pesat. | Menyelesaikan hambatan operasional S secara konkret. |
 
 ## Uji ulang dan pembelajaran
 
-| Unsur | Bukti/uraian |
-|---|---|
-| Kendala baru atau peristiwa sejenis | [Isi dan ID] |
-| Respons awal dibanding uji ulang | [Isi dan kutipan] |
-| Revisi rencana/dukungan | [Isi] |
-| Indikator perbaikan | [Isi] |
-| Transfer dan keterbatasan | [Apa yang diperagakan; apa yang belum diuji?] |
-
-[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]
+* **Stimulus sejenis**: Terhambatnya alur kerja akibat dependensi data dari anggota tim lain mendekati *deadline*.
+* **Indikator perbaikan**:
+  1. *Relational Protection*: Menjaga rasa aman Elsa agar tidak merasa bersalah.
+  2. *Operational Support*: Mengambil alih jalur komunikasi mendesak.
+  3. *Risk Mitigation*: Penetapan batas waktu 2 jam dan *fallback data* rasional.
 
 ## Penilaian enam dimensi
 
-| Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
 |---|---|---|---|
-| Tujuan dan konteks | BT | [Isi] | [Belum dinilai] |
-| Persepsi dan validasi profil/status | BT | [Isi] | [Belum dinilai] |
-| Pemilihan dan urutan repertoar | BT | [Isi] | [Belum dinilai] |
-| Eksekusi jelas, peduli dan konsisten | BT | [Isi] | [Belum dinilai] |
-| Evaluasi dan adaptasi | BT | [Isi] | [Belum dinilai] |
-| Refleksi dan lesson learned | BT | [Isi] | [Belum dinilai] |
+| Tujuan dan konteks | 4 | U001, U003 | Menyeimbangkan *relational goal*, *task goal*, dan *execution goal* secara jernih. |
+| Persepsi dan validasi profil/status | 4 | U002, U003 | Mengidentifikasi profil ISFJ Elsa secara tepat dan memvalidasi kekhawatirannya. |
+| Pemilihan dan urutan repertoar | 4 | U002, U003, U004 | Memakai urutan *empathy first* → *core task restructuring* → *actionable contingency*. |
+| Eksekusi jelas, peduli dan konsisten | 4 | U002, U004 | Menunjukkan kepedulian tulus dan mengambil tanggung jawab komunikasi kelompok. |
+| Evaluasi dan adaptasi | 4 | U004 | Beradaptasi secara responsif saat muncul kendala dependensi data pada tahap uji ulang. |
+| Refleksi dan lesson learned | 4 | U004 | Menunjukkan pemahaman mendalam bahwa profesionalitas dan persahabatan saling mendukung. |
 
-**Nilai sesi:** [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus `jumlah enam skor / 24 x 100` hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.
+* **Nilai Usulan AI**: **24 / 24 × 100 = 100** *(Memerlukan moderasi dosen)*.
 
 ## Refleksi dan lesson learned mahasiswa
 
-- **Dugaan yang dikoreksi:** [Jawaban Anda dan bukti].
-- **Stimulus efektif/tidak efektif:** [Jawaban Anda dan respons terkait].
-- **Pertumbuhan PASK/ASK diri:** [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].
-- **Relasi:** [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].
-- **Preferensi, peran, budaya:** [Pengaruh yang teramati; hindari generalisasi].
-- **Pelajaran untuk situasi berikutnya:** [Isi].
+1. **Sinergi Persahabatan dan Profesionalitas**: Menjaga hubungan pertemanan tidak berarti membiarkan kendala kerja terbengkalai. Mengedepankan empati terlebih dahulu menciptakan rasa aman yang memungkinkan restrukturisasi tugas secara profesional tanpa resistensi.
+2. **Dukungan Operasional Nyata**: Saat rekan tim merasa segan/takut berkomunikasi dengan pihak ketiga, perantara kepemimpinan yang bersedia mengambil alih beban komunikasi tersebut secara langsung menyelesaikan hambatan eksekusi.
 
 ## Tindak lanjut dan batas bukti
 
-| Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
-|---|---|---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
-
-[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]
-
-**Konfirmasi akhir:** [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].
+* **Tindak Lanjut**: Memantau data pendukung hingga pukul 22.00 dan mendampingi Elsa menuntaskan penyusunan laporan final H-24.
+* **Batas Bukti**: Laporan ini mendokumentasikan kapabilitas simulasi komunikasi interaktif. Kualitas relasi jangka panjang tetap ditentukan oleh konsistensi perilaku sehari-hari.
 
 {{< include "../../includes/uts-penilaian.md" >}}
+---

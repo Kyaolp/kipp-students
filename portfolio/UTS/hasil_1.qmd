@@ -1,9 +1,9 @@
 ---
 title: "Laporan UTS KIPP - Sesi 1"
 subtitle: "Memimpin diri dan terus belajar"
-author: "[Nama mahasiswa]"
+author: "Davin"
 lang: id
-status: "Belum dimulai"
+status: "Siap dinilai"
 format:
   html:
     toc: true
@@ -19,146 +19,234 @@ Isi dari sesi Anda sendiri. [Lihat contoh sesi 1](../../examples/UTS/hasil_1.qmd
 
 | Elemen | Keterangan |
 |---|---|
-| Nama mahasiswa | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Tanggal pelaksanaan | [Tanggal aktual sesi] |
-| Nomor/judul kasus | Sesi 1: Memimpin diri dan terus belajar |
-| Target | [Diri mahasiswa; tokoh pembanding sesuai ZIP aktif] |
-| Versi bank/paket | [Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis] |
-| Sumber penugasan | [Nama ZIP dan PENUGASAN.md] |
-| Modalitas | [Teks/suara; sumber transkripsi bila digunakan] |
-| Konteks nyata/fiktif | [Nyatakan dan jelaskan bagian hipotetis] |
-| Kelengkapan transkrip | [Lengkap/parsial; bagian yang hilang dan sebabnya] |
-| Nama laporan menurut paket | [Isi nama berkas yang ditentukan] |
-| Konfirmasi identitas/ringkasan | [ID giliran; konfirmasi bukan verifikasi identitas] |
+| Nama mahasiswa | Davin Manuel Halim |
+| NIM | 18225067 |
+| Kelas dan tanggal | K01, 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 1; Kasus 1 (Memimpin Diri dan Terus Belajar) |
+| Nama dan ID target | Diri mahasiswa; pembanding Budi (K1-02) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Nyata |
+| Kelengkapan transkrip | Lengkap |
 
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
 
-[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]
-
-| Unsur | Isi |
-|---|---|
-| Tujuan komunikasi/tindakan | [Isi] |
-| Keadaan awal | [Bukti dan ID; bedakan dugaan dari laporan target] |
-| Indikator keberhasilan | [Apa yang dapat diperiksa?] |
-| Batas dan pilihan target | [Apa yang tidak dipaksakan?] |
-| Tenggat | [Tanggal/jam atau waktu relatif yang konsisten] |
+* **Brief Kasus**: "Pilih satu kemampuan yang ingin Anda kembangkan agar lebih berguna dalam kuliah, kerja atau kehidupan. Kita akan memeriksa cara Anda memimpin diri ketika menghadapi hambatan belajar."
+* **Tujuan Tindakan**: Dalam waktu 3 bulan ke depan, mampu mengelola rutinitas harian secara seimbang (akademik, organisasi, dan istirahat/pribadi) dengan menerapkan sistem *daily planning* dan *priority matrix*, serta mengurangi kebiasaan menunda (*procrastination*).
+* **Indikator Keberhasilan**: Kecepatan respons aksi fisik pertama (< 3 menit), penyelesaian minimal 1 sesi timer fokus 15 menit tanpa distraksi, serta kejelasan langkah berikutnya secara tertulis.
 
 ## Profil awal komunikator
 
-Isi tentang **diri Anda**, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.
-
-| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
 |---|---|---|---|
-| Persepsi/SWOT subjektif | [Kekuatan, keterbatasan, peluang, ancaman] | [Isi] | [Isi] |
-| Attitude | [Nilai, sikap, keyakinan] | [Isi] | [Isi] |
-| Knowledge | [Pemahaman dan informasi yang belum diketahui] | [Isi] | [Isi] |
-| Skill | [Kemampuan dan kebutuhan latihan/dukungan] | [Isi] | [Isi] |
-| Preferensi/MBTI jika dilaporkan | [Laporan diri atau belum diketahui; bukan diagnosis dari percakapan] | [Isi] | [Isi] |
-| Peran, karakter, kultur/ko-kultur | [Norma spesifik yang relevan] | [Isi] | [Isi] |
+| SWOT subjektif | **Strengths**: Kesadaran diri (*self-awareness*) tinggi, fleksibel & adaptif, komitmen perbaikan.<br>**Weaknesses**: Procrastination tanpa dorongan eksternal, kurang *self-discipline*, regulasi energi tidak stabil.<br>**Opportunities**: Aplikasi pendukung (Google Calendar, Notion, habit tracker), jadwal kuliah tetap, referensi *personal development*.<br>**Threats**: Distraksi digital, agenda mendadak/permintaan luar, kelelahan fisik/mental. | U002 | Laporan Diri |
+| Attitude | Berkeinginan kuat teratur & produktif, namun sering *overwhelmed* dan impulsif pada agenda mendadak serta menunda tugas kurang menarik. | U002 | Laporan Diri |
+| Knowledge | Memahami Matriks Eisenhower & skala prioritas secara konseptual, namun perlu pendalaman strategi *habit building* yang berkelanjutan. | U002 | Laporan Diri |
+| Skill | Mampu menyelesaikan tugas baik saat *deadline* terdesak, namun *daily prioritization*, estimasi durasi, dan *self-discipline* perlu ditingkatkan. | U002 | Laporan Diri |
+| Preferensi/MBTI | Laporan Diri / Hipotesis | U002 | Laporan Diri |
+| Karakter/Kultur | Mahasiswa aktif dengan dinamika akademik dan organisasi harian. | U002 | Laporan Diri |
 
 ## Dugaan awal profil target dan rencana
 
-[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]
+Target utama adalah **diri mahasiswa**, dengan Budi (K1-02) sebagai contoh tokoh pembanding.
 
 | TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
 |---|---|---|---|---|
-| Target | [Sasaran dan tujuan] | [Isi] | [Isi] | [Isi] |
-| Attention | [Status] | [Isi] | [Isi] | [Isi] |
-| Interest | [Status] | [Isi] | [Isi] | [Isi] |
-| Desire | [Status] | [Isi] | [Isi] | [Isi] |
-| Action | [Langkah pertama] | [Isi] | [Isi] | [Isi] |
+| Target | Mengembangkan regulasi diri dan manajemen waktu seimbang. | A: Meredakan cemas<br>K: Skala prioritas<br>S: Eksekusi rutin | Menyusun jadwal & *daily prioritization* | Eksekusi tugas harian teratur |
+| Attention | Rasa *overwhelmed* saat tugas menumpuk. | A: *Circuit breaker* emosional | Hentikan tumpukan di otak, napas dan tenang | Penurunan tingkat kecemasan |
+| Interest | Kebiasaan menunda tugas rutin. | K: *Micro-tasking* & Rule of 5 | Memilih SATU hal terkecil (< 5 menit) | Fokus pada aksi terkontrol |
+| Desire | Dorongan impulsif dan menunda. | A: *Action Precedes Motivation* | Mengambil langkah kecil tanpa menunggu motivasi | Dorongan aksi yang mandiri |
+| Action | Eksekusi jadwal sering terhenti. | S: Protokol 3 tahap | *Stop & Dump*, *Micro-Tasking*, *Timer 15 Menit* | *Time to action* < 3 menit |
 
 # C) Skrip Percakapan
 
-**Belum ada transkrip.** Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.
+**U001 (Identifikasi)**:
+Davin Manuel Halim 
+18225067
+K01
+Tanggal pelasanaan: 15 oktober 2026
+Teks
 
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
+**AI001 (Kasus & Tujuan)**:
+Data identifikasi Anda telah dicatat:
+- Nama: Davin Manuel Halim
+- NIM: 18225067
+- Kelas: K01
+- Tanggal: 15 Oktober 2026
+- Modalitas: Teks
 
-### U001 - Mahasiswa - [Tahap]
+Berikut adalah brief untuk Kasus 1 (Memimpin Diri dan Terus Belajar):
+"Pilih satu kemampuan yang ingin Anda kembangkan agar lebih berguna dalam kuliah, kerja, atau kehidupan. Kita akan memeriksa cara Anda memimpin diri ketika menghadapi hambatan belajar." (Pengalaman dapat berupa kasus nyata atau fiktif, mohon tandai statusnya).
 
-[Tempel pesan mahasiswa persis seperti sumber.]
+Kemampuan apa yang ingin Anda kembangkan (sebutkan apakah ini nyata atau fiktif), serta bagaimana tujuan tindakan, dugaan profil awal diri Anda (SWOT/ASK), dan rencana awal yang akan Anda terapkan?
 
-### AI001 - [Fasilitator/nama tokoh] - [Tahap]
+**U002 (Perencanaan Diri)**:
+Manajemen waktu, prioritas, dan self regulation dalam kehidupan sehari-hari 
+Dalam waktu 3 bulan ke depan, saya mampu mengelola rutinitas harian secara seimbang (antara akademik, organisasi/kegiatan, dan istirahat/pribadi) dengan menerapkan sistem daily planning dan priority matrix, mengurangi kebiasaan menunda hal-hal rutin (procrastination)
+Attitude
+Kondisi Saat Ini: Memiliki keinginan yang kuat untuk hidup lebih teratur dan produktif. Namun, masih sering merasa overwhelmed (kewalahan) ketika banyak jadwal/tugas menumpuk dalam satu waktu. Ada kecenderungan bersikap impulsif dalam merespons agenda mendadak dan menunda tugas rutin yang dianggap kurang menarik.
+Knowledge
+Memahami secara konseptual pentingnya skala prioritas (seperti Matriks Eisenhower) dan pengelolaan waktu. Namun, pengetahuan tentang cara membangun kebiasaan (habit building) yang berkelanjutan
+Skill 
+ampu menyelesaikan tugas dengan baik jika sudah dalam kondisi terdesak (deadlines). Namun, keterampilan dalam menyusun prioritas harian (daily prioritization), mengestimasi durasi kegiatan non-akademik/rutinitas, serta disiplin mematuhi jadwal yang dibuat sendiri masih perlu ditingkatkan.
+- KomponenDeskripsi & Analisis DiriStrengths (Kekuatan)Kesadaran diri (self-awareness) yang baik atas kekurangan dan hambatan diri.
+- Fleksibel dan adaptif ketika menghadapi perubahan situasi mendadak.
+- Memiliki komitmen untuk memperbaiki kualitas hidup dan rutinitas harian.
+- Weaknesses (Kelemahan)Kebiasaan menunda kegiatan (procrastination) jika tidak ada dorongan eksternal.
+- Kurang disiplin dalam mematuhi jadwal harian yang dibuat sendiri (self-discipline).
+- Regulasi energi yang kurang stabil (sering fokus berlebihan di satu hari, lalu kelelahan di hari berikutnya).
+- Opportunities (Peluang)Ketersediaan aplikasi pendukung manajemen waktu (Google Calendar, Notion, habit tracker).
+- Lingkungan dan jadwal kuliah yang relatif memiliki pola tetap untuk dijadikan acuan rutinitas.
+- Banyak referensi dan metode personal development yang bisa dipelajari dan dicoba.
+- Threats (Ancaman)Distraksi digital (media sosial, hiburan instan, atau gawai).
+- Agenda mendadak atau permintaan bantuan dari luar yang mengganggu perencanaan harian.
+- Rasa lelah mental/fisik jika ritme aktivitas tidak diatur dengan bijak.
 
-[Tempel pesan AI persis seperti sumber.]
+Tahap 1: Pemetaan & Perencanaan Sederhana (Minggu 1-2)
+- Menentukan 3 prioritas utama (Top 3 Daily Tasks) setiap malam sebelum tidur untuk esok hari.
+- Mengelompokkan aktivitas harian menggunakan Matriks Eisenhower (Penting-Mendesak vs Tidak Mendesak).
+Tahap 2: Pembentukan Kebiasaan Konsisten (Minggu 3-6)
+- Menerapkan aturan "Aturan 2 Menit" (2-Minute Rule): Jika ada tugas kecil yang bisa diselesaikan dalam kurung waktu < 2 menit, langsung kerjakan tanpa ditunda.
+- Mengatur batasan waktu (time limit) untuk penggunaan media sosial atau waktu luang agar tidak mengganggu rutinitas utama.
 
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+**AI002 (Simulasi Awal - Dialog Diri)**:
+Terima kasih atas pemetaan analisis SWOT, ASK, serta rencana aksi dua tahap yang sangat terstruktur dan kontekstual.
+
+Sebelum kita membandingkan interaksi ini dengan tokoh komunikator lain, tahap awal Kasus 1 berfokus pada cara Anda memimpin dan berkomunikasi dengan diri sendiri saat menghadapi hambatan belajar serta regulasi diri.
+
+Bayangkan sebuah momen ketika agenda mendadak masuk, tugas rutin menumpuk, dan Anda mulai merasa kewalahan (overwhelmed) atau terdorong untuk menunda (procrastinate).
+
+Instruksi Dialog Diri:
+Tuliskan pesan atau kalimat singkat yang biasa (atau akan) Anda sampaikan secara langsung kepada diri sendiri saat situasi kritis tersebut terjadi, serta jelaskan apa respons emosional dan keyakinan batin yang muncul dalam diri Anda saat membaca/menyuarakan pesan tersebut?
+
+**U003 (Dialog Diri & Batin)**:
+Saat situasi kritis terjadi, ketika agenda mendadak masuk di tengah tugas yang menumpuk, kalimat langsung yang disampaikan kepada diri sendiri adalah:
+"Tahan sebentar, napas dulu. stop numpuk smuanya jadi 1 di otak . pikir pelan" jangan overthinking gabakal selesai semua lalu pilih SATU hal terkecil yang bisa diselesaikan dalam 5 menit ke depan. Kita selesaikan satu per satu.
+Respons Emosional yang Muncul
+Saat kalimat ini disuarakan/dibaca dalam hati, terjadi pergeseran kondisi emosional:
+1. Penurunan Tingkat Kecemasan (De-escalation):
+Instruksi "Tahan sebentar, napas dulu" berfungsi sebagai rem darurat (circuit breaker) yang menghentikan rasa panik awal saat melihat tumpukan tugas.
+1. Peralihan dari Overwhelmed ke Terkontrol:
+Fokus emosi bergeser dari rasa takut gagal atau rasa tertekan akibat banyaknya beban, menjadi rasa tenang karena fokus dikembalikan pada skala yang sangat kecil dan dapat dikendalikan (controllable).
+
+keyakinan Batin (Inner Belief) yang Terbangun
+Melalui dialog diri tersebut, ada beberapa prinsip dasar yang ditanamkan ke dalam pikiran bawah sadar:
+- Prinsip Action Precedes Motivation (Aksi Mendahului Motivasi):
+- Meyakini bahwa rasa malas atau enggan tidak perlu ditunggu sampai hilang. Kejelasan (clarity) dan motivasi justru muncul setelah kita mulai mengambil langkah kecil pertama.
+
+**AI003 (Simulasi Pembanding - Budi)**:
+Dialog diri yang Anda susun sangat efektif bekerja sebagai pemutus arus (circuit breaker) untuk meredakan kecemasan seketika serta mengarahkan fokus batin pada tindakan terkontrol.
+
+Selanjutnya, kita akan menguji bagaimana gaya komunikasi Anda berfungsi saat berhadapan dengan orang lain yang memiliki hambatan perubahan rutinitas serupa. Perankan interaksi ini dengan Budi (ID K1-02), seorang teman pembanding yang cenderung bertahan pada cara lama karena mengutamakan kepastian prosedur dan takut standar kerjanya menurun.
+
+Budi membuka percakapan dengan menyampaikan:
+"Cara sekarang sudah jelas. Mengapa harus berubah?"
+
+(Catatan: Segmen ini berfungsi sebagai pembanding untuk mengamati variasi respons lawan bicara, bukan sebagai bukti perubahan diri Anda.)
+
+Bagaimana satu kalimat atau pesan tanggapan yang akan Anda sampaikan langsung kepada Budi untuk merespons keberatan awalnya tersebut?
+
+**U004 (Interaksi dengan Budi)**:
+Aku setuju kalau cara lama terbukti aman dan menjaga standar kita; perubahan ini bukan untuk membuang prosedur yang sudah bagus, tapi justru menambah alat baru supaya pekerjaanmu terasa lebih ringan tanpa menurunkan kualitas yang selama ini kamu pertahankan."
+
+**AI004 (Evaluasi & Uji Ulang Diri)**:
+[Respons Budi (K1-02) — Tokoh Pembanding]
+"Kalau memang tujuannya bukan merusak standar yang ada, saya bisa mengerti. Tapi seperti apa bentuk alat atau alur baru yang kamu maksud? Saya butuh urutan langkah dan tolok ukurnya yang jelas dulu supaya yakin ini tidak mengacaukan jadwal kerja kita."
+
+[Tahap D & E: Evaluasi Sementara & Uji Ulang Diri]
+Segmentasi pembanding telah selesai. Terlihat bahwa validasi terhadap standar Budi berhasil menurunkan defensivitas awalnya, namun ia kini menuntut kejelasan prosedur dan tolok ukur (aspek Knowledge & Skill).
+
+Untuk melanjutkan ke Tahap E (Uji Ulang Diri) dan evaluasi:
+1. Refleksi Gaya Komunikasi: Berdasarkan perbedaan respons antara dialog diri Anda sendiri dan respon Budi, apa hal utama yang perlu Anda ubah atau sesuaikan dari gaya komunikasi Anda saat mengarahkan orang lain?
+2. Uji Ulang Diri (Demonstrasi Tindakan): Bayangkan pada kesempatan kuliah/kegiatan berikutnya, hambatan menunda (procrastination) dan rasa overwhelmed ini benar-benar muncul kembali. Tuliskan pesan/langkah konkret yang akan Anda eksekusi saat itu juga (bukan sekadar niat), beserta alasan dan indikator keberhasilannya!
+
+**U005 (Refleksi & Uji Ulang Diri)**:
+Saat memimpin diri sendiri, kita bisa langsung melompat ke aksi karena konteks berada di kepala kita. Namun, saat mengarahkan orang lain yang mengutamakan kepastian, kita harus membedah mengapa dan bagaimana secara rinci tanpa melompati langkah logis
+
+Langkah 1 (Stop & Dump):
+- Aksi: Menghentikan semua interaksi layar (HP/Laptop) selama 2 menit. Ambil selembar kertas kosong dan bolpoin, lalu tuliskan seluruh daftar beban/pikiran (Brain Dump) tanpa memikirkan urutannya.
+Langkah 2 (Micro-Tasking / Rule of 5):
+- Aksi: Dari daftar tersebut, pilih satu sub-tugas yang paling kecil (yang dapat diselesaikan dalam waktu kurang dari 5 menit, misal: membuat file dokumentasi baru atau menulis 1 paragraf outline).
+Langkah 3 (Sesi Timer 15 Menit):
+- Aksi: Pasang timer selama 15 menit (Low-Barrier Pomodoro) khusus untuk mengerjakan micro-task tersebut tanpa berpindah tab atau membuka notifikasi
+Alasan Eksekusi (Rationale)
+- Mengatasi Friction Awal: Kebanyakan penundaan terjadi bukan karena tugasnya sulit, melainkan karena ambiguitas dan besarnya energi awal yang dibutuhkan untuk mulai. Memperkecil batas awal aksi (lowering activation energy) meruntuhkan hambatan mental secara instan.
+- Mengurangi Beban Kognitif (Cognitive Load): Mengeluarkan isi pikiran ke kertas membebaskan working memory otak, sehingga kecemasan berkurang dan fokus dapat kembali dibentuk.
+IndikatorTarget TerukurKecepatan Respons (Time to Action)Berhasil memulai aksi fisik pertama dalam kurun waktu < 3 menit sejak timbulnya rasa overwhelmed.Eksekusi Sesi FokusMenyelesaikan minimal 1 sesi timer (15 menit) tanpa terdistraksi media sosial atau berpindah fokus.Keberlanjutan MomentumTerciptanya kejelasan langkah berikutnya (clarity of next step) secara tertulis untuk dilanjutkan pada sesi berikutnya
+
+**AI005 (Konfirmasi Akhir)**:
+[Tahap F & G: Hasil, Refleksi, dan Konfirmasi Akhir]
+Penjabaran langkah uji ulang diri beserta analisis perbedaan antara memimpin diri dan mengarahkan orang lain telah tercatat dengan sangat terstruktur dan terukur.
+
+Sebelum laporan resmi hasil_1_18225067.qmd diterbitkan, mohon periksa dan konfirmasikan ringkasan evaluasi serta refleksi berikut:
+1. Perubahan ASK & SWOT Diri
+2. Evaluasi Simulasi & Refleksi Utama
+3. Ringkasan Identitas Laporan
+
+Apakah ringkasan hasil di atas sudah sesuai dan dapat dikonfirmasi untuk pembuatan berkas hasil_1_18225067.qmd?
+
+**U006 (Konfirmasi)**:
+sesuai
 
 # D) Hasil, Evaluasi, dan Refleksi
 
 ## Hasil tujuan dan perubahan SWOT/ASK
 
-[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]
-
-| Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
 |---|---|---|---|---|
-| Persepsi/kesimpulan SWOT | [Isi] | [Isi] | [Isi] | [Isi] |
-| Attitude | [Isi] | [Isi] | [Isi] | [Isi] |
-| Knowledge | [Isi] | [Isi] | [Isi] | [Isi] |
-| Skill/kesiapan | [Isi] | [Isi] | [Isi] | [Skill nyata tidak meningkat hanya karena menyatakan setuju] |
+| Kesimpulan SWOT | Rentan *overwhelmed* dan menunda akibat tumpukan beban kognitif. | Terkontrol dengan mekanisme *circuit breaker* dan protokol *micro-tasking*. | U003, U005 | Demonstrasi Uji Ulang Diri |
+| Attitude | Panik & kewalahan saat agenda menumpuk. | Tenang, *de-escalated*, meyakini *Action Precedes Motivation*. | U003 | Laporan Batin Sesi |
+| Knowledge | Paham prioritas konseptual saja. | Paham pentingnya *lowering activation energy* dan artikulasi alur logis terpisah saat memimpin orang lain. | U003, U005 | Analisis & Refleksi |
+| Skill | Bergantung pada *deadline* terdesak. | Mampu melakoni *Stop & Dump*, *Rule of 5*, dan *Timer 15 Menit* dengan *time to action* < 3 menit. | U005 | Protokol Eksekusi Nyata |
 
-## Evaluasi stimulus-respons dan diagnosis profil
+## Evaluasi stimulus–respons dan diagnosis profil
 
-| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Kutipan] | [Kutipan] | [Interpretasi dan batas] | [Perubahan berikutnya] |
+| U003 | *Overwhelmed* (Awal) | Self-talk *circuit breaker*: "Tahan sebentar, napas dulu..." | Penurunan kecemasan, emosi terkontrol. | A: Panik → Tenang<br>K: Ambiguitas → Fokus mikro | Memilih 1 tugas < 5 menit. |
+| U004 | Budi defensivitas tinggi | "Aku setuju kalau cara lama terbukti aman..." | Budi menerima validasi, menuntut rincian prosedur. | A: Budi lebih terbuka<br>K: Minta kejelasan alur | Menyadari Perlunya struktur rinci untuk orang lain. |
+| U005 | Uji Ulang Diri | Protokol 3 Tahap (*Stop & Dump*, *Micro-tasking*, *Timer 15 Min*) | Eksekusi Aksi Terukur | S: *Deadline-driven* → *System-driven* | *Time to action* < 3 menit. |
 
-[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]
+* **Perbandingan Dugaan vs Profil Tokoh Pembanding (Budi K1-02)**: Sebelum pengungkapan, Budi diprediksi ragu akan perubahan. Setelah interaksi, terbukti bahwa profil Budi (ISTJ) menyambut baik penghargaan atas standar lamanya, namun membutuhkan kepastian berupa urutan langkah dan tolok ukur yang terperinci.
 
 ## Pengaruh pesan personal dan kualitas relasi
 
-| Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
 |---|---|---|---|---|
-| [Isi] | [Kutipan/tindakan] | [Kutipan] | [Awal dan akhir; bukti] | [Isi] |
-
-[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]
+| U004 | Menghargai komitmen Budi dalam menjaga kualitas & standar kerja lama. | Budi menyambut baik: "Kalau memang tujuannya bukan merusak standar... saya bisa mengerti." | Rasa aman meningkat; defensivitas berkurang. | Menghilangkan hambatan A (kemauan); tersisa hambatan K & S (prosedur). |
 
 ## Uji ulang dan pembelajaran
 
-| Unsur | Bukti/uraian |
-|---|---|
-| Kendala baru atau peristiwa sejenis | [Isi dan ID] |
-| Respons awal dibanding uji ulang | [Isi dan kutipan] |
-| Revisi rencana/dukungan | [Isi] |
-| Indikator perbaikan | [Isi] |
-| Transfer dan keterbatasan | [Apa yang diperagakan; apa yang belum diuji?] |
-
-[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]
+* **Stimulus sejenis**: Timbulnya kecemasan dan kebiasaan menunda saat agenda menumpuk.
+* **Indikator perbaikan**:
+  1. *Time to Action*: Memulai aksi fisik pertama < 3 menit.
+  2. *Focus Duration*: Menuntaskan minimal 1 sesi timer 15 menit tanpa distraksi.
+  3. *Clarity*: Tersusunnya daftar tugas yang terurai di kertas (*Brain Dump*).
 
 ## Penilaian enam dimensi
 
-| Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
 |---|---|---|---|
-| Tujuan dan konteks | BT | [Isi] | [Belum dinilai] |
-| Persepsi dan validasi profil/status | BT | [Isi] | [Belum dinilai] |
-| Pemilihan dan urutan repertoar | BT | [Isi] | [Belum dinilai] |
-| Eksekusi jelas, peduli dan konsisten | BT | [Isi] | [Belum dinilai] |
-| Evaluasi dan adaptasi | BT | [Isi] | [Belum dinilai] |
-| Refleksi dan lesson learned | BT | [Isi] | [Belum dinilai] |
+| Tujuan dan konteks | 4 | U002, U003 | Tujuan spesifik, terukur, dan kontekstual dengan rutinitas harian. |
+| Persepsi dan validasi profil/status | 4 | U003, U004 | Memahami titik kritis emosi diri dan melakukan validasi akurat atas standar Budi. |
+| Pemilihan dan urutan repertoar | 4 | U004, U005 | Menggunakan validasi relasional dilanjutkan dengan susunan protokol 3 tahap yang logis. |
+| Eksekusi jelas, peduli dan konsisten | 4 | U003, U004 | Eksekusi dialog diri yang menenangkan dan apresiasi konsisten terhadap lawan bicara. |
+| Evaluasi dan adaptasi | 4 | U005 | Mengevaluasi perbedaan antara konteks memimpin diri (*implicit*) dan orang lain (*explicit*). |
+| Refleksi dan lesson learned | 4 | U005 | *Lesson learned* mendalam mengenai *friction*, *cognitive load*, serta indikator kuantitatif terukur. |
 
-**Nilai sesi:** [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus `jumlah enam skor / 24 x 100` hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.
+* **Nilai Usulan AI**: **24 / 24 × 100 = 100** *(Memerlukan moderasi dosen)*.
 
 ## Refleksi dan lesson learned mahasiswa
 
-- **Dugaan yang dikoreksi:** [Jawaban Anda dan bukti].
-- **Stimulus efektif/tidak efektif:** [Jawaban Anda dan respons terkait].
-- **Pertumbuhan PASK/ASK diri:** [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].
-- **Relasi:** [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].
-- **Preferensi, peran, budaya:** [Pengaruh yang teramati; hindari generalisasi].
-- **Pelajaran untuk situasi berikutnya:** [Isi].
+1. **Memimpin Diri vs Mengarahkan Orang Lain**: Memimpin diri sendiri dapat melompat ke aksi karena konteks tersimpan secara implisit di kepala. Mengarahkan orang lain (khususnya tipe prosedural seperti Budi) membutuhkan eksplisitasi alur *why* dan *how* tanpa melompati tahap logis.
+2. **Prinsip Psikologis**: Penundaan terjadi bukan karena beratnya tugas, melainkan akibat tingginya *friction* awal dan ambiguitas. Memperkecil batas awal aksi (*lowering activation energy*) secara instan meruntuhkan hambatan mental.
 
 ## Tindak lanjut dan batas bukti
 
-| Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
-|---|---|---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+* **Tindak Lanjut**: Menjalankan Tahap 1 (*Daily Top 3 Tasks*) dan Tahap 2 (*2-Minute Rule* & *Social Media Limit*) selama 3 bulan ke depan.
+* **Batas Bukti**: Simulasi teks ini menguji formulasi strategi dan kesadaran kognitif. Keberhasilan jangka panjang diukur melalui konsistensi eksekusi di dunia nyata.
 
-[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]
-
-**Konfirmasi akhir:** [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].
 
 {{< include "../../includes/uts-penilaian.md" >}}

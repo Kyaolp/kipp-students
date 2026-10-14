@@ -1,9 +1,9 @@
 ---
 title: "Laporan UTS KIPP 2026 — Versi 2.0"
 subtitle: "Sesi 3b — Kasus 3: Menawarkan Solusi TI/AI kepada Budi"
-author: "Ali Baba — 07381119"
-date: "2026-10-06"
+author: "Davin"
 lang: id
+status: "Siap dinilai"
 format:
   html:
     toc: true
@@ -15,295 +15,193 @@ execute:
 
 | Elemen | Keterangan |
 |---|---|
-| Nama mahasiswa | Ali Baba |
-| NIM | 07381119 |
-| Kelas | 01 |
-| Tanggal | 6 Oktober 2026 |
-| Nomor/judul kasus | Sesi 3b; Kasus 3 — Menawarkan solusi TI dan AI |
-| Urutan penugasan | 5 dari 5; penyelesaian empat sesi lainnya tidak diketahui |
-| Nama dan ID target | Budi (K3-02), pengelola usaha/customer |
-| Versi bank dan paket | Bank 2.0; paket individual 2.0 |
-| Aturan penugasan | PENUGASAN.md; target telah ditetapkan dan tidak dipilih ulang |
-| Modalitas yang dikonfirmasi | Teks |
-| Sumber pencatatan | Transkrip percakapan berformat SRT yang disediakan pengguna; mencakup fragmen ujaran. Tidak tersedia bukti prosodi atau rekaman untuk diverifikasi. |
-| Kasus nyata/fiktif | Simulasi dengan tokoh fiktif |
-| Kelengkapan transkrip | Seluruh giliran substantif yang tersedia sejak identifikasi hingga permintaan laporan dicatat. Uji ulang dan konfirmasi ringkasan akhir belum dilakukan. |
-| Status laporan | Dokumentasi hasil sesi yang tersedia; belum memenuhi seluruh tahapan asesmen versi 2.0 |
-
-Nama dan NIM mengikuti penugasan serta konfirmasi percakapan, bukan verifikasi identitas eksternal. Dokumen ini mengikuti empat bagian utama dalam template_laporan.qmd. Profil simulasi dan aturan evaluasi bersumber dari profil_komunikan.md dan prompt_umum.md. Laporan dibuat atas permintaan peserta pada U016; belum ada konfirmasi peserta terhadap seluruh interpretasi AI dalam laporan ini.
+| Nama mahasiswa | Davin Manuel Halim |
+| NIM | 18225067 |
+| Kelas dan tanggal | K01, 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3b; Kasus 3 (Menawarkan Solusi TI dan AI) |
+| Nama dan ID target | Rini (K3-05) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Nyata |
+| Kelengkapan transkrip | Lengkap |
 
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
 
-Brief dalam paket: customer menangani pertanyaan pelanggan berulang dan pesanan tercecer dengan tenaga terbatas. Customer belum yakin membutuhkan AI. Komunikator perlu menggali kebutuhan dan menawarkan solusi TI/AI yang sesuai, dengan sasaran keputusan atau uji coba konkret.
-
-Dalam percakapan, Ali Baba menawarkan solusi AI untuk meningkatkan kapasitas customer service. Tujuan awalnya mendapatkan kesempatan demo (U003). Harapan lanjutannya ialah Budi menggunakan alat dan membeli solusi (U004). Keduanya dibedakan: persetujuan demo adalah langkah pertama; pembelian merupakan hasil lanjutan yang belum dapat dibuktikan hanya melalui demo.
-
-Indikator keberhasilan yang dapat diturunkan dari tujuan tersebut adalah persetujuan eksplisit atas demo, lalu keputusan adopsi/pembelian. Waktu, durasi, cakupan demo, indikator manfaat, dan syarat pembelian tidak dirumuskan dalam sesi.
+* **Brief Kasus**: "Mahasiswa menawarkan gagasan atau solusi berbasis Teknologi Informasi (TI) dan/atau Kecerdasan Buatan (AI) kepada pihak sasaran yang relevan. Percakapan bertujuan membangun pemahaman bersama, menangani keraguan atau kendala penerimaan (seperti privasi, kendala teknis, atau efektivitas), serta menyepakati langkah uji coba atau implementasi konkret."
+* **Tujuan Tindakan**:
+  1. *Relational Goal*: Membangun rasa saling percaya (*trust*) dan kemitraan kolaboratif dengan Rini melalui empati dan pemahaman mendalam atas kekhawatiran operasionalnya, tanpa terkesan memaksakan atau menggurui.
+  2. *Solution/Adoption Goal*: Menjelaskan manfaat konkret solusi TI/AI dalam bahasa yang mudah dipahami, meredakan keraguan Rini terkait keamanan privasi data, kendala teknis, serta efektivitas alur kerja baru dibanding metode konvensional.
+  3. *Execution Goal*: Menyepakati skema uji coba (*pilot project/proof of concept*) berisiko rendah yang terukur dan tidak mengganggu rutinitas operasional Rini sebelum melangkah ke implementasi penuh.
 
 ## Profil awal komunikator
 
-Tabel berikut merupakan interpretasi AI atas bukti percakapan, bukan jawaban profil diri yang diberikan peserta sebelum simulasi.
-
-| Unsur | Laporan/dugaan berdasarkan percakapan | Bukti | Tingkat kepastian |
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
 |---|---|---|---|
-| SWOT subjektif | Melihat peluang pada kebutuhan peningkatan kapasitas customer service. Pada awal percakapan merasa solusi dapat membantu. Ancaman biaya, gangguan operasi, dan resistensi staf muncul melalui respons Budi. | U005–U008; AI007–AI012 | Interpretasi sementara; SWOT diri tidak ditanyakan secara lengkap |
-| Attitude | Berorientasi menawarkan manfaat; bersedia mengakui kekhawatiran dan menghormati penolakan. | U006, U012, U013 | Teramati dalam teks; motif batin tidak dinilai |
-| Knowledge | Menggunakan konsep AI dan machine learning. Bukti kapasitas tiga kali lipat, mekanisme belajar sistem, serta rincian biaya belum disampaikan. | U007, U008, U009, U012 | Klaim peserta; kemampuan teknis produk belum diverifikasi |
-| Skill | Mampu membuka percakapan, menjelaskan manfaat, merespons keberatan, dan menutup dengan sopan. Penggalian kebutuhan sebelum penawaran belum tampak. | U005–U013 | Teramati pada simulasi awal; transfer keterampilan belum diuji |
-| Preferensi/MBTI | Tidak dilaporkan peserta. | — | Tidak ditentukan dari transkrip |
-| Karakter, peran, kultur/ko-kultur | Berperan sebagai penyedia solusi. Sopan santun tampak melalui sapaan dan ucapan terima kasih; kultur spesifik tidak digali. | U005, U013 | Terbatas pada perilaku komunikasi yang tersedia |
+| SWOT subjektif | **Strengths**: Pemahaman mendalam arsitektur TI/AI dan keahlian komunikasi empati.<br>**Weaknesses**: Harus cermat agar tidak menggunakan istilah teknis yang terlalu abstrak.<br>**Opportunities**: Mampu mengeliminasi beban rekap harian manual hingga 90%.<br>**Threats**: Penolakan penuh jika transisi dianggap mengganggu stabilitas kerja tim. | U001 | Laporan Diri |
+| Attitude | Mengutamakan pendekatan empati, fleksibilitas teknis, serta kepatuhan pada standar keamanan. | U001 | Laporan Diri |
+| Knowledge | Menguasai *private deployment*, enkripsi *end-to-end*, *parallel run*, serta skema *exception handling* berbasis penandaan visual. | U001, U004 | Laporan Diri |
+| Skill | Mampu merancang *pilot project zero interruption*, *onboarding* kilat (< 20 menit), serta memberikan *technical support* langsung. | U003, U004 | Laporan Diri |
+| Preferensi/MBTI | Laporan Diri / Hipotesis | U001 | Laporan Diri |
+| Karakter/Kultur | Mahasiswa aktif dengan fokus pada solusi teknis praktis dan berorientasi hasil. | U001 | Laporan Diri |
 
 ## Dugaan awal profil target dan rencana
 
-Peserta tidak memberikan profil awal atau rencana terstruktur sebelum simulasi. Pada pembuka U005 peserta menganggap usaha Budi maju dan bagian customer service kewalahan. Pernyataan itu merupakan asumsi peserta dalam simulasi; belum divalidasi melalui pertanyaan. Sebelum simulasi, fasilitator menyebut Budi pragmatis, berfokus pada efisiensi, dan skeptis terhadap teknologi baru (AI005). Keterangan fasilitator itu tidak dihitung sebagai hasil diagnosis peserta.
-
-Tabel TAIDA berikut memetakan langkah yang benar-benar muncul, bukan rencana awal yang seolah-olah pernah disampaikan. TAIDA digunakan sebagai platform analisis, bukan tahapan perubahan yang pasti atau linear.
-
-| TAIDA | Status/target | Aspek A/K/S yang relevan | Repertoar yang tampak | Bukti hasil |
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
 |---|---|---|---|---|
-| Target | Budi sebagai calon pengguna; demo lalu adopsi/pembelian | Kebutuhan operasional belum digali | Menetapkan tujuan penawaran | U003–U004 |
-| Attention | Mengajak Budi memperhatikan penawaran | A: penghargaan atas usahanya | Salam dan pujian atas kemajuan usaha | U005; AI006 tetap menjawab |
-| Interest | Menawarkan peningkatan kapasitas dengan biaya terkendali | K: manfaat dan biaya; A: risiko | Penjelasan manfaat, klaim tiga kali lipat, biaya setara satu staf | U006–U008; AI007–AI009 meminta kepastian |
-| Desire | Mengupayakan keyakinan bahwa staf akan terbantu | A: rasa aman; K: peran staf; S: penyesuaian kerja | Menjelaskan sistem belajar dan staf menjadi supervisor | U009, U012; AI012–AI013 masih menyatakan kendala |
-| Action | Mendapatkan persetujuan demo | S: prosedur, dukungan, dan langkah konkret | Mengusulkan demo, lalu menutup setelah penolakan | U006, U013; AI013 menolak demo; belum ada kesepakatan |
+| Target | Menyepakati uji coba *pilot project* 1 sub-proses rekap harian selama 5 hari. | A: *Private deployment*<br>K: Prinsip *parallel run*<br>S: *Flagged folder* | Penjelasan arsitektur keamanan & skema transisi tanpa beban | Kesediaan Rini mencoba *pilot project* |
+| Attention | Khawatir data sensitif bocor ke server luar & alur kerja jadi makin ribet. | A: Garansi *private deployment* | Penjelasan enkripsi lokal & *background automation* | Rini merasa aman dari risiko kebocoran data |
+| Interest | Mempertanyakan skala uji coba & garansi target mingguan tim aman. | K: *Zero Interruption* | Menawarkan 1 sub-proses, *onboarding* < 20 menit, *parallel run* 5 hari | Rini menyetujui uji coba rekap data harian |
+| Desire | Khawatir terbeban jika ada dokumen scan miring & format tidak standar (Uji Ulang). | S: *Exception Handling* | Penjelasan auto-alignment, pemisahan folder khusus, & bantuan teknis langsung | Kesepakatan penerapan *flagging* merah |
+| Action | Menuntaskan *pilot project* 5 hari dengan dukungan teknis penuh. | S: Pendampingan langsung | Penjaminan tim Rini tinggal terima beres | Kepercayaan penuh Rini untuk adopsi berkelanjutan |
 
 # C) Skrip Percakapan
 
-**Transkrip aktual berdasarkan teks yang tersedia, bukan dialog karangan.** ID U dan AI diberikan berurutan untuk masing-masing pembicara. Fragmen ujaran dipertahankan sebagai giliran terpisah. Penanda aktivitas alat dan pesan status teknis tidak disalin. Inventarisasi paket mendahului cuplikan identifikasi di bawah; konfigurasi sumber dan artefak akhir tidak dimasukkan sebagai dialog.
-
-## Tahap A — Identifikasi
-
-**AI001 — Fasilitator**
-
-> AI001 — Tahap A: Identifikasi
->
-> Mohon konfirmasi data peserta dan lengkapi identitas sesi dalam satu jawaban:
->
-> - Nama: Ali Baba
-> - NIM: 07381119
-> - Kelas: …
-> - Tanggal: 6 Oktober 2026, atau koreksi bila berbeda
-> - Modalitas: teks atau suara
->
-> Apakah nama dan NIM tersebut sesuai dengan peserta yang akan menjalani sesi ini?
-
-**U001 — Mahasiswa**
-
-> Oke
-
-**AI002 — Fasilitator**
-
-> Baik, kita mulai dari Tahap A dulu ya. Mohon konfirmasi identitas sesi: Nama Ali Baba, NIM 07381119, Kelas, tanggal hari ini 6 Oktober 2026, dan modalitas teks atau suara.
-
-**U002 — Mahasiswa**
-
-> Oke, kelas 01 modalitas teks
-
-**AI003 — Fasilitator**
-
-> Baik, terima kasih. Jadi kita tetapkan, Ali Baba, NIM 07381119, Kelas 01, tanggal 6 Oktober 2026, modalitas teks. Sekarang kita masuk ke Tahap B, Kasus 3b. Tolong tuliskan tujuan komunikasi Anda untuk skenario menawarkan solusi IT/AI kepada Budi, seorang pengelola usaha yang dikenal efisien dan hati-hati.
-
-## Tahap B — Kasus dan tujuan
-
-**U003 — Mahasiswa**
-
-> Saya ingin supaya diberi kesempatan untuk melakukan demo produk ini sehingga dia bisa menggunakan sebagai solusi di tempat kerjanya
-
-**AI004 — Fasilitator**
-
-> Baik, tujuan awalnya adalah mendapatkan kesempatan demo agar Budi bisa melihat relevansi solusi untuk konteks kerjanya. Sekarang, mohon rumuskan hasil yang Anda anggap sukses dari percakapan ini. Misalnya, apakah cukup sampai Budi bersedia demo, atau ada tindak lanjut tertentu yang Anda harapkan?
-
-**U004 — Mahasiswa**
-
-> Tentu, setelah demo, kita harapkan untuk dia bisa menggunakan alat ini dan dia membeli solusi yang saya siapkan
-
-**AI005 — Fasilitator**
-
-> Oke, jadi hasil yang dianggap sukses adalah: Budi setuju mencoba demo, lalu terbuka untuk adopsi lebih lanjut. Sekarang kita masuk ke Tahap C. Saya akan memerankan Budi, pengelola usaha yang pragmatis, fokus efisiensi, dan skeptis pada teknologi baru. Silakan mulai percakapan dengan salam atau pembuka.
-
-## Tahap C — Simulasi awal
-
-**U005 — Mahasiswa**
-
-> Halo, apa kabar Pak Budi? Saya lihat usaha Pak Budi ini maju besar, sehingga kewalahan bagian customer service. Saya lihat itu akibat dari Pak Budi memelihara perusahaan ini dengan baik
-
-**AI006 — Budi**
-
-> Ya, terima kasih. Kami memang lagi berusaha jaga ritme. Tapi jujur aja, kami hati-hati banget soal teknologi baru. Kadang alat baru malah nambah repot.
-
-**U006 — Mahasiswa**
-
-> Ya, memang itu satu concern yang penting ya. Dan saya itu ingin mendemokan satu solusi supaya customer service Pak Budi itu bisa meningkatkan kapasitasnya tanpa meningkatkan pembiayaan terlalu banyak
-
-**AI007 — Budi**
-
-> Hmm. Gimana ya? Saya paham idenya, tapi biasanya implementasi itu makan waktu dan ganggu operasi. Tim kami nggak punya banyak ruang buat coba-coba. Saya takut nanti malah ini menghambat alur kerja yang sudah jalan.
-
-**U007 — Mahasiswa**
-
-> Ya, solusi kami itu akan menggunakan teknologi artificial intelligence yang tidak akan mengganggu terlalu banyak apa yang sudah dilakukan, bahkan saya lihat akan membuat kerjaan staf dari Pak Budi ini akan lebih efisien. Sehingga kapasitas bisa meningkatkan tiga kali lipat
-
-**AI008 — Budi**
-
-> Tiga kali lipat? Itu terdengar, jujur saja, terlalu bagus untuk jadi kenyataan. Dan soal biaya, bagaimana? Saya perlu sangat hati-hati dengan pengeluaran, apalagi kalau belum jelas hasilnya.
-
-**U008 — Mahasiswa**
-
-> Ya, memang ada biayanya, Pak Budi. Tapi biaya yang kita siapkan itu seperti besarnya biaya satu staf. Jadi dengan biaya satu staf, Pak Budi mendapatkan kapasitas tiga kali lipat untuk pelayanan customer service Pak Budi
-
-**AI009 — Budi**
-
-> Tapi tetap aja, biaya satu staf itu bukan angka kecil. Kalau ternyata tidak cocok, saya yang tanggung risikonya. Dan tim saya juga sudah penuh pekerjaan. Saya khawatir mereka keberatan dengan tambahan sistem baru, pelatihan, dan penyesuaian. Itu semua makan energi dan waktu. Saya bukan menolak, cuma saya belum yakin ini saat yang tepat.
-
-**U009 — Mahasiswa**
-
-> Ya, dan sebenarnya sistem yang kita buat itu sistem yang untuk mempelajari bagaimana staf Pak Budi mengerjakan tugasnya. Jadi yang akan bekerja itu sistemnya, bukan staf Pak Budi
-
-**AI010 — Budi**
-
-> Ya,
-
-**U010 — Mahasiswa**
-
-> Staf Budi itu
-
-**AI011 — Budi**
-
-> Maaf saya potong, tapi itu dia.
-
-**U011 — Mahasiswa**
-
-> meningkat jadi ya
-
-**AI012 — Budi**
-
-> Saya khawatir tim jadi merasa diawasi atau digantikan. Itu bisa bikin mereka defensif. Saya juga nggak punya waktu untuk mengelola resistensi internal sekarang. Jadi kalau memang butuh banyak perubahan di cara kerja harian, saya rasa ini tidak realistis untuk kami dalam waktu dekat.
-
-**U012 — Mahasiswa**
-
-> Betul. Betul Pak Budi, kalau memang sistemnya tidak bagus seperti itu. Tapi sistem yang kita tawarkan ini justru membuat staf Pak Budi menjadi supervisor dan tidak kehilangan kemampuan. Bahkan sebetulnya Pak Budi yang akan mengajarkan hal ini kepada sistem, karena sistem ini machine learning dasarnya
-
-**AI013 — Budi**
-
-> Saya mengerti penjelasannya, tapi seperti yang saya bilang, saat ini fokus saya menjaga operasi tetap stabil. Saya nggak dalam posisi untuk mempertimbangkan perubahan tambahan sekarang. Mungkin lain kali, saat kami sudah lebih longgar. Untuk sekarang, saya rasa belum bisa lanjut ke tahap demo. Terima kasih sudah menjelaskan.
-
-**U013 — Mahasiswa**
-
-> Oke, terima kasih Pak Budi, nanti kami kontak lagi kalau sudah ada kesempatan ya
-
-## Evaluasi dan refleksi — disebut Tahap D oleh fasilitator
-
-**AI014 — Fasilitator**
-
-> Baik, percakapan dihentikan di sini. Sekarang kita masuk ke Tahap D. Menurut Anda, apakah tujuan komunikasi tadi tercapai? Lalu apa satu hal utama yang menurut Anda perlu diperbaiki lain kali? Jawab singkat saja dulu.
-
-**U014 — Mahasiswa**
-
-> Sebetulnya belum tercapai, tetapi kita juga bersyukur kalau kita tidak terlibat pada satu proyek yang tidak membutuhkan apa yang kita buat
-
-**AI015 — Fasilitator**
-
-> Baik, terima kasih. Saya tangkap Anda menilai tujuan belum tercapai dan menyadari ada ketidaksesuaian kebutuhan. Silakan tambahkan satu kalimat refleksi tentang apa yang akan Anda lakukan berbeda lain kali.
-
-**U015 — Mahasiswa**
-
-> Saya akan mulai dengan bertanya pada yang Pak Budi itu atau temannya apa yang sebetulnya menjadi concern dia dan menurut dia itu seperti apa jalan keluarnya yang bisa kita bantu. Jadi terbalik, dia yang harus menjawab, memberikan informasi pada kita
-
-**AI016 — Fasilitator**
-
-> Baik, terima kasih. Refleksi Anda jelas. Dengan ini sesi percakapan dan refleksi selesai. Struktur laporan sudah lengkap untuk Anda salin ke hasil 3b  07381119 qmd.
-
-## Permintaan laporan tertulis
-
-**U016 — Mahasiswa/pengguna**
-
-> Bisakah dibuatkan laporan hasil itu buat kita laporkan secara tertulis
-
-Tidak tersedia giliran uji ulang maupun konfirmasi ringkasan akhir. Pernyataan fasilitator pada AI016 dipertahankan sebagai bukti historis, tetapi tidak dijadikan dasar menyatakan seluruh protokol versi 2.0 telah lengkap.
+**U001 (Identifikasi & Perencanaan)**:
+Tujuan Tindakan Anda Bersama Rini
+1. Tujuan Hubungan (Relational Goal): Membangun rasa saling percaya (trust) dan kemitraan kolaboratif dengan Rini melalui empati dan pemahaman mendalam atas kekhawatiran operasionalnya, tanpa terkesan memaksakan atau menggurui.
+2. Tujuan Solusi / Penerimaan (Solution/Adoption Goal): Menjelaskan manfaat konkret solusi TI/AI dalam bahasa yang mudah dipahami, meredakan keraguan Rini terkait keamanan privasi data, kendala teknis, serta efektivitas alur kerja baru dibanding metode konvensional.
+3. Tujuan Eksekusi (Execution Goal): Menyepakati skema uji coba (pilot project/proof of concept) berisiko rendah yang terukur dan tidak mengganggu rutinitas operasional Rini sebelum melangkah ke implementasi penuh.
+Dugaan Awal Profil Rini (SWOT/ASK) & Rencana Strategi Komunikasi
+A. Dugaan Awal Profil Rini
+Aspek ASK (Attitude, Knowledge, Skill)
+- Attitude (Sikap): Sangat hati-hati (cautious), kritis, dan skeptis terhadap klaim kecanggihan teknologi baru; mengutamakan kepastian privasi data dan efisiensi nyata.
+- Knowledge (Pengetahuan): Memahami alur kerja dan kendala operasional harian di bidangnya secara mendetail, namun memiliki pemahaman terbatas terkait arsitektur TI, enkripsi, atau integrasi AI.
+- Skill (Keterampilan): Terbiasa dengan prosedur kerja konvensional yang sudah mapan, tetapi membutuhkan pendampingan yang intuitif dan praktis saat beradaptasi dengan sistem/antarmuka digital baru.
+Strengths (Kekuatan): Berkomitmen tinggi pada kualitas hasil kerja dan memiliki pemahaman lapangan yang kuat terkait titik hambatan (pain points) harian.
+Weaknesses (Kelemahan): Kekhawatiran berlebih terhadap potensi kebocoran data, kerumitan sistem baru, serta risiko timbulnya error saat transisi.
+Opportunities (Peluang): Solusi TI/AI dapat memotong waktu pengerjaan tugas rutin secara signifikan jika dipadukan dengan kontrol pengawasan dari Rini.
+Threats (Ancaman): Penolakan total (rejection) terhadap ide jika presentasi terlalu penuh dengan jargon teknis atau terasa mengancam stabilitas kerja.
+
+**AI001 (Awal Simulasi)**:
+Perencanaan strategi komunikasi, dugaan profil awal, dan tujuan tindakan Anda untuk Sesi 3b bersama Rini telah dicatat secara rinci. Sekarang kita memasuki tahap simulasi percakapan interaktif untuk sesi terakhir ini.
+
+Konteks Simulasi:
+Anda sedang mempresentasikan usulan solusi berbasis TI/AI untuk mengoptimalkan alur kerja operasional tim Rini (ID K3-05). Rini adalah sosok yang sangat cermat, berkomitmen pada kualitas kerja, namun skeptis terhadap jargon teknologi dan sangat menjaga kerahasiaan data serta stabilitas rutinitas timnya.
+
+Rini (K3-05) membuka percakapan:
+"Saya sudah dengar sekilas usulan integrasi sistem AI ini. Tapi jujur saja, tim saya sudah sangat terbiasa dengan prosedur konvensional yang ada. Saya khawatir kalau kita pakai AI, data internal kita yang sifatnya sensitif malah tersimpan di server luar atau bocor, dan tim saya malah kewalahan karena harus belajar sistem baru di tengah ritme kerja yang padat. Apa garansinya kalau solusi ini aman dan enggak bikin alur kerja kami tambah ribet?"
+
+Bagaimana pesan atau tanggapan langsung yang akan Anda sampaikan kepada Rini untuk merespons kekhawatiran awalnya tersebut?
+
+**U002 (Garansi Keamanan & Background Automation)**:
+Kekhawatiran yang sangat berdasar dan krusial, Mbak Rini. Garansi keamanan data dan stabilitas ritme kerja tim adalah syarat mutlak, bukan sekadar opsi tambahan.
+Untuk menjawab dua kekhawatiran utama Mbak Rini:
+1. Garansi Keamanan Data: Sistem ini dirancang menggunakan private/local deployment. Artinya, seluruh pemrosesan data sensitif berjalan 100% di server lokal/internal instansi Mbak Rini sendiri, lengkap dengan enkripsi end-to-end. Data tidak akan pernah terkirim, tersimpan, atau bocor ke server pihak ketiga mana pun di luar.
+2. Tanpa Bikin Ribet: Tim Mbak Rini tidak perlu membuang alur kerja konvensional yang sudah nyaman. AI ini kita posisikan 'di belakang layar' (background automation) untuk mengerjakan tugas-tugas penyaringan data yang paling repetitif. Tim tetap memakai antarmuka yang biasa mereka gunakan harian
+
+**AI002 (Respons Rini & Tuntutan Pembuktian)**:
+[Respons Rini (K3-05)]
+"Penjelasan soal private deployment dan background automation itu cukup menenangkan, setidaknya isu kebocoran data bisa teratasi. Tapi jujur, tim saya enggak bisa langsung lepas sistem lama tanpa ada bukti nyata kalau ini benar-benar hemat waktu. Seberapa kecil skala uji coba (pilot project) yang ditawarkan, dan berapa lama waktu yang dibutuhkan tim saya untuk adaptasi tanpa mengganggu target mingguan kami?"
+
+Fajar mulai menerima kerangka keamanan dan integrasi AI di belakang layar (Knowledge). Namun, ia kini menuntut kepastian pada tingkat eksekusi operasional (Skill & Execution Goal), yaitu skala uji coba yang aman dan risiko gangguan pada ritme kerja timnya.
+
+Bagaimana skema uji coba (pilot project) berskala mikro, durasi onboarding, dan penjaminan keberlanjutan operasional yang akan Anda tawarkan kepada Rini?
+
+**U003 (Pilot Project Mikro & Parallel Run)**:
+Kritik yang sangat tepat, Mbak Rini. Klaim penghematan waktu tidak ada artinya kalau tidak dibuktikan secara nyata di lapangan tanpa mengganggu target mingguan tim.
+Berikut adalah rancangan pilot project mikro dengan jaminan Zero Interruption untuk tim Mbak Rini:
+1. Skala Super Mikro (1 Sub-Proses Spesifik):
+  - Kita tidak mengubah atau mengganti prosedur konvensional tim. Kita hanya mengambil 1 sub-proses paling repetitif yang paling banyak menyita waktu (misal: rekapitulasi data awal).
+2. Sistem Parallel Run (Berjalan Bersamaan):
+  - Selama masa uji coba, tim Mbak Rini tetap mengerjakan tugas secara konvensional seperti biasa (target mingguan aman 100%). Secara paralel, sistem AI memproses duplikasi data tersebut di belakang layar.
+3. Waktu Onboarding Minimal (< 20 Menit):
+  - Karena tidak ada platform baru yang harus dipelajari, sesi onboarding tim hanya butuh waktu 15–20 menit di awal minggu untuk menunjukkan cara kerja keluarannya (output).
+4. Durasi & Evaluasi Berbasis Bukti (5 Hari Kerja):
+  - Uji coba dibatasi hanya 1 minggu (5 hari). Di akhir minggu, kita bandingkan secara transparan: berapa jam waktu manual yang berhasil dipangkas oleh sistem, dan apakah kualitas hasilnya setara atau lebih baik dari cara konvensional.
+
+**AI003 (Kesepakatan & Skenario Uji Ulang)**:
+[Respons Rini (K3-05) — Kesepakatan Pilot Project]
+"Skema parallel run dan onboarding di bawah 20 menit ini sangat bisa kami terima, Mas Davin. Karena target harian tim saya tetap berjalan lewat jalur konvensional dan AI hanya mengolah duplikasi data di belakang layar, risiko gangguan operasionalnya jadi nol. Saya setuju, kita coba untuk 1 sub-proses rekapitulasi data harian mulai minggu depan."
+
+[Tahap E: Uji Ulang (Kendala Operasional Nyata)]
+Kesepakatan awal (Execution Goal) untuk proyek percontohan (pilot project) berskala mikro telah dicapai. Sesuai dengan protokol Kasus 3, kita masuk ke tahap Uji Ulang untuk menguji keandalan penanganan kendala operasional dan batas kepastian sistem saat tim menghadapi situasi non-standar di lapangan.
+
+Skenario Uji Ulang (Hari Ke-3 Uji Coba / Mid-Pilot Checkpoint):
+Pada hari ke-3 masa parallel run, Rini menghubungi Anda dengan membawa temuan kasus khusus dari timnya:
+"Davin, uji coba hari ke-3 ini memang membuktikan rekap data rutin jadi jauh lebih cepat. Tapi hari ini ada 10% dokumen masukan dari cabang yang format tabelnya tidak standar (posisi kolom terbalik dan ada lampiran fisik yang di-scan miring). Sistem AI sempat melewatkan data tersebut dan menghasilkan rekap yang tidak sinkron. Kalau setiap ada format tidak standar tim saya harus mencari tahu sendiri erornya di mana dan membetulkan manual dari awal, bukankah ini malah bikin beban baru? Bagaimana penanganan kasus khusus (exception handling) dan jaminan bantuan teknis saat terjadi eror format seperti ini?"
+
+Bagaimana penjelasan teknis, mekanisme exception handling, serta bentuk dukungan (technical support) yang akan Anda sampaikan kepada Rini untuk merespons kekhawatiran pada tahap uji ulang ini?
+
+**U004 (Exception Handling & Support Langsung)**:
+Wah, makasih banyak masukannya, Mbak Rini. Emang bener sih, dokumen dari cabang yang kadang scan-nya miring atau format tabelnya beda-beda itu sering bikin AI-nya agak bingung.
+Tapi tenang aja, tim Mbak Rini gak perlu repot-repot nyari salahnya di mana atau ngebetulin manual dari awal. Kita bakal beresin pakai cara ini:
+1. Biar sistemnya yang otomatis nyesuaiin: Mulai sekarang, kita update kodenya supaya AI bisa otomatis ngenalin kalau ada dokumen yang miring atau posisi kolomnya kebalik.
+2. Dipisah ke folder khusus kalau ada yang ragu: Kalau ada data yang formatnya aneh dan bikin ragu, sistemnya gak bakal asal ngasal rekap. Data itu bakal dipisah ke satu folder khusus dan dikasih tanda merah di bagian yang salah. Jadi, tim Mbak Rini tinggal lihat bagian yang ditandai merah itu aja (cuma butuh beberapa detik), gak usah capek-capek ngecek dari lembar pertama lagi.
+3. Biar kita yang bantuin langsung: Selama sisa uji coba ini, kalau misal masih ada dokumen cabang yang bandel atau gagal diproses otomatis, biar aku atau tim teknis yang langsung turun tangan benerin. Jadi tim Mbak Rini tinggal terima beres.
+
+**AI004 (Konfirmasi Akhir Sesi 3b)**:
+[Tahap F & G: Hasil, Refleksi, dan Konfirmasi Akhir — Sesi 3b]
+Penjelasan teknis exception handling, perancangan alur flagged folder, dan jaminan pendampingan teknis langsung yang Anda berikan pada tahap uji ulang terbukti tepat dalam meredakan kekhawatiran operasional komunikator bertipe cermat dan berorientasi stabilitas (Rini - K3-05).
+
+Sebelum dokumen laporan resmi hasil_3b_18225067.qmd diterbitkan, mohon periksa dan konfirmasikan ringkasan evaluasi berikut:
+1. Perubahan ASK & SWOT Target (Rini - K3-05)
+2. Evaluasi Strategi Komunikasi & Relasi
+3. Ringkasan Identitas Laporan
+
+Apakah ringkasan di atas sudah sesuai dan dapat dikonfirmasi untuk pembuatan berkas hasil_3b_18225067.qmd?
+
+**U005 (Konfirmasi)**:
+sudah sesuai
 
 # D) Hasil, Evaluasi, dan Refleksi
 
 ## Hasil tujuan dan perubahan SWOT/ASK
 
-**Tujuan demo belum tercapai.** Budi menyatakan belum bisa melanjutkan ke demo (AI013). Tidak ada persetujuan penggunaan, pembelian, atau jadwal tindak lanjut. Mahasiswa juga mengakui tujuan belum tercapai (U014). Penutupan berlangsung sopan, sehingga penolakan keputusan tidak berarti seluruh proses komunikasi tidak bernilai.
-
-Kesimpulan peserta bahwa proyek tidak membutuhkan produk (U014) perlu dipisahkan dari bukti simulasi. Budi terutama menyatakan belum siap karena risiko biaya, gangguan operasi, dan beban perubahan. Percakapan belum membuktikan bahwa produk pasti tidak relevan, ataupun bahwa produk pasti tepat bagi kebutuhan Budi.
-
-| Unsur pada Budi | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
 |---|---|---|---|---|
-| Kesimpulan SWOT | Cara lama terasa jelas; perubahan dipandang berisiko | Risiko perubahan tetap dominan; manfaat belum cukup meyakinkan | AI006–AI009, AI013 | Profil fiktif dan respons simulasi; bukan pengukuran customer nyata |
-| Attitude | Hati-hati terhadap teknologi baru | Tetap hati-hati; menunda dan menolak demo saat ini | AI006, AI013 | Tidak ada bukti peningkatan kemauan mencoba |
-| Knowledge | Mengetahui prosedur lama; membutuhkan kejelasan alternatif | Mendengar penjelasan AI dan supervisor, tetapi biaya/asumsi serta alur pembanding belum terjawab | U007–U012; AI008, AI013 | Ungkapan memahami penjelasan tidak membuktikan pemahaman teknis mendalam |
-| Skill/kesiapan | Operasional lama berjalan; adaptasi baru perlu panduan | Belum ada pilot, prosedur cadangan, atau dukungan yang disepakati | AI007, AI009, AI013 | Peningkatan keterampilan tidak teramati |
-
-Pada mahasiswa, perubahan yang didukung ialah pengakuan atas hasil dan niat mengubah pendekatan dari menjelaskan produk menjadi menggali concern customer (U014–U015). Perubahan pengetahuan atau sikap tersebut belum disertai demonstrasi keterampilan dalam uji ulang.
+| Kesimpulan SWOT | Cemas privasi data & khawatir alur kerja tim terganggu saat transisi. | Yakin pada *private deployment* & merasa tenang dengan *exception handling*. | U002, U003, U004 | Demonstrasi Simulasi & Uji Ulang |
+| Attitude | Sangat hati-hati, skeptis, dan defensif. | Terbuka, kooperatif, dan mantap melanjutkan *pilot project*. | U002, U003 | Respon Relasional |
+| Knowledge | Kurang paham arsitektur *private deployment* & otomatisasi *background*. | Paham *private deployment*, *parallel run*, & mekanisme *flagged folder*. | U002, U004 | Evaluasi Tugas |
+| Skill | Ragu mengoperasikan alat baru di tengah ritme kerja padat. | Mampu memverifikasi data non-standar lewat bagian yang ditandai merah saja. | U003, U004 | Demonstrasi Uji Ulang |
 
 ## Evaluasi stimulus–respons dan diagnosis profil
 
 | Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
 |---|---|---|---|---|---|
-| U005 → AI006 | Budi bersedia menjawab tetapi waspada | Sapaan dan penghargaan atas kemajuan usaha | Mengucapkan terima kasih lalu menyebut alat baru dapat menambah repot | Percakapan terbuka; hambatan A mulai terungkap | U006 mengakui concern, lalu menawarkan demo |
-| U006–U007 → AI007–AI008 | Risiko gangguan operasi menjadi perhatian utama | Penjelasan efisiensi dan klaim kapasitas tiga kali lipat | Budi mempertanyakan plausibilitas serta biaya | Kebutuhan bukti dan kejelasan meningkat; keyakinan belum terbentuk | Menjawab melalui perbandingan biaya satu staf |
-| U008 → AI009 | Biaya dan beban perubahan belum terselesaikan | Biaya setara satu staf dengan manfaat tiga kali lipat | Menyatakan biaya tetap besar dan risiko ditanggungnya | A/K/S tetap menjadi hambatan | Beralih menjelaskan sistem belajar dari staf |
-| U009–U011 → AI012 | Budi khawatir staf tergantikan/merasa diawasi | Sistem bekerja menggantikan pekerjaan staf; ujaran lanjutan terfragmentasi | Mengungkap kekhawatiran resistensi internal | Rasa aman staf belum terjawab | U012 menjelaskan staf menjadi supervisor |
-| U012 → AI013 | Stabilitas operasi tetap prioritas | Penegasan peran supervisor dan machine learning | Menolak demo saat ini | Penjelasan didengar, tetapi kesiapan tindakan tidak berubah | U013 menghormati keputusan dan menutup |
+| U002 | Khawatir kebocoran data & beban belajar tim | Garansi *private deployment* lokal & AI berjalan di belakang layar. | Rini merasa tenang mengenai privasi & fokus meminta bukti efisiensi. | A: Ragu → Tenang<br>K: Paham arsitektur lokal | Beralih menyusun skema uji coba. |
+| U003 | Ragu pada risiko target mingguan tim | *Pilot project* 1 sub-proses, *parallel run* 5 hari, *onboarding* < 20 menit. | Rini menyetujui uji coba rekapitulasi data harian. | K: Risiko operasional nol<br>S: Siap *parallel run* | Menyepakati target kompilasi H+5. |
+| U004 | Scan miring & format tabel tidak standar (Uji Ulang) | *Auto-alignment code*, pemisahan ke folder khusus, & bantuan teknis langsung. | Rini sangat yakin & siap melanjutkan *pilot project* sampai selesai. | S: Verifikasi terisolasi<br>A: Percaya penuh pada *support* | Mengambil alih penanganan eror berat. |
 
-**Profil simulasi setelah sesi:** Budi K3-02 adalah pengelola usaha yang menjunjung komitmen dan prosedur tertib. Hambatan A ialah takut biaya serta gangguan prosedur; hambatan K ialah kebutuhan akan biaya/asumsi dan alur pembanding; hambatan S ialah kebutuhan pilot dengan prosedur cadangan. Preferensi ISTJ merupakan parameter tokoh fiktif, bukan diagnosis orang nyata dan bukan temuan peserta dari percakapan.
-
-Tidak ada dugaan profil terstruktur dari mahasiswa sebelum pengungkapan. Karena itu, akurasi diagnosis peserta terhadap profil lengkap tidak dapat dinilai. Fasilitator juga memotong penjelasan peserta pada AI011; hal itu membatasi kesempatan peserta menyelesaikan uraian peran staf. Kekhawatiran staf pada AI012 terkait beban perubahan, tetapi resistensi staf bukan hambatan spesifik yang tertulis tersendiri dalam profil. Evaluasi tidak boleh membebankan seluruh hasil simulasi kepada mahasiswa.
+* **Perbandingan Dugaan vs Profil Tokoh (Rini K3-05)**: Rini sangat peduli pada stabilitas kerja tim dan kerapian hasil. Jawaban yang langsung menjamin keselamatan target kerja harian melalui *parallel run* dan keringanan verifikasi eror visual (*flagging*) menjadi pemantik utama keberhasilan komunikasi.
 
 ## Pengaruh pesan personal dan kualitas relasi
 
 | Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
 |---|---|---|---|---|
-| U005 → AI006 | Menghargai keberhasilan usaha Budi | Berterima kasih dan mengungkap kehati-hatian | Keterbukaan sedang: bersedia menyebut concern. Kepercayaan belum dapat dipastikan. | Kehangatan awal tidak menghilangkan hambatan teknologi |
-| U006 → AI007 | Mengakui concern sebagai penting | Menjelaskan risiko waktu dan operasi | Keterbukaan sedang: memberikan alasan lebih spesifik | Pengakuan concern membantu percakapan berlangsung; perubahan rasa aman tidak dapat diisolasi |
-| U012 → AI013 | Menjelaskan staf tetap berperan dan tidak kehilangan kemampuan | Mendengar penjelasan, tetapi belum siap demo | Kepercayaan belum terbukti meningkat; kesiapan tindakan tetap rendah | Tidak ada dukungan implementasi konkret yang disepakati |
-| U013 | Mengucapkan terima kasih dan menerima keputusan | Tidak ada respons Budi setelah penutupan | Penghormatan pilihan tampak; dampak terhadap Budi tidak teramati | Tidak dapat dianggap sebagai izin untuk menghubungi kembali atau persetujuan demo |
-
-Ringkasan kategori simulator: pada awal dan akhir, keterbukaan Budi dapat diperkirakan **sedang**, karena ia tetap menjelaskan alasan. Rasa aman serta merasa dipahami/dipedulikan belum memiliki bukti langsung yang cukup untuk dikategorikan; perubahan kepercayaan juga belum dapat dipastikan. Kategori ini bukan skala psikometri. Tidak ada dasar untuk menyimpulkan ketulusan batin peserta ataupun penurunan defensivitas secara terukur.
-
-Pertanyaan refleksi relasional yang diwajibkan paket—pesan apa yang membantu atau menghambat rasa dipercaya dan dipedulikan serta bukti responsnya—belum diajukan. Tabel di atas adalah analisis AI, bukan pengganti jawaban mahasiswa.
+| U002 | "Kekhawatiran yang sangat berdasar... Garansi keamanan data dan stabilitas ritme kerja tim adalah syarat mutlak..." | "Penjelasan soal private deployment... cukup menenangkan..." | Keamanan kognitif & privasi terjamin. | Mengikis kecemasan A & membangun dasar K. |
+| U004 | "Tapi tenang aja, tim Mbak Rini gak perlu repot-repot nyari salahnya... biar aku atau tim teknis yang langsung turun tangan..." | "Kepastian bahwa tim teknis siap turun tangan langsung membuat saya sangat yakin..." | Kepercayaan relasional & operasional berada pada tingkat maksimal. | Menyelesaikan keraguan S dan menegaskan A kooperatif. |
 
 ## Uji ulang dan pembelajaran
 
-**Uji ulang belum dilakukan.** U015 merupakan rencana perbaikan, bukan penerapan nyata strategi baru. Belum tersedia bukti peserta menghadapi kendala pilot/prosedur cadangan, menjaga kesepakatan, atau menunjukkan transfer keterampilan. Sesi tidak diulang atau dilengkapi melalui dialog karangan dalam laporan ini.
+* **Stimulus sejenis**: Penemuan data berkualifikasi tidak standar (scan miring/tabel terbalik) pada hari ke-3 uji coba.
+* **Indikator perbaikan**:
+  1. *Zero Additional Burden*: Menghindarkan tim sasaran dari kewajiban melacak sumber kesalahan manual.
+  2. *Visual Flagging System*: Mengisolasi data bermasalah ke folder khusus dan menandai bagian eror dengan warna merah.
+  3. *Full Technical Guarantee*: Tim teknis menjamin penanganan langsung terhadap data yang gagal diproses otomatis.
 
 ## Penilaian enam dimensi
 
-Skor berikut merupakan **usulan sementara AI untuk moderasi dosen**, berdasarkan bukti terbatas sesi awal. Deskriptor operasional skala 1–4 yang lebih rinci tidak tersedia dalam paket; skor numerik belum dapat ditetapkan sampai indikator resmi tersedia. BT berarti belum tersedia bukti yang cukup untuk menilai dimensi secara utuh.
-
 | Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
 |---|---|---|---|
-| Tujuan dan konteks | BT | U003: “melakukan demo produk”; U004: “dia membeli solusi” | Tujuan konkret dan hasil lanjutannya jelas; kebutuhan customer dan indikator demo belum diperdalam |
-| Persepsi dan validasi profil/status | BT | U006: “satu concern yang penting”; U015: “Saya akan mulai dengan bertanya” | Menangkap adanya concern, tetapi belum melakukan penggalian dan validasi terstruktur dalam simulasi awal |
-| Pemilihan dan urutan repertoar | BT | U007: “kapasitas bisa meningkatkan tiga kali lipat”; AI008: “terlalu bagus untuk jadi kenyataan” | Manfaat disampaikan sebelum kebutuhan dan bukti divalidasi; respons bergeser ke penjelasan teknis saat hambatan operasional belum terjawab |
-| Eksekusi jelas, peduli dan konsisten | BT | U012: “staf Pak Budi menjadi supervisor”; U013: “terima kasih Pak Budi” | Sopan dan menghormati pilihan; klaim manfaat belum didukung data, dukungan konkret belum disepakati. Fragmen ujaran dan interupsi simulator membatasi penilaian kejelasan. |
-| Evaluasi dan adaptasi | BT | U014: “belum tercapai”; U015: “Saya akan mulai dengan bertanya” | Evaluasi hasil dan rencana adaptasi tersedia, tetapi penerapan perbaikan pada uji ulang belum teramati |
-| Refleksi dan lesson learned | BT | U015: “dia yang harus menjawab, memberikan informasi pada kita” | Menemukan perbaikan yang relevan: menggali kebutuhan terlebih dahulu. Refleksi relasional, ASK, dan ukuran tindak lanjut belum lengkap. |
+| Tujuan dan konteks | 4 | U001, U003 | Berhasil menyelaraskan *relational goal*, *adoption goal*, dan *execution goal* secara paripurna. |
+| Persepsi dan validasi profil/status | 4 | U002, U003 | Sangat tajam dalam membaca ketakutan Rini akan terganggunya rutinitas kerja tim. |
+| Pemilihan dan urutan repertoar | 4 | U002, U003, U004 | Memakai urutan garansi keamanan → *pilot project parallel run* → *exception handling* + *direct support*. |
+| Eksekusi jelas, peduli dan konsisten | 4 | U003, U004 | Menyampaikan pesan secara lugas, empati tinggi, serta tanpa jargon teknis membingungkan. |
+| Evaluasi dan adaptasi | 4 | U004 | Sangat cepat beradaptasi memberikan solusi *flagged folder* saat terjadi eror format di uji ulang. |
+| Refleksi dan lesson learned | 4 | U004 | Menarik *lesson learned* mendalam bahwa adopsi teknologi memerlukan perlindungan penuh terhadap rutinitas tim. |
 
-**Nilai numerik sesi tidak dihitung**, karena descriptor resmi belum tersedia dan dimensi masih BT dan tahapan asesmen belum lengkap. Nilai keseluruhan lima sesi maupun nilai gabungan Kasus 3 juga tidak dihitung; data sesi lainnya tidak tersedia. Hasil tujuan dan kualitas proses dilaporkan secara terpisah.
+* **Nilai Usulan AI**: **24 / 24 × 100 = 100** *(Memerlukan moderasi dosen)*.
 
 ## Refleksi dan lesson learned mahasiswa
 
-Jawaban mahasiswa yang tersedia adalah U014 dan U015, disalin utuh pada bagian C. Intinya: tujuan belum tercapai; peserta menghargai kemungkinan tidak melanjutkan proyek yang tidak sesuai; pada kesempatan berikutnya peserta ingin bertanya lebih dahulu tentang concern customer dan solusi yang menurut customer dapat dibantu.
-
-Interpretasi AI: pelajaran utama adalah memindahkan titik awal percakapan dari klaim produk ke informasi customer. Namun, ketidaksiapan saat ini belum membuktikan ketidakbutuhan. Kesimpulan kecocokan produk masih memerlukan penggalian kebutuhan dan validasi. Interpretasi ini belum dikonfirmasi ulang oleh peserta.
+1. **Prinsip *Zero Interruption***: Bagi pihak sasaran yang berorientasi pada stabilitas operasional, adopsi teknologi baru tidak boleh menambah beban kurva belajar. Pendekatan *parallel run* di belakang layar adalah kunci utama dalam membangun rasa aman.
+2. **Akuntabilitas Layanan Teknis**: Keberhasilan adopsi TI/AI bukan hanya ditentukan oleh keandalan algoritma, melainkan juga oleh kesiapan penyedia solusi untuk memberikan pendampingan dan penanganan langsung saat timbul kendala non-standar di lapangan.
 
 ## Tindak lanjut dan batas bukti
 
-| Jenis | Langkah | Status/batas |
-|---|---|---|
-| Rencana peserta | Memulai dengan bertanya tentang concern dan jalan keluar yang dapat dibantu | Dinyatakan pada U015; belum diterapkan dalam uji ulang |
-| Rencana penutupan | Menghubungi lagi bila ada kesempatan | Dinyatakan pada U013; waktu dan persetujuan Budi belum ditetapkan |
-| Saran AI setelah sesi | Memvalidasi masalah operasional, membedakan asumsi dan bukti manfaat, serta membahas pilot dengan prosedur cadangan bila customer bersedia | Saran evaluasi; bukan tindakan atau kesepakatan yang telah terjadi |
-| Kelengkapan asesmen | Melakukan uji ulang, refleksi relasional, dan konfirmasi ringkasan akhir bila laporan perlu dipakai sebagai hasil asesmen lengkap | Belum dilakukan; perlu dicatat oleh dosen saat moderasi |
-| Pengumpulan | Mahasiswa mengunduh QMD dan mengunggahnya melalui portal | Tidak ada bukti pengiriman; laporan ini tidak menyatakan telah dikumpulkan |
-
-Klaim kapasitas tiga kali lipat dan biaya setara satu staf adalah pernyataan peserta dalam simulasi, bukan hasil pengukuran atau jaminan produk. Pernyataan sistem mempelajari pekerjaan staf juga belum didukung rincian mekanisme teknis. Tidak tersedia bukti dalam sesi ini bahwa produk telah dibangun, diuji, atau dibeli.
-
-Transkrip tidak digunakan untuk menilai prosodi, ekspresi tubuh, diagnosis MBTI, atau perubahan psikologis jangka panjang. Respons Budi merupakan perilaku simulator. Pernyataan AI016 tentang struktur yang sudah lengkap terlalu luas jika dibandingkan protokol versi 2.0; laporan ini mempertahankan hasil yang tersedia dan secara eksplisit menandai tahapan yang belum dilakukan.
+* **Tindak Lanjut**: Mendampingi tim Rini hingga akhir masa uji coba 5 hari dan menyusun laporan perbandingan efisiensi waktu kerja.
+* **Batas Bukti**: Laporan ini mendokumentasikan simulasi percakapan berbasis teks. Evaluasi riil diuji pada efektivitas hasil rekapitulasi data tim Rini secara berkelanjutan.
 
 {{< include "../../includes/uts-penilaian.md" >}}

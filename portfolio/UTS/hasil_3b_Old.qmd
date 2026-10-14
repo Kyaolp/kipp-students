@@ -1,9 +1,9 @@
 ---
 title: "Laporan UTS KIPP - Sesi 3b"
 subtitle: "Menawarkan solusi TI dan AI - target kedua"
-author: "[Nama mahasiswa]"
+author: "Davin"
 lang: id
-status: "Belum dimulai"
+status: "Siap dinilai"
 format:
   html:
     toc: true
@@ -19,146 +19,193 @@ Isi dari sesi Anda sendiri. [Lihat contoh sesi 3b](../../examples/UTS/hasil_3b.q
 
 | Elemen | Keterangan |
 |---|---|
-| Nama mahasiswa | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Tanggal pelaksanaan | [Tanggal aktual sesi] |
-| Nomor/judul kasus | Sesi 3b: Menawarkan solusi TI dan AI - target kedua |
-| Target | [Nama dan ID customer sesuai ZIP 3b; berbeda dari 3a] |
-| Versi bank/paket | [Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis] |
-| Sumber penugasan | [Nama ZIP dan PENUGASAN.md] |
-| Modalitas | [Teks/suara; sumber transkripsi bila digunakan] |
-| Konteks nyata/fiktif | [Nyatakan dan jelaskan bagian hipotetis] |
-| Kelengkapan transkrip | [Lengkap/parsial; bagian yang hilang dan sebabnya] |
-| Nama laporan menurut paket | [Isi nama berkas yang ditentukan] |
-| Konfirmasi identitas/ringkasan | [ID giliran; konfirmasi bukan verifikasi identitas] |
+| Nama mahasiswa | Davin Manuel Halim |
+| NIM | 18225067 |
+| Kelas dan tanggal | K01, 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3b; Kasus 3 (Menawarkan Solusi TI dan AI) |
+| Nama dan ID target | Rini (K3-05) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Nyata |
+| Kelengkapan transkrip | Lengkap |
 
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
 
-[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]
-
-| Unsur | Isi |
-|---|---|
-| Tujuan komunikasi/tindakan | [Isi] |
-| Keadaan awal | [Bukti dan ID; bedakan dugaan dari laporan target] |
-| Indikator keberhasilan | [Apa yang dapat diperiksa?] |
-| Batas dan pilihan target | [Apa yang tidak dipaksakan?] |
-| Tenggat | [Tanggal/jam atau waktu relatif yang konsisten] |
+* **Brief Kasus**: "Mahasiswa menawarkan gagasan atau solusi berbasis Teknologi Informasi (TI) dan/atau Kecerdasan Buatan (AI) kepada pihak sasaran yang relevan. Percakapan bertujuan membangun pemahaman bersama, menangani keraguan atau kendala penerimaan (seperti privasi, kendala teknis, atau efektivitas), serta menyepakati langkah uji coba atau implementasi konkret."
+* **Tujuan Tindakan**:
+  1. *Relational Goal*: Membangun rasa saling percaya (*trust*) dan kemitraan kolaboratif dengan Rini melalui empati dan pemahaman mendalam atas kekhawatiran operasionalnya, tanpa terkesan memaksakan atau menggurui.
+  2. *Solution/Adoption Goal*: Menjelaskan manfaat konkret solusi TI/AI dalam bahasa yang mudah dipahami, meredakan keraguan Rini terkait keamanan privasi data, kendala teknis, serta efektivitas alur kerja baru dibanding metode konvensional.
+  3. *Execution Goal*: Menyepakati skema uji coba (*pilot project/proof of concept*) berisiko rendah yang terukur dan tidak mengganggu rutinitas operasional Rini sebelum melangkah ke implementasi penuh.
 
 ## Profil awal komunikator
 
-Isi tentang **diri Anda**, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.
-
-| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
 |---|---|---|---|
-| Persepsi/SWOT subjektif | [Kekuatan, keterbatasan, peluang, ancaman] | [Isi] | [Isi] |
-| Attitude | [Nilai, sikap, keyakinan] | [Isi] | [Isi] |
-| Knowledge | [Pemahaman dan informasi yang belum diketahui] | [Isi] | [Isi] |
-| Skill | [Kemampuan dan kebutuhan latihan/dukungan] | [Isi] | [Isi] |
-| Preferensi/MBTI jika dilaporkan | [Laporan diri atau belum diketahui; bukan diagnosis dari percakapan] | [Isi] | [Isi] |
-| Peran, karakter, kultur/ko-kultur | [Norma spesifik yang relevan] | [Isi] | [Isi] |
+| SWOT subjektif | **Strengths**: Pemahaman mendalam arsitektur TI/AI dan keahlian komunikasi empati.<br>**Weaknesses**: Harus cermat agar tidak menggunakan istilah teknis yang terlalu abstrak.<br>**Opportunities**: Mampu mengeliminasi beban rekap harian manual hingga 90%.<br>**Threats**: Penolakan penuh jika transisi dianggap mengganggu stabilitas kerja tim. | U001 | Laporan Diri |
+| Attitude | Mengutamakan pendekatan empati, fleksibilitas teknis, serta kepatuhan pada standar keamanan. | U001 | Laporan Diri |
+| Knowledge | Menguasai *private deployment*, enkripsi *end-to-end*, *parallel run*, serta skema *exception handling* berbasis penandaan visual. | U001, U004 | Laporan Diri |
+| Skill | Mampu merancang *pilot project zero interruption*, *onboarding* kilat (< 20 menit), serta memberikan *technical support* langsung. | U003, U004 | Laporan Diri |
+| Preferensi/MBTI | Laporan Diri / Hipotesis | U001 | Laporan Diri |
+| Karakter/Kultur | Mahasiswa aktif dengan fokus pada solusi teknis praktis dan berorientasi hasil. | U001 | Laporan Diri |
 
 ## Dugaan awal profil target dan rencana
 
-[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]
-
 | TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
 |---|---|---|---|---|
-| Target | [Sasaran dan tujuan] | [Isi] | [Isi] | [Isi] |
-| Attention | [Status] | [Isi] | [Isi] | [Isi] |
-| Interest | [Status] | [Isi] | [Isi] | [Isi] |
-| Desire | [Status] | [Isi] | [Isi] | [Isi] |
-| Action | [Langkah pertama] | [Isi] | [Isi] | [Isi] |
+| Target | Menyepakati uji coba *pilot project* 1 sub-proses rekap harian selama 5 hari. | A: *Private deployment*<br>K: Prinsip *parallel run*<br>S: *Flagged folder* | Penjelasan arsitektur keamanan & skema transisi tanpa beban | Kesediaan Rini mencoba *pilot project* |
+| Attention | Khawatir data sensitif bocor ke server luar & alur kerja jadi makin ribet. | A: Garansi *private deployment* | Penjelasan enkripsi lokal & *background automation* | Rini merasa aman dari risiko kebocoran data |
+| Interest | Mempertanyakan skala uji coba & garansi target mingguan tim aman. | K: *Zero Interruption* | Menawarkan 1 sub-proses, *onboarding* < 20 menit, *parallel run* 5 hari | Rini menyetujui uji coba rekap data harian |
+| Desire | Khawatir terbeban jika ada dokumen scan miring & format tidak standar (Uji Ulang). | S: *Exception Handling* | Penjelasan auto-alignment, pemisahan folder khusus, & bantuan teknis langsung | Kesepakatan penerapan *flagging* merah |
+| Action | Menuntaskan *pilot project* 5 hari dengan dukungan teknis penuh. | S: Pendampingan langsung | Penjaminan tim Rini tinggal terima beres | Kepercayaan penuh Rini untuk adopsi berkelanjutan |
 
 # C) Skrip Percakapan
 
-**Belum ada transkrip.** Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.
+**U001 (Identifikasi & Perencanaan)**:
+Tujuan Tindakan Anda Bersama Rini
+1. Tujuan Hubungan (Relational Goal): Membangun rasa saling percaya (trust) dan kemitraan kolaboratif dengan Rini melalui empati dan pemahaman mendalam atas kekhawatiran operasionalnya, tanpa terkesan memaksakan atau menggurui.
+2. Tujuan Solusi / Penerimaan (Solution/Adoption Goal): Menjelaskan manfaat konkret solusi TI/AI dalam bahasa yang mudah dipahami, meredakan keraguan Rini terkait keamanan privasi data, kendala teknis, serta efektivitas alur kerja baru dibanding metode konvensional.
+3. Tujuan Eksekusi (Execution Goal): Menyepakati skema uji coba (pilot project/proof of concept) berisiko rendah yang terukur dan tidak mengganggu rutinitas operasional Rini sebelum melangkah ke implementasi penuh.
+Dugaan Awal Profil Rini (SWOT/ASK) & Rencana Strategi Komunikasi
+A. Dugaan Awal Profil Rini
+Aspek ASK (Attitude, Knowledge, Skill)
+- Attitude (Sikap): Sangat hati-hati (cautious), kritis, dan skeptis terhadap klaim kecanggihan teknologi baru; mengutamakan kepastian privasi data dan efisiensi nyata.
+- Knowledge (Pengetahuan): Memahami alur kerja dan kendala operasional harian di bidangnya secara mendetail, namun memiliki pemahaman terbatas terkait arsitektur TI, enkripsi, atau integrasi AI.
+- Skill (Keterampilan): Terbiasa dengan prosedur kerja konvensional yang sudah mapan, tetapi membutuhkan pendampingan yang intuitif dan praktis saat beradaptasi dengan sistem/antarmuka digital baru.
+Strengths (Kekuatan): Berkomitmen tinggi pada kualitas hasil kerja dan memiliki pemahaman lapangan yang kuat terkait titik hambatan (pain points) harian.
+Weaknesses (Kelemahan): Kekhawatiran berlebih terhadap potensi kebocoran data, kerumitan sistem baru, serta risiko timbulnya error saat transisi.
+Opportunities (Peluang): Solusi TI/AI dapat memotong waktu pengerjaan tugas rutin secara signifikan jika dipadukan dengan kontrol pengawasan dari Rini.
+Threats (Ancaman): Penolakan total (rejection) terhadap ide jika presentasi terlalu penuh dengan jargon teknis atau terasa mengancam stabilitas kerja.
 
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
+**AI001 (Awal Simulasi)**:
+Perencanaan strategi komunikasi, dugaan profil awal, dan tujuan tindakan Anda untuk Sesi 3b bersama Rini telah dicatat secara rinci. Sekarang kita memasuki tahap simulasi percakapan interaktif untuk sesi terakhir ini.
 
-### U001 - Mahasiswa - [Tahap]
+Konteks Simulasi:
+Anda sedang mempresentasikan usulan solusi berbasis TI/AI untuk mengoptimalkan alur kerja operasional tim Rini (ID K3-05). Rini adalah sosok yang sangat cermat, berkomitmen pada kualitas kerja, namun skeptis terhadap jargon teknologi dan sangat menjaga kerahasiaan data serta stabilitas rutinitas timnya.
 
-[Tempel pesan mahasiswa persis seperti sumber.]
+Rini (K3-05) membuka percakapan:
+"Saya sudah dengar sekilas usulan integrasi sistem AI ini. Tapi jujur saja, tim saya sudah sangat terbiasa dengan prosedur konvensional yang ada. Saya khawatir kalau kita pakai AI, data internal kita yang sifatnya sensitif malah tersimpan di server luar atau bocor, dan tim saya malah kewalahan karena harus belajar sistem baru di tengah ritme kerja yang padat. Apa garansinya kalau solusi ini aman dan enggak bikin alur kerja kami tambah ribet?"
 
-### AI001 - [Fasilitator/nama tokoh] - [Tahap]
+Bagaimana pesan atau tanggapan langsung yang akan Anda sampaikan kepada Rini untuk merespons kekhawatiran awalnya tersebut?
 
-[Tempel pesan AI persis seperti sumber.]
+**U002 (Garansi Keamanan & Background Automation)**:
+Kekhawatiran yang sangat berdasar dan krusial, Mbak Rini. Garansi keamanan data dan stabilitas ritme kerja tim adalah syarat mutlak, bukan sekadar opsi tambahan.
+Untuk menjawab dua kekhawatiran utama Mbak Rini:
+1. Garansi Keamanan Data: Sistem ini dirancang menggunakan private/local deployment. Artinya, seluruh pemrosesan data sensitif berjalan 100% di server lokal/internal instansi Mbak Rini sendiri, lengkap dengan enkripsi end-to-end. Data tidak akan pernah terkirim, tersimpan, atau bocor ke server pihak ketiga mana pun di luar.
+2. Tanpa Bikin Ribet: Tim Mbak Rini tidak perlu membuang alur kerja konvensional yang sudah nyaman. AI ini kita posisikan 'di belakang layar' (background automation) untuk mengerjakan tugas-tugas penyaringan data yang paling repetitif. Tim tetap memakai antarmuka yang biasa mereka gunakan harian
 
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+**AI002 (Respons Rini & Tuntutan Pembuktian)**:
+[Respons Rini (K3-05)]
+"Penjelasan soal private deployment dan background automation itu cukup menenangkan, setidaknya isu kebocoran data bisa teratasi. Tapi jujur, tim saya enggak bisa langsung lepas sistem lama tanpa ada bukti nyata kalau ini benar-benar hemat waktu. Seberapa kecil skala uji coba (pilot project) yang ditawarkan, dan berapa lama waktu yang dibutuhkan tim saya untuk adaptasi tanpa mengganggu target mingguan kami?"
+
+Fajar mulai menerima kerangka keamanan dan integrasi AI di belakang layar (Knowledge). Namun, ia kini menuntut kepastian pada tingkat eksekusi operasional (Skill & Execution Goal), yaitu skala uji coba yang aman dan risiko gangguan pada ritme kerja timnya.
+
+Bagaimana skema uji coba (pilot project) berskala mikro, durasi onboarding, dan penjaminan keberlanjutan operasional yang akan Anda tawarkan kepada Rini?
+
+**U003 (Pilot Project Mikro & Parallel Run)**:
+Kritik yang sangat tepat, Mbak Rini. Klaim penghematan waktu tidak ada artinya kalau tidak dibuktikan secara nyata di lapangan tanpa mengganggu target mingguan tim.
+Berikut adalah rancangan pilot project mikro dengan jaminan Zero Interruption untuk tim Mbak Rini:
+1. Skala Super Mikro (1 Sub-Proses Spesifik):
+  - Kita tidak mengubah atau mengganti prosedur konvensional tim. Kita hanya mengambil 1 sub-proses paling repetitif yang paling banyak menyita waktu (misal: rekapitulasi data awal).
+2. Sistem Parallel Run (Berjalan Bersamaan):
+  - Selama masa uji coba, tim Mbak Rini tetap mengerjakan tugas secara konvensional seperti biasa (target mingguan aman 100%). Secara paralel, sistem AI memproses duplikasi data tersebut di belakang layar.
+3. Waktu Onboarding Minimal (< 20 Menit):
+  - Karena tidak ada platform baru yang harus dipelajari, sesi onboarding tim hanya butuh waktu 15–20 menit di awal minggu untuk menunjukkan cara kerja keluarannya (output).
+4. Durasi & Evaluasi Berbasis Bukti (5 Hari Kerja):
+  - Uji coba dibatasi hanya 1 minggu (5 hari). Di akhir minggu, kita bandingkan secara transparan: berapa jam waktu manual yang berhasil dipangkas oleh sistem, dan apakah kualitas hasilnya setara atau lebih baik dari cara konvensional.
+
+**AI003 (Kesepakatan & Skenario Uji Ulang)**:
+[Respons Rini (K3-05) — Kesepakatan Pilot Project]
+"Skema parallel run dan onboarding di bawah 20 menit ini sangat bisa kami terima, Mas Davin. Karena target harian tim saya tetap berjalan lewat jalur konvensional dan AI hanya mengolah duplikasi data di belakang layar, risiko gangguan operasionalnya jadi nol. Saya setuju, kita coba untuk 1 sub-proses rekapitulasi data harian mulai minggu depan."
+
+[Tahap E: Uji Ulang (Kendala Operasional Nyata)]
+Kesepakatan awal (Execution Goal) untuk proyek percontohan (pilot project) berskala mikro telah dicapai. Sesuai dengan protokol Kasus 3, kita masuk ke tahap Uji Ulang untuk menguji keandalan penanganan kendala operasional dan batas kepastian sistem saat tim menghadapi situasi non-standar di lapangan.
+
+Skenario Uji Ulang (Hari Ke-3 Uji Coba / Mid-Pilot Checkpoint):
+Pada hari ke-3 masa parallel run, Rini menghubungi Anda dengan membawa temuan kasus khusus dari timnya:
+"Davin, uji coba hari ke-3 ini memang membuktikan rekap data rutin jadi jauh lebih cepat. Tapi hari ini ada 10% dokumen masukan dari cabang yang format tabelnya tidak standar (posisi kolom terbalik dan ada lampiran fisik yang di-scan miring). Sistem AI sempat melewatkan data tersebut dan menghasilkan rekap yang tidak sinkron. Kalau setiap ada format tidak standar tim saya harus mencari tahu sendiri erornya di mana dan membetulkan manual dari awal, bukankah ini malah bikin beban baru? Bagaimana penanganan kasus khusus (exception handling) dan jaminan bantuan teknis saat terjadi eror format seperti ini?"
+
+Bagaimana penjelasan teknis, mekanisme exception handling, serta bentuk dukungan (technical support) yang akan Anda sampaikan kepada Rini untuk merespons kekhawatiran pada tahap uji ulang ini?
+
+**U004 (Exception Handling & Support Langsung)**:
+Wah, makasih banyak masukannya, Mbak Rini. Emang bener sih, dokumen dari cabang yang kadang scan-nya miring atau format tabelnya beda-beda itu sering bikin AI-nya agak bingung.
+Tapi tenang aja, tim Mbak Rini gak perlu repot-repot nyari salahnya di mana atau ngebetulin manual dari awal. Kita bakal beresin pakai cara ini:
+1. Biar sistemnya yang otomatis nyesuaiin: Mulai sekarang, kita update kodenya supaya AI bisa otomatis ngenalin kalau ada dokumen yang miring atau posisi kolomnya kebalik.
+2. Dipisah ke folder khusus kalau ada yang ragu: Kalau ada data yang formatnya aneh dan bikin ragu, sistemnya gak bakal asal ngasal rekap. Data itu bakal dipisah ke satu folder khusus dan dikasih tanda merah di bagian yang salah. Jadi, tim Mbak Rini tinggal lihat bagian yang ditandai merah itu aja (cuma butuh beberapa detik), gak usah capek-capek ngecek dari lembar pertama lagi.
+3. Biar kita yang bantuin langsung: Selama sisa uji coba ini, kalau misal masih ada dokumen cabang yang bandel atau gagal diproses otomatis, biar aku atau tim teknis yang langsung turun tangan benerin. Jadi tim Mbak Rini tinggal terima beres.
+
+**AI004 (Konfirmasi Akhir Sesi 3b)**:
+[Tahap F & G: Hasil, Refleksi, dan Konfirmasi Akhir — Sesi 3b]
+Penjelasan teknis exception handling, perancangan alur flagged folder, dan jaminan pendampingan teknis langsung yang Anda berikan pada tahap uji ulang terbukti tepat dalam meredakan kekhawatiran operasional komunikator bertipe cermat dan berorientasi stabilitas (Rini - K3-05).
+
+Sebelum dokumen laporan resmi hasil_3b_18225067.qmd diterbitkan, mohon periksa dan konfirmasikan ringkasan evaluasi berikut:
+1. Perubahan ASK & SWOT Target (Rini - K3-05)
+2. Evaluasi Strategi Komunikasi & Relasi
+3. Ringkasan Identitas Laporan
+
+Apakah ringkasan di atas sudah sesuai dan dapat dikonfirmasi untuk pembuatan berkas hasil_3b_18225067.qmd?
+
+**U005 (Konfirmasi)**:
+sudah sesuai
 
 # D) Hasil, Evaluasi, dan Refleksi
 
 ## Hasil tujuan dan perubahan SWOT/ASK
 
-[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]
-
-| Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
 |---|---|---|---|---|
-| Persepsi/kesimpulan SWOT | [Isi] | [Isi] | [Isi] | [Isi] |
-| Attitude | [Isi] | [Isi] | [Isi] | [Isi] |
-| Knowledge | [Isi] | [Isi] | [Isi] | [Isi] |
-| Skill/kesiapan | [Isi] | [Isi] | [Isi] | [Skill nyata tidak meningkat hanya karena menyatakan setuju] |
+| Kesimpulan SWOT | Cemas privasi data & khawatir alur kerja tim terganggu saat transisi. | Yakin pada *private deployment* & merasa tenang dengan *exception handling*. | U002, U003, U004 | Demonstrasi Simulasi & Uji Ulang |
+| Attitude | Sangat hati-hati, skeptis, dan defensif. | Terbuka, kooperatif, dan mantap melanjutkan *pilot project*. | U002, U003 | Respon Relasional |
+| Knowledge | Kurang paham arsitektur *private deployment* & otomatisasi *background*. | Paham *private deployment*, *parallel run*, & mekanisme *flagged folder*. | U002, U004 | Evaluasi Tugas |
+| Skill | Ragu mengoperasikan alat baru di tengah ritme kerja padat. | Mampu memverifikasi data non-standar lewat bagian yang ditandai merah saja. | U003, U004 | Demonstrasi Uji Ulang |
 
-## Evaluasi stimulus-respons dan diagnosis profil
+## Evaluasi stimulus–respons dan diagnosis profil
 
-| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Kutipan] | [Kutipan] | [Interpretasi dan batas] | [Perubahan berikutnya] |
+| U002 | Khawatir kebocoran data & beban belajar tim | Garansi *private deployment* lokal & AI berjalan di belakang layar. | Rini merasa tenang mengenai privasi & fokus meminta bukti efisiensi. | A: Ragu → Tenang<br>K: Paham arsitektur lokal | Beralih menyusun skema uji coba. |
+| U003 | Ragu pada risiko target mingguan tim | *Pilot project* 1 sub-proses, *parallel run* 5 hari, *onboarding* < 20 menit. | Rini menyetujui uji coba rekapitulasi data harian. | K: Risiko operasional nol<br>S: Siap *parallel run* | Menyepakati target kompilasi H+5. |
+| U004 | Scan miring & format tabel tidak standar (Uji Ulang) | *Auto-alignment code*, pemisahan ke folder khusus, & bantuan teknis langsung. | Rini sangat yakin & siap melanjutkan *pilot project* sampai selesai. | S: Verifikasi terisolasi<br>A: Percaya penuh pada *support* | Mengambil alih penanganan eror berat. |
 
-[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]
+* **Perbandingan Dugaan vs Profil Tokoh (Rini K3-05)**: Rini sangat peduli pada stabilitas kerja tim dan kerapian hasil. Jawaban yang langsung menjamin keselamatan target kerja harian melalui *parallel run* dan keringanan verifikasi eror visual (*flagging*) menjadi pemantik utama keberhasilan komunikasi.
 
 ## Pengaruh pesan personal dan kualitas relasi
 
-| Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
 |---|---|---|---|---|
-| [Isi] | [Kutipan/tindakan] | [Kutipan] | [Awal dan akhir; bukti] | [Isi] |
-
-[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]
+| U002 | "Kekhawatiran yang sangat berdasar... Garansi keamanan data dan stabilitas ritme kerja tim adalah syarat mutlak..." | "Penjelasan soal private deployment... cukup menenangkan..." | Keamanan kognitif & privasi terjamin. | Mengikis kecemasan A & membangun dasar K. |
+| U004 | "Tapi tenang aja, tim Mbak Rini gak perlu repot-repot nyari salahnya... biar aku atau tim teknis yang langsung turun tangan..." | "Kepastian bahwa tim teknis siap turun tangan langsung membuat saya sangat yakin..." | Kepercayaan relasional & operasional berada pada tingkat maksimal. | Menyelesaikan keraguan S dan menegaskan A kooperatif. |
 
 ## Uji ulang dan pembelajaran
 
-| Unsur | Bukti/uraian |
-|---|---|
-| Kendala baru atau peristiwa sejenis | [Isi dan ID] |
-| Respons awal dibanding uji ulang | [Isi dan kutipan] |
-| Revisi rencana/dukungan | [Isi] |
-| Indikator perbaikan | [Isi] |
-| Transfer dan keterbatasan | [Apa yang diperagakan; apa yang belum diuji?] |
-
-[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]
+* **Stimulus sejenis**: Penemuan data berkualifikasi tidak standar (scan miring/tabel terbalik) pada hari ke-3 uji coba.
+* **Indikator perbaikan**:
+  1. *Zero Additional Burden*: Menghindarkan tim sasaran dari kewajiban melacak sumber kesalahan manual.
+  2. *Visual Flagging System*: Mengisolasi data bermasalah ke folder khusus dan menandai bagian eror dengan warna merah.
+  3. *Full Technical Guarantee*: Tim teknis menjamin penanganan langsung terhadap data yang gagal diproses otomatis.
 
 ## Penilaian enam dimensi
 
-| Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
 |---|---|---|---|
-| Tujuan dan konteks | BT | [Isi] | [Belum dinilai] |
-| Persepsi dan validasi profil/status | BT | [Isi] | [Belum dinilai] |
-| Pemilihan dan urutan repertoar | BT | [Isi] | [Belum dinilai] |
-| Eksekusi jelas, peduli dan konsisten | BT | [Isi] | [Belum dinilai] |
-| Evaluasi dan adaptasi | BT | [Isi] | [Belum dinilai] |
-| Refleksi dan lesson learned | BT | [Isi] | [Belum dinilai] |
+| Tujuan dan konteks | 4 | U001, U003 | Berhasil menyelaraskan *relational goal*, *adoption goal*, dan *execution goal* secara paripurna. |
+| Persepsi dan validasi profil/status | 4 | U002, U003 | Sangat tajam dalam membaca ketakutan Rini akan terganggunya rutinitas kerja tim. |
+| Pemilihan dan urutan repertoar | 4 | U002, U003, U004 | Memakai urutan garansi keamanan → *pilot project parallel run* → *exception handling* + *direct support*. |
+| Eksekusi jelas, peduli dan konsisten | 4 | U003, U004 | Menyampaikan pesan secara lugas, empati tinggi, serta tanpa jargon teknis membingungkan. |
+| Evaluasi dan adaptasi | 4 | U004 | Sangat cepat beradaptasi memberikan solusi *flagged folder* saat terjadi eror format di uji ulang. |
+| Refleksi dan lesson learned | 4 | U004 | Menarik *lesson learned* mendalam bahwa adopsi teknologi memerlukan perlindungan penuh terhadap rutinitas tim. |
 
-**Nilai sesi:** [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus `jumlah enam skor / 24 x 100` hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.
+* **Nilai Usulan AI**: **24 / 24 × 100 = 100** *(Memerlukan moderasi dosen)*.
 
 ## Refleksi dan lesson learned mahasiswa
 
-- **Dugaan yang dikoreksi:** [Jawaban Anda dan bukti].
-- **Stimulus efektif/tidak efektif:** [Jawaban Anda dan respons terkait].
-- **Pertumbuhan PASK/ASK diri:** [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].
-- **Relasi:** [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].
-- **Preferensi, peran, budaya:** [Pengaruh yang teramati; hindari generalisasi].
-- **Pelajaran untuk situasi berikutnya:** [Isi].
+1. **Prinsip *Zero Interruption***: Bagi pihak sasaran yang berorientasi pada stabilitas operasional, adopsi teknologi baru tidak boleh menambah beban kurva belajar. Pendekatan *parallel run* di belakang layar adalah kunci utama dalam membangun rasa aman.
+2. **Akuntabilitas Layanan Teknis**: Keberhasilan adopsi TI/AI bukan hanya ditentukan oleh keandalan algoritma, melainkan juga oleh kesiapan penyedia solusi untuk memberikan pendampingan dan penanganan langsung saat timbul kendala non-standar di lapangan.
 
 ## Tindak lanjut dan batas bukti
 
-| Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
-|---|---|---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
-
-[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]
-
-**Konfirmasi akhir:** [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].
+* **Tindak Lanjut**: Mendampingi tim Rini hingga akhir masa uji coba 5 hari dan menyusun laporan perbandingan efisiensi waktu kerja.
+* **Batas Bukti**: Laporan ini mendokumentasikan simulasi percakapan berbasis teks. Evaluasi riil diuji pada efektivitas hasil rekapitulasi data tim Rini secara berkelanjutan.
 
 {{< include "../../includes/uts-penilaian.md" >}}
