@@ -1,9 +1,9 @@
 -
 title: "MBTI, Komunikasi Efektif, dan Pengembangan PASK"
 subtitle: "Kajian ringkas tentang preferensi kepribadian dan respons terhadap stimulus"
-author: "[Nama mahasiswa - NIM]"
+author: "Davin"
 lang: id
-status: "Belum dimulai"
+status: "Siap dinilai"
 format:
   html:
     toc: true
