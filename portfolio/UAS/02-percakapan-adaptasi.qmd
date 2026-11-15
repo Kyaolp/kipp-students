@@ -1,0 +1,41 @@
+---
+title: "Jejak Percakapan dan Adaptasi"
+---
+
+[Indeks](index.qmd) · [Contoh](../../examples/UAS/02-percakapan-adaptasi.qmd)
+
+**Batas: 4 halaman + tautan bukti pilihan. Bobot: 35%.** Tidak wajib transkrip lengkap atau laporan per audiens.
+
+Ulangi blok berikut untuk **E1 discovery**, **E2 negosiasi pelaksanaan/dukungan**, dan **E3 evaluasi hasil**. Bila perlu, tambahkan cuplikan pelengkap dalam batas isi utama.
+
+## E1 — Discovery
+
+**Tanggal, person/peran, kontributor, nyata/simulasi:** [Isi].
+
+**Tujuan; fakta dan dugaan awal:** [Isi].
+
+| Baris/timestamp | Pembicara | Kutipan/catatan terkonfirmasi |
+|---|---|---|
+| [Isi] | [Isi] | [Isi] |
+
+**Respons penting → adaptasi → hasil:** [Isi perubahan pertanyaan, bahasa, solusi, atau keputusan].
+
+**Tindak lanjut:** [Isi owner, tindakan, tenggat dan review; atau penolakan beralasan].
+
+**Bukti pilihan dan izin/akses:** [Isi tautan; jelaskan bila tidak direkam].
+
+## E2 — Negosiasi pelaksanaan/dukungan
+
+[Gunakan isian yang sama. Bahas lingkup, biaya, peran, kewenangan, risiko dan kesepakatan. Pendanaan terpisah tidak wajib.]
+
+## E3 — Evaluasi bersama mitra
+
+[Gunakan isian yang sama. Bahas hasil uji, keberatan, perubahan, keputusan dan relasi.]
+
+## Keterlacakan individual dan AI
+
+| Anggota/NIM | Bukti berbicara | Bukti mendengar | Bukti beradaptasi |
+|---|---|---|---|
+| [Isi tiap anggota] | [ID/baris] | [ID/baris] | [ID/baris] |
+
+[Isi alat/tujuan AI, hasil diterima/diubah/ditolak dan verifikasi; atau tidak digunakan.]

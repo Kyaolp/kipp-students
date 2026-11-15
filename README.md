@@ -74,3 +74,7 @@ Makalah pra-UTS berbobot **10%**, dan masing-masing sesi **1, 2a, 2b, 3a, 3b ber
 - Bedakan kontribusi individual dari hasil kelompok.
 - Minta deklarasi penggunaan AI.
 - Berikan satu prioritas perbaikan yang dapat diuji melalui replay atau evidence berikutnya.
+
+## UAS empat artefak
+
+Paket UAS menggunakan satu mitra, satu masalah dan satu pilot kecil: rencana proyek (20%), jejak percakapan/adaptasi (35%), demonstrasi/hasil (25%), refleksi individual (20%). Lihat [panduan](lk/lk-UAS/index.qmd), [template](portfolio/UAS/index.qmd), dan [contoh fiktif](examples/UAS/index.qmd). Materi lama disimpan di `archive/uas-14-artefak/` dan tidak menjadi ketentuan aktif.

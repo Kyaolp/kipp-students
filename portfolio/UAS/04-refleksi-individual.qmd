@@ -1,0 +1,25 @@
+---
+title: "Refleksi Individual dan Rencana Perbaikan"
+---
+
+[Indeks](index.qmd) · [Contoh](../../examples/UAS/04-refleksi-individual.qmd)
+
+**Batas: 1 halaman per mahasiswa, dihimpun dalam satu berkas kelompok. Bobot: 20%.** Ulangi blok untuk tiap anggota. Tidak wajib jurnal terpisah.
+
+## [Nama — NIM]
+
+**Kontribusi:** [Isi tindakan sendiri dan ID/baris bukti; bedakan dari hasil tim].
+
+**Tantangan dan narasi diri:** [Isi satu kejadian, fakta, interpretasi/emosi, asumsi yang diperiksa, pilihan respons].
+
+**Adaptasi penting:** [Isi respons pihak lain, perubahan yang dilakukan, dan hasil].
+
+**Replay/perbaikan:** [Isi sebelum → feedback → tindakan ulang/perbaikan → respons/hasil; tautkan bukti].
+
+**Penggunaan AI:** [Isi alat, tujuan, output dipakai/diubah/ditolak, verifikasi dan tanggung jawab; atau tidak digunakan].
+
+**Langkah belajar:** [Isi satu perilaku, kesempatan praktik berikut, tenggat dan indikator berhasil].
+
+## Penilaian oleh assessor
+
+Skor individual dicatat pada rubrik/rekap assessor, tidak menjadi artefak mahasiswa tambahan. Gunakan [empat komponen dan bobot terbaru](../../lk/lk-UAS/index.qmd#penilaian-individual): 20%, 35%, 25%, 20%. Empat aspek per komponen, skala 1–4; nilai komponen = jumlah /16 × 100. BT bukan nol; tunda nilai akhir bila belum lengkap.

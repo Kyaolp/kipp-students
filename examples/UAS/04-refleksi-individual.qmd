@@ -1,0 +1,21 @@
+---
+title: "Contoh — Refleksi Individual dan Rencana Perbaikan"
+---
+
+[Indeks contoh](index.qmd) · [Template](../../portfolio/UAS/04-refleksi-individual.qmd)
+
+**Contoh tiga refleksi ringkas; masing-masing dikembangkan maksimal 1 halaman dengan bukti autentik. Semua replay di bawah ilustratif.**
+
+## Alya — CONTOH-01
+
+Kontribusi E1:1–3: meminta kejadian konkret, merangkum, mengubah fokus chatbot menjadi jejak tahap. Awalnya saya menafsirkan penolakan teknologi sebagai penolakan kemampuan saya; fakta E1:2 menunjukkan kebutuhan berbeda. Pada replay R-A saya mengganti “chatbot kami cocok” dengan “bagian pekerjaan mana yang sulit?”. Respons pemeran lebih spesifik tentang status. Belum membuktikan kebiasaan permanen. AI menyarankan pertanyaan, saya membuang yang menggiring. Praktik berikut: dua pertanyaan terbuka dan satu konfirmasi sebelum menawarkan solusi pada pertemuan berikutnya.
+
+## Bima — CONTOH-02
+
+Kontribusi E2:1–3: menggali beban input, menghapus aplikasi tambahan. Saya semula menyamakan banyak fitur dengan manfaat; keberatan Dedi mengubah pilihan. Replay R-B memperagakan jawaban “perlu cek” ketika kolom kosong; pemeran dapat menjelaskan aturan kembali. AI membantu memeriksa SOP; keputusan tetap saya periksa terhadap kesepakatan E2. Target berikut: uji satu kasus gagal bersama staf sebelum menjanjikan fungsi baru.
+
+## Citra — CONTOH-03
+
+Kontribusi E3:1–3: membuka pembahasan beban, merangkum kelupaan waktu, merevisi papan. Saya takut menyebut hasil buruk; saya memilih menampilkan kenaikan waktu input. Replay R-C memakai kolom waktu lebih besar; pemeran ingat mengisinya pada satu latihan, belum bukti operasional berkelanjutan. AI menawarkan klaim “menghemat kerja 60%”, saya menolaknya karena hanya waktu pencarian yang dihitung. Target berikut: minta pengguna menjelaskan satu batas solusi sebelum menyetujui pesan akhir.
+
+Nilai belum dihitung: contoh tidak memiliki bukti nyata atau skor assessor. BT bukan nol. Bobot empat artefak 20%, 35%, 25%, 20%; jangan gunakan formula rancangan lama.

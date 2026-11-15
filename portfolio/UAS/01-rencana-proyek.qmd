@@ -1,0 +1,36 @@
+---
+title: "Rencana Proyek dan Kesepakatan Tim"
+---
+
+[Indeks](index.qmd) · [Contoh](../../examples/UAS/01-rencana-proyek.qmd)
+
+**Batas: 3 halaman. Bobot: 20%.**
+
+## Masalah dan mitra
+
+[Isi satu masalah, siapa mengalami, bukti discovery, kondisi awal dan konfirmasi prioritas. Rujuk E1 pada artefak 2.]
+
+## Kemampuan dan kesepakatan tim
+
+| Nama/NIM | Kemampuan dan bukti singkat | Tugas/owner | Tenggat |
+|---|---|---|---|
+| [Isi tiap anggota] | [Isi] | [Isi] | [Isi] |
+
+[Isi cara mengambil keputusan, menyampaikan keberatan, memeriksa kemajuan dan memperbaiki komitmen.]
+
+## Solusi dan pilot
+
+[Isi alternatif sederhana, alasan memilih, prototipe, lingkup, indikator awal/akhir, metode ukur, risiko/beban, izin data, kriteria ubah/hentikan.]
+
+| Kegiatan | Owner | Waktu | Hasil yang diperiksa |
+|---|---|---|---|
+| Discovery, negosiasi, uji, evaluasi, revisi | [Isi] | [Isi] | [Isi] |
+
+## Anggaran dan sumber daya
+
+| Pos dan dasar estimasi | Rencana | Realisasi | Sumber/bukti |
+|---|---:|---:|---|
+| [Isi volume × biaya satuan] | [Isi] | [Isi/belum ada] | [Isi] |
+| Total, maksimal rencana Rp10 juta | [Isi] | [Isi] | [Isi] |
+
+[Isi dana tersedia/natura, batas janji, dukungan setelah uji, serta deklarasi AI singkat.]
