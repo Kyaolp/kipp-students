@@ -11,6 +11,20 @@ Solusi dapat berupa jasa, panduan, desain, perbaikan proses, alat, kegiatan bela
 
 Paket empat artefak ini menggantikan pengumpulan 14 artefak serta ketentuan lima/tujuh ranah terpisah dalam proyek ini. Pendanaan, komunitas, dan publik dibahas bila relevan; tidak wajib menjadi laporan atau sesi tambahan. Tidak ada kewajiban penjualan, kontrak kedua, jumlah pengikut, atau penghimpunan dana nyata.
 
+## Pilot UAS KIPP-CIA
+
+[KIPP-CIA](https://github.com/azral1962/kipp-cia) adalah pustaka bersama untuk prompt, skill, dan alur kerja akademik. Jadikan satu kebutuhan belajar sebagai masalah pilot dan pilih satu kelompok pengguna sebagai mitra. Contohnya, ajak kelompok belajar Probabilitas dan Statistika menguji apakah panduan Tutor Sokratik dan tabel frekuensi membantu mereka menjelaskan peluang spam pada [demo Bayes dengan data sintetis](https://github.com/azral1962/kipp-cia/blob/main/04-alur-kerja/DEMO_TERINTEGRASI.md). Tim juga dapat memilih topik mata kuliah lain dengan bukti yang dapat diperiksa.
+
+1. Pilih satu paket katalog untuk diuji atau diperbaiki. Catat ID, versi, dan tautan sumber, lalu sepakati satu indikator dengan mitra.
+2. Jalankan paket pada tugas yang disepakati. Catat contoh masukan, keluaran, cara pemeriksaan manusia, dan bagian yang perlu diperbaiki. Mintalah mahasiswa dari tim lain mencoba paket dan memberi ulasan.
+3. Revisi berdasarkan umpan balik mitra dan reviewer. Tautkan bukti melalui ID bukti UAS serta tautan paket, ulasan, atau pull request yang dapat diakses penilai. Jika perubahan baru diajukan, catat status pengajuannya.
+
+Target 25 rancangan prompt dan 15 rancangan skill, dengan sedikitnya 10 prompt dan 6 skill teruji, berlaku untuk pustaka bersama lintas tim. Portfolio tiap tim 3–4 mahasiswa melaporkan pilot kecil dan kontribusi anggotanya. Kontribusi katalog dan ulasan sejawat menjadi bukti dalam empat artefak yang sudah ada.
+
+Gunakan katalog lokal atau berkas Markdown untuk pilot. Bot Telegram dapat dipakai jika sudah tersedia di grup yang diizinkan. Penggunaan Telegram dan Ollama bersifat opsional. Untuk bukti publik, pakai data sintetis atau materi yang mendapat izin dan telah disamarkan.
+
+[Katalog prompt](https://github.com/azral1962/kipp-cia/blob/main/02-prompt/KATALOG.md) · [Katalog skill](https://github.com/azral1962/kipp-cia/blob/main/03-skill/KATALOG.md) · [Panduan kontribusi](https://github.com/azral1962/kipp-cia/blob/main/CONTRIBUTING.md)
+
 ## Empat artefak pengumpulan
 
 | Artefak | Isi minimum | Bentuk | Bobot |

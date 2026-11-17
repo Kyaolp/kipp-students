@@ -4274,7 +4274,7 @@
     "href": "assessment/uas.html",
     "title": "Penilaian UAS — Empat Artefak",
     "section": "",
-    "text": "Gunakan panduan penilaian UAS. Empat komponen: rencana 20%, proses komunikasi 35%, demonstrasi/hasil 25%, refleksi individual 20%.\nNilai tiap mahasiswa berdasarkan kontribusinya; artefak tim tidak otomatis menghasilkan nilai sama. Empat aspek per komponen diberi skor 1–4; jumlah /16 × 100. BT bukan nol; nilai akhir ditunda bila belum lengkap. Sertakan ID bukti dan satu prioritas perbaikan. Rubrik mingguan /20 dan formula UTS tidak dipakai untuk UAS.\nTemplate · Contoh fiktif\n\n\n\n Kembali ke atas",
+    "text": "Gunakan panduan penilaian UAS. Empat komponen: rencana 20%, proses komunikasi 35%, demonstrasi/hasil 25%, refleksi individual 20%.\nNilai tiap mahasiswa berdasarkan kontribusinya; artefak tim tidak otomatis menghasilkan nilai sama. Empat aspek per komponen diberi skor 1–4; jumlah /16 × 100. BT bukan nol; nilai akhir ditunda bila belum lengkap. Sertakan ID bukti dan satu prioritas perbaikan. Rubrik mingguan /20 dan formula UTS tidak dipakai untuk UAS.\nUntuk pilot KIPP-CIA, periksa tautan paket, hasil uji, ulasan sejawat, dan revisi dalam empat artefak. Gunakan bukti itu untuk menilai tindakan masing-masing mahasiswa dengan rubrik UAS yang sama.\nTemplate · Contoh fiktif\n\n\n\n Kembali ke atas",
     "crumbs": [
       "Assessment",
       "Penilaian UAS — Empat Artefak"
@@ -8361,5 +8361,23 @@
     "title": "Minggu 14 — AI-Mediated Communication",
     "section": "Pegangan satu menit",
     "text": "Pegangan satu menit\n\nUse AI to increase human competence. Keep authority explicit. Keep relationship-critical communication human-owned."
+  },
+  {
+    "objectID": "lk/lk-UAS/index.html#pilot-uas-kipp-cia",
+    "href": "lk/lk-UAS/index.html#pilot-uas-kipp-cia",
+    "title": "UAS — Satu Masalah, Satu Pilot, Empat Artefak",
+    "section": "Pilot UAS KIPP-CIA",
+    "text": "Pilot UAS KIPP-CIA\nKIPP-CIA adalah pustaka bersama untuk prompt, skill, dan alur kerja akademik. Jadikan satu kebutuhan belajar sebagai masalah pilot dan pilih satu kelompok pengguna sebagai mitra. Contohnya, ajak kelompok belajar Probabilitas dan Statistika menguji apakah panduan Tutor Sokratik dan tabel frekuensi membantu mereka menjelaskan peluang spam pada demo Bayes dengan data sintetis. Tim juga dapat memilih topik mata kuliah lain dengan bukti yang dapat diperiksa.\n\nPilih satu paket katalog untuk diuji atau diperbaiki. Catat ID, versi, dan tautan sumber, lalu sepakati satu indikator dengan mitra.\nJalankan paket pada tugas yang disepakati. Catat contoh masukan, keluaran, cara pemeriksaan manusia, dan bagian yang perlu diperbaiki. Mintalah mahasiswa dari tim lain mencoba paket dan memberi ulasan.\nRevisi berdasarkan umpan balik mitra dan reviewer. Tautkan bukti melalui ID bukti UAS serta tautan paket, ulasan, atau pull request yang dapat diakses penilai. Jika perubahan baru diajukan, catat status pengajuannya.\n\nTarget 25 rancangan prompt dan 15 rancangan skill, dengan sedikitnya 10 prompt dan 6 skill teruji, berlaku untuk pustaka bersama lintas tim. Portfolio tiap tim 3–4 mahasiswa melaporkan pilot kecil dan kontribusi anggotanya. Kontribusi katalog dan ulasan sejawat menjadi bukti dalam empat artefak yang sudah ada.\nGunakan katalog lokal atau berkas Markdown untuk pilot. Bot Telegram dapat dipakai jika sudah tersedia di grup yang diizinkan. Penggunaan Telegram dan Ollama bersifat opsional. Untuk bukti publik, pakai data sintetis atau materi yang mendapat izin dan telah disamarkan.\nKatalog prompt · Katalog skill · Panduan kontribusi"
+  },
+  {
+    "objectID": "portfolio/UAS/index.html#bukti-pilot-kipp-cia",
+    "href": "portfolio/UAS/index.html#bukti-pilot-kipp-cia",
+    "title": "Portfolio UAS — [Judul Proyek Tim]",
+    "section": "Bukti pilot KIPP-CIA",
+    "text": "Bukti pilot KIPP-CIA\n\nRencana: tautkan paket atau alur kerja, sebutkan ID dan versi, serta jelaskan kebutuhan mitra dan indikator yang disepakati.\nPercakapan dan adaptasi: catat tiga episode bersama mitra dan tunjukkan revisi setelah uji silang atau ulasan tim lain.\nDemonstrasi: tunjukkan masukan, keluaran, pemeriksaan manusia, hasil terhadap indikator, dan keterbatasan. Tautkan bukti uji atau pull request jika tersedia.\nRefleksi: tunjukkan kontribusi pribadi terhadap paket, pengujian atau ulasan. Sertakan ID bukti dan jelaskan keputusan atas umpan balik.\n\nPanduan pilot KIPP-CIA",
+    "crumbs": [
+      "Beranda",
+      "Portfolio UAS — [Judul Proyek Tim]"
+    ]
   }
 ]

@@ -6,4 +6,6 @@ Gunakan [panduan penilaian UAS](../lk/lk-UAS/index.qmd#penilaian-individual). Em
 
 Nilai tiap mahasiswa berdasarkan kontribusinya; artefak tim tidak otomatis menghasilkan nilai sama. Empat aspek per komponen diberi skor 1–4; jumlah /16 × 100. BT bukan nol; nilai akhir ditunda bila belum lengkap. Sertakan ID bukti dan satu prioritas perbaikan. Rubrik mingguan /20 dan formula UTS tidak dipakai untuk UAS.
 
+Untuk [pilot KIPP-CIA](../lk/lk-UAS/index.qmd#pilot-uas-kipp-cia), periksa tautan paket, hasil uji, ulasan sejawat, dan revisi dalam empat artefak. Gunakan bukti itu untuk menilai tindakan masing-masing mahasiswa dengan rubrik UAS yang sama.
+
 [Template](../portfolio/UAS/index.qmd) · [Contoh fiktif](../examples/UAS/index.qmd)
