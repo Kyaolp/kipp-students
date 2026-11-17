@@ -30,4 +30,4 @@ Mahasiswa harus menggunakan pengalaman, kontribusi, response, feedback, dan evid
 
 ## Contoh artefak UAS
 
-[Buka paket contoh UAS Jejak Laundry](UAS/index.qmd): empat artefak berupa rencana proyek, jejak tiga episode percakapan, demonstrasi/hasil uji, dan refleksi individual. Semua tokoh, dialog dan data fiktif. Contoh belum menyertakan video dan bukan paket siap dinilai. UAS terpisah dari latihan capstone Minggu 15.
+[Buka contoh portfolio Triune](UAS/index.qmd) untuk melihat ilustrasi kontribusi, review, uji, showcase, dan refleksi.

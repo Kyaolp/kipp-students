@@ -75,6 +75,6 @@ Makalah pra-UTS berbobot **10%**, dan masing-masing sesi **1, 2a, 2b, 3a, 3b ber
 - Minta deklarasi penggunaan AI.
 - Berikan satu prioritas perbaikan yang dapat diuji melalui replay atau evidence berikutnya.
 
-## UAS empat artefak
+## UAS KIPP Triune Academic Commons
 
-Paket UAS menggunakan satu mitra, satu masalah dan satu pilot kecil: rencana proyek (20%), jejak percakapan/adaptasi (35%), demonstrasi/hasil (25%), refleksi individual (20%). Lihat [panduan](lk/lk-UAS/index.qmd), [template](portfolio/UAS/index.qmd), dan [contoh fiktif](examples/UAS/index.qmd). Materi lama disimpan di `archive/uas-14-artefak/` dan tidak menjadi ketentuan aktif.
+Proyek kelas AI for Academic Work. Baca [panduan UAS](lk/lk-UAS/index.qmd), [portfolio](portfolio/UAS/index.qmd), dan [rubrik usulan](assessment/uas.qmd). Gunakan repositori Triune resmi yang diumumkan koordinator untuk kontribusi dan PR.

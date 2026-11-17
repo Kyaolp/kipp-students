@@ -1,20 +1,9 @@
 ---
-title: "UAS — Temukan Dayamu, Ciptakan Manfaat Bersama"
+title: "UAS — KIPP Triune Academic Commons"
 ---
 
-Temukan pertemuan antara **kemampuanmu dan kebutuhan nyata seseorang**. Bersama tim 3–4 mahasiswa, dengarkan satu mitra, pilih satu masalah, dan coba satu solusi kecil.
+Bersama kelas, bangun sumber belajar **AI for Academic Work**: modul pengetahuan, tutorial, prompt teruji, dan kasus integratif. Pilih kebutuhan akademik yang nyata; kembangkan artefak sesuai penugasan, minta review tim lain, lalu uji dan perbaiki.
 
-Modal rancangan maksimal Rp10 juta per tim; tidak wajib menyediakan uang pribadi atau menghabiskan plafon. Solusi dapat berupa jasa, desain, panduan, proses, alat, atau teknologi. Gunakan AI jika membantu.
+Karya utama berada di repositori resmi Triune. Portfolio UAS menghubungkan kontribusi, hasil uji, showcase dan refleksi individual.
 
-## Empat hasil kerja
-
-1. Rencana proyek dan kesepakatan tim — maksimal 3 halaman.
-2. Jejak tiga episode percakapan dan adaptasi — maksimal 4 halaman dengan bukti pilihan.
-3. Demonstrasi solusi dan hasil uji — video 3–5 menit dan ringkasan 1 halaman.
-4. Refleksi individual dan rencana perbaikan — 1 halaman per anggota dalam satu berkas kelompok.
-
-Mulai dari discovery, negosiasikan uji kecil, lalu evaluasi bersama mitra. Setiap anggota menunjukkan berbicara, mendengar, dan beradaptasi pada setidaknya satu episode. Pendanaan, komunitas, dan publik dibahas bila relevan, tanpa laporan wajib tersendiri.
-
-Minggu 15 menjadi latihan dan feedback. UAS berlangsung pada jadwal ujian tersendiri; bukti latihan dikembangkan dengan jejak revisi.
-
-[Baca panduan dan penilaian](../lk-UAS/index.qmd) · [Isi template](../../portfolio/UAS/index.qmd) · [Lihat contoh Jejak Laundry](../../examples/UAS/index.qmd)
+[Panduan pelaksanaan dan submisi](../lk-UAS/index.qmd) · [Template portfolio](../../portfolio/UAS/index.qmd) · [Contoh fiktif](../../examples/UAS/index.qmd)

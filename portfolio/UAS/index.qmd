@@ -1,38 +1,24 @@
 ---
-title: "Portfolio UAS — [Judul Proyek Tim]"
+title: "Portfolio UAS — KIPP Triune Academic Commons"
+status: "Belum dimulai"
 ---
 
-Baca [panduan UAS](../../lk/lk-UAS/index.qmd). Paket ini terdiri dari **empat artefak**; indeks ini hanya navigasi. Satu mitra, satu masalah, satu pilot kecil. Tim 3–4 mahasiswa; plafon modal rancangan Rp10 juta.
+Gunakan indeks ini untuk menghubungkan bukti kontribusi tim dan individual di repositori Triune. Bagian di bawah adalah pengelompokan bukti portfolio, bukan target karya tambahan.
 
-## Identitas
+**Tim, anggota/NIM, tema, repo resmi, periode dan status:** [Isi].
 
-Judul/tim: [Isi]. Anggota, NIM, peran: [Isi]. Mitra: [Isi/samarkan]. Mode nyata/simulasi: [Isi]. Periode dan jadwal UAS: [Isi]. Versi/tanggal: [Isi].
 
-## Empat artefak
+- [Penugasan dan Kontribusi](01-penugasan-kontribusi.qmd)
+- [Review, Uji Pengguna, dan Revisi](02-review-dan-uji.qmd)
+- [Showcase dan Hasil](03-showcase.qmd)
+- [Refleksi Individual](04-refleksi-individual.qmd)
 
-1. [Rencana Proyek dan Kesepakatan Tim](01-rencana-proyek.qmd).
-2. [Jejak Percakapan dan Adaptasi](02-percakapan-adaptasi.qmd).
-3. [Demonstrasi Solusi dan Hasil Uji](03-demonstrasi-hasil.qmd).
-4. [Refleksi Individual dan Rencana Perbaikan](04-refleksi-individual.qmd).
+## Pemeriksaan submisi
 
-## Bukti pilot KIPP-CIA
+- [ ] ID penugasan, Issue, PR dan kontribusi setiap anggota dapat ditelusuri.
+- [ ] Review tim lain, uji pengguna, perubahan dan validasi tercatat; status PR akurat.
+- [ ] Bukti showcase dan refleksi seluruh anggota tersedia.
+- [ ] Assessor dapat membuka tautan; data sensitif tidak dipublikasikan.
+- [ ] Ubah metadata status menjadi **Siap dinilai** dan kirim indeks melalui kanal kelas.
 
-- **Rencana:** tautkan paket atau alur kerja, sebutkan ID dan versi, serta jelaskan kebutuhan mitra dan indikator yang disepakati.
-- **Percakapan dan adaptasi:** catat tiga episode bersama mitra dan tunjukkan revisi setelah uji silang atau ulasan tim lain.
-- **Demonstrasi:** tunjukkan masukan, keluaran, pemeriksaan manusia, hasil terhadap indikator, dan keterbatasan. Tautkan bukti uji atau pull request jika tersedia.
-- **Refleksi:** tunjukkan kontribusi pribadi terhadap paket, pengujian atau ulasan. Sertakan ID bukti dan jelaskan keputusan atas umpan balik.
-
-[Panduan pilot KIPP-CIA](../../lk/lk-UAS/index.qmd#pilot-uas-kipp-cia)
-
-## Sebelum dikumpulkan
-
-- [ ] Isi utama memenuhi batas 3 halaman, 4 halaman, video 3–5 menit + 1 halaman, dan refleksi 1 halaman per anggota.
-- [ ] Tiga episode mencakup discovery, negosiasi, dan evaluasi; setiap anggota memiliki bukti berbicara, mendengar, dan beradaptasi setidaknya pada satu episode.
-- [ ] Hasil, rencana, janji, dan simulasi dibedakan; biaya rencana/realisasi jelas.
-- [ ] Bukti memiliki ID, tanggal, kontributor, baris/timestamp, dan tautan yang dapat diakses assessor.
-- [ ] Penggunaan AI, izin, revisi setelah feedback, dan keterbatasan tercatat dalam artefak terkait.
-- [ ] Nilai individual dan BT mengikuti panduan; tidak ada penghitungan akhir bila bukti belum cukup.
-
-Simpan lampiran yang layak dipublikasikan di `bukti/`; [lihat panduan](bukti/README.md). Bukti sensitif tetap terbatas. Paket dan nilai UAS terpisah dari Minggu 15.
-
-[Lihat contoh empat artefak](../../examples/UAS/index.qmd)
+[Panduan UAS](../../lk/lk-UAS/index.qmd) · [Penilaian](../../assessment/uas.qmd)

@@ -1,73 +1,43 @@
 ---
-title: "UAS — Satu Masalah, Satu Pilot, Empat Artefak"
+title: "UAS — KIPP Triune Academic Commons"
 ---
 
+**AI for Academic Work** adalah proyek kelas untuk membangun sumber belajar akademik yang dapat digunakan kembali. Kecerdasan individu (II) terlihat dari kontribusi dan pertimbangan setiap mahasiswa, kecerdasan kolektif (CI) dari kerja tim dan review silang, serta kecerdasan artifisial (AI) dari bantuan yang diuji dan diperiksa manusia.
 
-## Tantangan dan lingkup
+Proyek ini menggantikan tugas UAS sebelumnya. Gunakan repositori resmi Triune yang diumumkan dosen atau koordinator. Konten dan PR dikerjakan di repositori tersebut; portfolio KIPP ini merangkum bukti dan refleksi, tanpa menyalin karya ke repositori kedua.
 
-Bentuk tim **3–4 mahasiswa**. Pilih **satu mitra, satu masalah, dan satu pilot kecil** yang sesuai kemampuan tim. Dengarkan masalah, buat percobaan, perbaiki berdasarkan respons, lalu pertanggungjawabkan hasilnya.
+## Lingkup dan pembagian kerja
 
-Solusi dapat berupa jasa, panduan, desain, perbaikan proses, alat, kegiatan belajar, atau teknologi. Gunakan AI bila membantu kebutuhan yang telah divalidasi. Modal rancangan maksimal **Rp10 juta per tim**, bukan kewajiban uang pribadi atau janji hibah. Mulai dengan sumber daya tersedia; bedakan anggaran rencana dan realisasi.
+Rancangan pilot: **21 hari, 12 tim berisi 5–6 mahasiswa**. Pembagian final mengikuti roster koordinator. Target **seluruh kelas** adalah 42 artefak: 12 modul pengetahuan, 12 tutorial keterampilan, 12 prompt AI teruji, dan 6 kasus integratif. Kelas juga menyiapkan enam alur belajar, satu portal Quarto, dan forum GitHub Discussions. Ini target kelas, bukan kuota setiap tim.
 
-Paket empat artefak ini menggantikan pengumpulan 14 artefak serta ketentuan lima/tujuh ranah terpisah dalam proyek ini. Pendanaan, komunitas, dan publik dibahas bila relevan; tidak wajib menjadi laporan atau sesi tambahan. Tidak ada kewajiban penjualan, kontrak kedua, jumlah pengikut, atau penghimpunan dana nyata.
+Enam tema: AI untuk belajar, literatur dan riset, penulisan akademik, coding dan data, visualisasi dan presentasi, serta pemecahan masalah akademik. Temukan berkas yang ditugaskan melalui `ARTIFACT_REGISTER.csv` dan `governance/team-roster.csv`. Edit artefak yang sudah tersedia dan gunakan template sesuai jenisnya. Jaga ID dan metadata; jangan membuat duplikat.
 
-## Pilot UAS KIPP-CIA
+## Dari pembentukan tim hingga siap dinilai
 
-[KIPP-CIA](https://github.com/azral1962/kipp-cia) adalah pustaka bersama untuk prompt, skill, dan alur kerja akademik. Jadikan satu kebutuhan belajar sebagai masalah pilot dan pilih satu kelompok pengguna sebagai mitra. Contohnya, ajak kelompok belajar Probabilitas dan Statistika menguji apakah panduan Tutor Sokratik dan tabel frekuensi membantu mereka menjelaskan peluang spam pada [demo Bayes dengan data sintetis](https://github.com/azral1962/kipp-cia/blob/main/04-alur-kerja/DEMO_TERINTEGRASI.md). Tim juga dapat memilih topik mata kuliah lain dengan bukti yang dapat diperiksa.
+| Waktu | Kegiatan | Bukti |
+|---|---|---|
+| Hari 1–7 | Bentuk tim, tetapkan peran/ID, dengarkan minimal tiga calon pengguna per tim, buat Issue dan draf modul konsep (P0) | Roster, ringkasan kebutuhan, Issue, draf dan rencana alur belajar |
+| Hari 8–14 | Kembangkan tutorial dan prompt (P1), uji contoh, ajukan pull request (PR), minta review tim lain, dan revisi | PR, rujukan, contoh input-output, komentar dan tanggapan |
+| Hari 15–19 | Selesaikan kasus integratif (P2) dan alur belajar sesuai penugasan, uji paket dengan minimal dua pengguna di luar tim, perbaiki dan minta review ulang | Catatan uji, hasil validasi, revisi dan status PR |
+| Hari 20–21 | Showcase, komunikasi TAIDA, dan refleksi individual | Ringkasan demo, feedback reviewer, tautan kontribusi tiap anggota dan refleksi |
 
-1. Pilih satu paket katalog untuk diuji atau diperbaiki. Catat ID, versi, dan tautan sumber, lalu sepakati satu indikator dengan mitra.
-2. Jalankan paket pada tugas yang disepakati. Catat contoh masukan, keluaran, cara pemeriksaan manusia, dan bagian yang perlu diperbaiki. Mintalah mahasiswa dari tim lain mencoba paket dan memberi ulasan.
-3. Revisi berdasarkan umpan balik mitra dan reviewer. Tautkan bukti melalui ID bukti UAS serta tautan paket, ulasan, atau pull request yang dapat diakses penilai. Jika perubahan baru diajukan, catat status pengajuannya.
+Buat branch dari repositori resmi, edit file yang ditugaskan, commit, push, lalu buka PR. Gunakan `python scripts/check_artifacts.py` dan `python scripts/check_portal.py` bila bekerja lokal, atau periksa hasil validasi PR. Jangan bekerja langsung di `main`; koordinator menangani merge dan publikasi setelah pemeriksaan lulus.
 
-Target 25 rancangan prompt dan 15 rancangan skill, dengan sedikitnya 10 prompt dan 6 skill teruji, berlaku untuk pustaka bersama lintas tim. Portfolio tiap tim 3–4 mahasiswa melaporkan pilot kecil dan kontribusi anggotanya. Kontribusi katalog dan ulasan sejawat menjadi bukti dalam empat artefak yang sudah ada.
+## Pemeriksaan mutu
 
-Gunakan katalog lokal atau berkas Markdown untuk pilot. Bot Telegram dapat dipakai jika sudah tersedia di grup yang diizinkan. Penggunaan Telegram dan Ollama bersifat opsional. Untuk bukti publik, pakai data sintetis atau materi yang mendapat izin dan telah disamarkan.
+- Nyatakan pengguna dan tujuan, beri petunjuk penggunaan serta latihan atau asesmen.
+- Pastikan klaim penting memiliki rujukan yang dapat diperiksa, contoh benar-benar diuji, dan hasil uji tidak direkayasa.
+- Catat bantuan AI, bagian yang dipakai atau ditolak, verifikasi manusia, dan batasannya.
+- Tindak lanjuti minimal satu masukan substantif dari reviewer tim lain dan catat uji pengguna yang bukan pembuat artefak.
+- Lindungi data pribadi, materi tanpa izin dan kredensial. Sertakan ringkasan bukti yang aman dan akses terbatas bila diperlukan.
+- Koordinasikan perubahan status `reviewed` dengan pengelola register setelah review dan uji tercatat. PR yang masih menunggu merge ditulis apa adanya.
 
-[Katalog prompt](https://github.com/azral1962/kipp-cia/blob/main/02-prompt/KATALOG.md) · [Katalog skill](https://github.com/azral1962/kipp-cia/blob/main/03-skill/KATALOG.md) · [Panduan kontribusi](https://github.com/azral1962/kipp-cia/blob/main/CONTRIBUTING.md)
+## Showcase dan penilaian
 
-## Empat artefak pengumpulan
+Tunjukkan kebutuhan pengguna → artefak → contoh penggunaan → hasil uji → revisi → dampak dan keterbatasan. Gunakan TAIDA (Target, Attention, Interest, Desire, Action) dalam penyajian dan jelaskan peran II, CI, dan AI. Tim lain menyampaikan satu pertanyaan substantif dan satu saran.
 
-| Artefak | Isi minimum | Bentuk | Bobot |
-|---|---|---|---:|
-| 1. Rencana proyek dan kesepakatan tim | Masalah dan mitra; kondisi awal; kemampuan/peran anggota; solusi dan alternatif; indikator pilot; jadwal; anggaran | Maksimal 3 halaman | 20% |
-| 2. Jejak percakapan dan adaptasi | Tiga episode: discovery, negosiasi pelaksanaan/dukungan, evaluasi hasil. Tujuan, kutipan respons, kontribusi, adaptasi, dan tindak lanjut | Maksimal 4 halaman + tautan bukti pilihan | 35% |
-| 3. Demonstrasi solusi dan hasil uji | Prototipe; cara uji; perbandingan kondisi awal/hasil; feedback; keterbatasan; keputusan lanjut/ubah/hentikan | Video 3–5 menit + ringkasan 1 halaman | 25% |
-| 4. Refleksi individual dan rencana perbaikan | Kontribusi dengan ID bukti; satu tantangan/narasi diri; adaptasi; replay/perbaikan dan hasilnya; penggunaan AI; langkah belajar berikutnya | 1 halaman per mahasiswa, dihimpun dalam satu berkas kelompok | 20% |
+Paket siap dinilai saat indeks memuat tautan karya dan PR, uji pengguna, review dan revisi, bukti showcase, serta refleksi setiap anggota. Ubah status menjadi **Siap dinilai** dan kirim indeks melalui kanal yang ditetapkan dosen. **Tanggal dan format penyerahan mengikuti pengumuman dosen**; capstone Minggu 15 tetap dicatat terpisah.
 
-Indeks portfolio hanya menjadi navigasi, bukan artefak kelima. Lampiran bukti mendukung empat artefak; tidak perlu register, proposal pendanaan, poster publik, jurnal dua episode, atau laporan stakeholder tersendiri. Batas halaman berlaku pada isi utama; video dan bukti terpilih ditautkan. Halaman Quarto dapat diekspor untuk memeriksa batas halaman.
+[Buka template portfolio](../../portfolio/UAS/index.qmd) · [Lihat contoh](../../examples/UAS/index.qmd) · [Baca rubrik](../../assessment/uas.qmd)
 
-## Proses kerja sederhana
-
-1. **Kenali tim dan dengarkan mitra.** Sepakati peran, lakukan discovery, lalu konfirmasi satu masalah prioritas. Mulai artefak 1 dan episode pertama artefak 2.
-2. **Rancang dan negosiasikan uji kecil.** Buat prototipe, indikator, anggaran, owner, jadwal, izin/data, serta kriteria berhenti. Catat negosiasi sebagai episode kedua.
-3. **Jalankan dan evaluasi.** Ukur kondisi awal dan hasil dengan cara yang sebanding; catat kesalahan dan beban tambahan. Bahas hasil bersama mitra sebagai episode ketiga, lalu revisi.
-4. **Demonstrasikan dan refleksikan.** Rekam video, tulis ringkasan hasil, lakukan satu replay/perbaikan yang relevan per anggota, dan selesaikan refleksi.
-
-Tiga episode adalah minimum tim; tidak wajib tiga orang berbeda atau tiga transkrip penuh. Bila bukti kontribusi seorang anggota belum terlihat, tambahkan cuplikan/sesi pelengkap terarah dalam artefak 2. Setiap anggota menunjukkan **berbicara, mendengar, dan beradaptasi setidaknya pada satu episode**. Refleksi menunjuk bukti tersebut.
-
-## Bukti dan penggunaan AI
-
-Pada setiap episode cantumkan ID, tanggal, person/peran, kontributor, nyata/simulasi, dan kutipan dengan nomor baris atau timestamp. Catat **tujuan → respons → adaptasi → hasil → tindak lanjut**. Pilih cuplikan yang cukup untuk memeriksa konteks; transkrip lengkap tidak diwajibkan. Konfirmasi catatan percakapan kepada pihak terkait bila tidak direkam.
-
-Nyatakan penggunaan AI singkat pada artefak terkait: alat, tujuan, hasil dipakai/diubah/ditolak, dan verifikasi manusia; tulis tidak digunakan bila demikian. Jangan merekayasa wawancara, testimoni, transaksi, atau hasil uji. Minta izin penggunaan bukti; simpan data sensitif terbatas dan berikan akses assessor. Tandai role-play dengan jelas. Jika akses lapangan tidak tersedia, sepakati mitra kelas atau simulasi setara dengan dosen; jangan klaim dampak lapangan.
-
-## Penilaian individual
-
-Nilai akhir /100 = **0,20 × rencana + 0,35 × proses komunikasi + 0,25 × demonstrasi/hasil + 0,20 × refleksi**. Setiap komponen berskala 0–100 dan dinilai untuk mahasiswa bersangkutan. Artefak bersama memberi konteks; nilai anggota tidak otomatis sama.
-
-| Komponen | Empat aspek yang dinilai |
-|---|---|
-| Rencana | Ketepatan masalah/person; relevansi kompetensi/peran; kelayakan pilot/indikator; kejelasan jadwal/biaya/kesepakatan |
-| Proses komunikasi | Mendengar/validasi; bahasa dan bukti; adaptasi terhadap respons; kesepakatan/tindak lanjut dan relasi |
-| Demonstrasi/hasil | Kejelasan fungsi solusi; ketepatan pengujian; kejujuran hasil/beban/keterbatasan; keputusan dan kontribusi yang dapat ditelusuri |
-| Refleksi | Kontribusi berbukti; pemeriksaan narasi/asumsi; replay/perbaikan dan hasil; akuntabilitas AI serta rencana belajar |
-
-Setiap aspek diberi 1–4: **1** perilaku awal dengan asumsi/klaim lemah; **2** mulai tampak tetapi belum konsisten; **3** tepat, berbukti, dan dapat dijalankan; **4** adaptif menghadapi kendala serta menguji perbaikan. Nilai komponen = **jumlah empat skor ÷ 16 × 100**. Assessor menyebut ID bukti dan satu prioritas perbaikan. Bukti yang belum cukup diberi **BT, bukan nol**; tunda nilai komponen/akhir sampai lengkap. Penolakan mitra atau hasil pilot yang kurang baik dapat tetap menunjukkan komunikasi kompeten bila ditangani dan dilaporkan dengan baik. Ambang kelulusan serta bobot UAS terhadap mata kuliah mengikuti ketetapan dosen.
-
-## Minggu 15 dan UAS
-
-Gunakan Minggu 9–14 untuk proses proyek; Minggu 15 untuk latihan integrasi, feedback, dan replay. **UAS berlangsung pada jadwal ujian tersendiri**; portfolio/nilai Minggu 15 dicatat terpisah. Tanggal diumumkan dosen.
-
-Forum tim tetap 25 menit: paparan 5 menit, demonstrasi/hasil 5 menit, tanya jawab 10 menit, rangkuman revisi 5 menit. Video dapat digunakan pada slot demonstrasi. Pembelaan individual sekitar 8 menit menelusuri bukti kontribusi dan respons terhadap perubahan kondisi; tidak memerlukan artefak tambahan.
-
-[Buka template empat artefak](../../portfolio/UAS/index.qmd) · [Lihat contoh fiktif Jejak Laundry](../../examples/UAS/index.qmd)
+Di repositori Triune, rujuk `PROJECT_CHARTER.md`, `docs/student-workflow.md`, `QUALITY_GATE.md`, `assessments/rubric.md`, dan `assessments/showcase-guide.md`.

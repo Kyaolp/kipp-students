@@ -1795,7 +1795,7 @@
     "href": "portfolio/index.html#template-uas",
     "title": "Indeks Portfolio",
     "section": "Template UAS",
-    "text": "Template UAS\nBuka portfolio UAS untuk mengisi empat artefak: rencana proyek, jejak percakapan, demonstrasi/hasil, dan refleksi individual. Lihat contoh UAS. UAS memiliki jadwal, portfolio, dan nilai terpisah dari capstone Minggu 15.",
+    "text": "Template UAS\nBuka portfolio UAS Triune untuk menautkan kontribusi, review, uji pengguna, showcase, dan refleksi individual. Lihat contoh UAS. UAS dicatat terpisah dari capstone Minggu 15.",
     "crumbs": [
       "Beranda",
       "Indeks Portfolio"
@@ -2056,95 +2056,38 @@
   {
     "objectID": "portfolio/UAS/index.html",
     "href": "portfolio/UAS/index.html",
-    "title": "Portfolio UAS — [Judul Proyek Tim]",
+    "title": "Portfolio UAS — KIPP Triune Academic Commons",
     "section": "",
-    "text": "Baca panduan UAS. Paket ini terdiri dari empat artefak; indeks ini hanya navigasi. Satu mitra, satu masalah, satu pilot kecil. Tim 3–4 mahasiswa; plafon modal rancangan Rp10 juta.",
+    "text": "Gunakan indeks ini untuk menghubungkan bukti kontribusi tim dan individual di repositori Triune. Bagian di bawah adalah pengelompokan bukti portfolio, bukan target karya tambahan.\nTim, anggota/NIM, tema, repo resmi, periode dan status: [Isi].",
     "crumbs": [
       "Beranda",
-      "Portfolio UAS — [Judul Proyek Tim]"
+      "Portfolio UAS — KIPP Triune Academic Commons"
     ]
   },
   {
-    "objectID": "portfolio/UAS/index.html#identitas",
-    "href": "portfolio/UAS/index.html#identitas",
-    "title": "Portfolio UAS — [Judul Proyek Tim]",
-    "section": "Identitas",
-    "text": "Identitas\nJudul/tim: [Isi]. Anggota, NIM, peran: [Isi]. Mitra: [Isi/samarkan]. Mode nyata/simulasi: [Isi]. Periode dan jadwal UAS: [Isi]. Versi/tanggal: [Isi].",
+    "objectID": "portfolio/UAS/index.html#pemeriksaan-submisi",
+    "href": "portfolio/UAS/index.html#pemeriksaan-submisi",
+    "title": "Portfolio UAS — KIPP Triune Academic Commons",
+    "section": "Pemeriksaan submisi",
+    "text": "Pemeriksaan submisi\n\nID penugasan, Issue, PR dan kontribusi setiap anggota dapat ditelusuri.\nReview tim lain, uji pengguna, perubahan dan validasi tercatat; status PR akurat.\nBukti showcase dan refleksi seluruh anggota tersedia.\nAssessor dapat membuka tautan; data sensitif tidak dipublikasikan.\nUbah metadata status menjadi Siap dinilai dan kirim indeks melalui kanal kelas.\n\nPanduan UAS · Penilaian",
     "crumbs": [
       "Beranda",
-      "Portfolio UAS — [Judul Proyek Tim]"
+      "Portfolio UAS — KIPP Triune Academic Commons"
     ]
   },
   {
-    "objectID": "portfolio/UAS/index.html#empat-artefak",
-    "href": "portfolio/UAS/index.html#empat-artefak",
-    "title": "Portfolio UAS — [Judul Proyek Tim]",
-    "section": "Empat artefak",
-    "text": "Empat artefak\n\nRencana Proyek dan Kesepakatan Tim.\nJejak Percakapan dan Adaptasi.\nDemonstrasi Solusi dan Hasil Uji.\nRefleksi Individual dan Rencana Perbaikan.",
-    "crumbs": [
-      "Beranda",
-      "Portfolio UAS — [Judul Proyek Tim]"
-    ]
-  },
-  {
-    "objectID": "portfolio/UAS/index.html#sebelum-dikumpulkan",
-    "href": "portfolio/UAS/index.html#sebelum-dikumpulkan",
-    "title": "Portfolio UAS — [Judul Proyek Tim]",
-    "section": "Sebelum dikumpulkan",
-    "text": "Sebelum dikumpulkan\n\nIsi utama memenuhi batas 3 halaman, 4 halaman, video 3–5 menit + 1 halaman, dan refleksi 1 halaman per anggota.\nTiga episode mencakup discovery, negosiasi, dan evaluasi; setiap anggota memiliki bukti berbicara, mendengar, dan beradaptasi setidaknya pada satu episode.\nHasil, rencana, janji, dan simulasi dibedakan; biaya rencana/realisasi jelas.\nBukti memiliki ID, tanggal, kontributor, baris/timestamp, dan tautan yang dapat diakses assessor.\nPenggunaan AI, izin, revisi setelah feedback, dan keterbatasan tercatat dalam artefak terkait.\nNilai individual dan BT mengikuti panduan; tidak ada penghitungan akhir bila bukti belum cukup.\n\nSimpan lampiran yang layak dipublikasikan di bukti/; lihat panduan. Bukti sensitif tetap terbatas. Paket dan nilai UAS terpisah dari Minggu 15.\nLihat contoh empat artefak",
-    "crumbs": [
-      "Beranda",
-      "Portfolio UAS — [Judul Proyek Tim]"
-    ]
-  },
-  {
-    "objectID": "portfolio/UAS/03-demonstrasi-hasil.html",
-    "href": "portfolio/UAS/03-demonstrasi-hasil.html",
-    "title": "Demonstrasi Solusi dan Hasil Uji",
+    "objectID": "portfolio/UAS/03-showcase.html",
+    "href": "portfolio/UAS/03-showcase.html",
+    "title": "Showcase dan Hasil",
     "section": "",
-    "text": "Indeks · Contoh\nBentuk: video 3–5 menit + ringkasan 1 halaman. Bobot: 25%.\nTautan video dan akses assessor: [Isi]. Durasi: [Isi]. Kontributor/bagian: [Isi]. Tandai data contoh dan simulasi dalam video."
+    "text": "Indeks · Contoh\nTautan artefak/katalog dan bahan atau bukti showcase: [Isi].\nJelaskan kebutuhan pengguna, peragakan penggunaan artefak, perlihatkan hasil uji, perubahan, dampak dan keterbatasan. Tunjukkan TAIDA dalam penyajian serta peran II, CI dan AI. Catat pertanyaan dan saran dari tim lain, jawaban, dan tindak lanjut.\n\n\n\n Kembali ke atas"
   },
   {
-    "objectID": "portfolio/UAS/03-demonstrasi-hasil.html#ringkasan-hasil",
-    "href": "portfolio/UAS/03-demonstrasi-hasil.html#ringkasan-hasil",
-    "title": "Demonstrasi Solusi dan Hasil Uji",
-    "section": "Ringkasan hasil",
-    "text": "Ringkasan hasil\nSolusi dan fungsi yang diperagakan: [Isi satu kasus normal dan satu keterbatasan/kesalahan].\nCara uji: [Isi siapa, kapan, jumlah tugas, kondisi awal/pilot, metode yang sebanding dan izin].\n\n\n\nIndikator\nKondisi awal\nHasil uji\nBukti/metode\n\n\n\n\n[Isi manfaat]\n[Isi]\n[Isi/belum tersedia]\n[Isi]\n\n\n[Isi kesalahan atau beban tambahan]\n[Isi]\n[Isi]\n[Isi]\n\n\n\nFeedback dan revisi: [Isi; rujuk E3].\nKeterbatasan: [Isi yang belum terbukti, potensi bias dan dampak negatif].\nKeputusan: [Lanjut/ubah/hentikan; owner, tindakan, waktu review dan dukungan/serah terima].\nAI dan sumber: [Isi deklarasi singkat dan verifikasi]. Bukti ukur pilihan ditautkan dari ringkasan; tidak perlu laporan pilot tambahan."
-  },
-  {
-    "objectID": "portfolio/UAS/01-rencana-proyek.html",
-    "href": "portfolio/UAS/01-rencana-proyek.html",
-    "title": "Rencana Proyek dan Kesepakatan Tim",
+    "objectID": "portfolio/UAS/01-penugasan-kontribusi.html",
+    "href": "portfolio/UAS/01-penugasan-kontribusi.html",
+    "title": "Penugasan dan Kontribusi",
     "section": "",
-    "text": "Indeks · Contoh\nBatas: 3 halaman. Bobot: 20%."
-  },
-  {
-    "objectID": "portfolio/UAS/01-rencana-proyek.html#masalah-dan-mitra",
-    "href": "portfolio/UAS/01-rencana-proyek.html#masalah-dan-mitra",
-    "title": "Rencana Proyek dan Kesepakatan Tim",
-    "section": "Masalah dan mitra",
-    "text": "Masalah dan mitra\n[Isi satu masalah, siapa mengalami, bukti discovery, kondisi awal dan konfirmasi prioritas. Rujuk E1 pada artefak 2.]"
-  },
-  {
-    "objectID": "portfolio/UAS/01-rencana-proyek.html#kemampuan-dan-kesepakatan-tim",
-    "href": "portfolio/UAS/01-rencana-proyek.html#kemampuan-dan-kesepakatan-tim",
-    "title": "Rencana Proyek dan Kesepakatan Tim",
-    "section": "Kemampuan dan kesepakatan tim",
-    "text": "Kemampuan dan kesepakatan tim\n\n\n\nNama/NIM\nKemampuan dan bukti singkat\nTugas/owner\nTenggat\n\n\n\n\n[Isi tiap anggota]\n[Isi]\n[Isi]\n[Isi]\n\n\n\n[Isi cara mengambil keputusan, menyampaikan keberatan, memeriksa kemajuan dan memperbaiki komitmen.]"
-  },
-  {
-    "objectID": "portfolio/UAS/01-rencana-proyek.html#solusi-dan-pilot",
-    "href": "portfolio/UAS/01-rencana-proyek.html#solusi-dan-pilot",
-    "title": "Rencana Proyek dan Kesepakatan Tim",
-    "section": "Solusi dan pilot",
-    "text": "Solusi dan pilot\n[Isi alternatif sederhana, alasan memilih, prototipe, lingkup, indikator awal/akhir, metode ukur, risiko/beban, izin data, kriteria ubah/hentikan.]\n\n\n\nKegiatan\nOwner\nWaktu\nHasil yang diperiksa\n\n\n\n\nDiscovery, negosiasi, uji, evaluasi, revisi\n[Isi]\n[Isi]\n[Isi]"
-  },
-  {
-    "objectID": "portfolio/UAS/01-rencana-proyek.html#anggaran-dan-sumber-daya",
-    "href": "portfolio/UAS/01-rencana-proyek.html#anggaran-dan-sumber-daya",
-    "title": "Rencana Proyek dan Kesepakatan Tim",
-    "section": "Anggaran dan sumber daya",
-    "text": "Anggaran dan sumber daya\n\n\n\nPos dan dasar estimasi\nRencana\nRealisasi\nSumber/bukti\n\n\n\n\n[Isi volume × biaya satuan]\n[Isi]\n[Isi/belum ada]\n[Isi]\n\n\nTotal, maksimal rencana Rp10 juta\n[Isi]\n[Isi]\n[Isi]\n\n\n\n[Isi dana tersedia/natura, batas janji, dukungan setelah uji, serta deklarasi AI singkat.]"
+    "text": "Indeks · Contoh\nTim, tema, periode dan tautan repo resmi: [Isi].\n\n\n\n\n\n\n\n\n\n\nID artefak / alur belajar\nKebutuhan pengguna dan bukti discovery\nPenulis/peran tiap anggota\nIssue dan PR\nStatus\n\n\n\n\n[Isi]\n[Ringkas temuan minimal 3 calon pengguna per tim]\n[Isi]\n[Tautkan]\n[Isi status dan kendala]\n\n\n\nCantumkan bagian yang Anda kerjakan dan tautkan perubahan yang dapat diperiksa. Status PR dan status review ditulis sesuai kenyataan.\n\n\n\n Kembali ke atas"
   },
   {
     "objectID": "lk/lk-UTS/konsep-dan-strategi-uts-kipp-v2.html",
@@ -2268,9 +2211,9 @@
   {
     "objectID": "lk/lk-UAS/rancangan-talenta.html",
     "href": "lk/lk-UAS/rancangan-talenta.html",
-    "title": "UAS — Rancangan yang Disederhanakan",
+    "title": "Rancangan UAS Lama",
     "section": "",
-    "text": "Rancangan sosok dan talenta kini dilaksanakan melalui empat artefak, satu mitra, satu masalah, dan satu pilot kecil. Ketentuan tujuh ranah serta bobot sebelumnya tidak lagi menjadi paket pengumpulan aktif.\nBaca panduan UAS dan bobot terbaru · Buka template · Lihat contoh\nKemampuan diri tetap dibahas dalam rencana dan refleksi. Percakapan pendanaan, komunitas, atau publik dipilih sesuai relevansi masalah, tanpa laporan tersendiri.\n\n\n\n Kembali ke atas"
+    "text": "Rancangan sosok dan talenta telah digantikan oleh UAS KIPP Triune Academic Commons. Gunakan panduan baru untuk pembagian tim, kontribusi, review, uji pengguna, dan pengumpulan.\n\n\n\n Kembali ke atas"
   },
   {
     "objectID": "lk/lk-14.html",
@@ -2604,16 +2547,9 @@
   {
     "objectID": "lk/UAS/index.html",
     "href": "lk/UAS/index.html",
-    "title": "UAS — Temukan Dayamu, Ciptakan Manfaat Bersama",
+    "title": "UAS — KIPP Triune Academic Commons",
     "section": "",
-    "text": "Temukan pertemuan antara kemampuanmu dan kebutuhan nyata seseorang. Bersama tim 3–4 mahasiswa, dengarkan satu mitra, pilih satu masalah, dan coba satu solusi kecil.\nModal rancangan maksimal Rp10 juta per tim; tidak wajib menyediakan uang pribadi atau menghabiskan plafon. Solusi dapat berupa jasa, desain, panduan, proses, alat, atau teknologi. Gunakan AI jika membantu."
-  },
-  {
-    "objectID": "lk/UAS/index.html#empat-hasil-kerja",
-    "href": "lk/UAS/index.html#empat-hasil-kerja",
-    "title": "UAS — Temukan Dayamu, Ciptakan Manfaat Bersama",
-    "section": "Empat hasil kerja",
-    "text": "Empat hasil kerja\n\nRencana proyek dan kesepakatan tim — maksimal 3 halaman.\nJejak tiga episode percakapan dan adaptasi — maksimal 4 halaman dengan bukti pilihan.\nDemonstrasi solusi dan hasil uji — video 3–5 menit dan ringkasan 1 halaman.\nRefleksi individual dan rencana perbaikan — 1 halaman per anggota dalam satu berkas kelompok.\n\nMulai dari discovery, negosiasikan uji kecil, lalu evaluasi bersama mitra. Setiap anggota menunjukkan berbicara, mendengar, dan beradaptasi pada setidaknya satu episode. Pendanaan, komunitas, dan publik dibahas bila relevan, tanpa laporan wajib tersendiri.\nMinggu 15 menjadi latihan dan feedback. UAS berlangsung pada jadwal ujian tersendiri; bukti latihan dikembangkan dengan jejak revisi.\nBaca panduan dan penilaian · Isi template · Lihat contoh Jejak Laundry"
+    "text": "Bersama kelas, bangun sumber belajar AI for Academic Work: modul pengetahuan, tutorial, prompt teruji, dan kasus integratif. Pilih kebutuhan akademik yang nyata; kembangkan artefak sesuai penugasan, minta review tim lain, lalu uji dan perbaiki.\nKarya utama berada di repositori resmi Triune. Portfolio UAS menghubungkan kontribusi, hasil uji, showcase dan refleksi individual.\nPanduan pelaksanaan dan submisi · Template portfolio · Contoh fiktif\n\n\n\n Kembali ke atas"
   },
   {
     "objectID": "examples/week-15.html",
@@ -3577,28 +3513,28 @@
   {
     "objectID": "examples/UAS/index.html",
     "href": "examples/UAS/index.html",
-    "title": "Contoh UAS Empat Artefak — Jejak Laundry",
+    "title": "Contoh Portfolio Triune",
     "section": "",
-    "text": "Contoh fiktif untuk pembelajaran. Semua nama, dialog, data, transaksi, dan hasil paket ini ilustratif, bukan bukti lapangan atau nilai resmi. Gunakan pengalaman dan bukti sendiri dalam portfolio.\n\n\n\n\nContoh fiktif, bukan evidence mahasiswa. Tim Jejak terdiri dari Alya, Bima dan Citra; Laundry Pelangi serta seluruh dialog, biaya, data dan replay adalah ilustrasi. Tidak ada mitra, transaksi atau hasil lapangan nyata.\nPaket memperlihatkan penyederhanaan menjadi satu mitra, satu masalah, satu pilot dan empat artefak:\n\nRencana Proyek dan Kesepakatan Tim.\nJejak Percakapan dan Adaptasi.\nDemonstrasi Solusi dan Hasil Uji.\nRefleksi Individual dan Rencana Perbaikan.\n\nContoh demonstrasi belum memiliki video sehingga bukan paket siap dinilai. Panduan aktif · Template empat artefak. Minggu 15 untuk latihan dan revisi; UAS pada jadwal terpisah.\n\n\n\n Kembali ke atas",
+    "text": "Contoh fiktif untuk pembelajaran. Semua nama, dialog, data, transaksi, dan hasil paket ini ilustratif, bukan bukti lapangan atau nilai resmi. Gunakan pengalaman dan bukti sendiri dalam portfolio.\n\n\n\n\nContoh fiktif tentang modul membaca abstrak secara kritis. Semua nama, percakapan, review dan hasil uji merupakan ilustrasi; tidak ada Issue atau PR nyata.\n\nPenugasan dan Kontribusi\nReview, Uji Pengguna, dan Revisi\nShowcase dan Hasil\nRefleksi Individual\n\nPanduan UAS · Penilaian\n\n\n\n Kembali ke atas",
     "crumbs": [
       "Beranda",
       "Contoh UAS",
-      "Contoh UAS Empat Artefak — Jejak Laundry"
+      "Contoh Portfolio Triune"
     ]
   },
   {
-    "objectID": "examples/UAS/03-demonstrasi-hasil.html",
-    "href": "examples/UAS/03-demonstrasi-hasil.html",
-    "title": "Contoh — Demonstrasi Solusi dan Hasil Uji",
+    "objectID": "examples/UAS/03-showcase.html",
+    "href": "examples/UAS/03-showcase.html",
+    "title": "Contoh — Showcase dan Hasil",
     "section": "",
-    "text": "Contoh fiktif untuk pembelajaran. Semua nama, dialog, data, transaksi, dan hasil paket ini ilustratif, bukan bukti lapangan atau nilai resmi. Gunakan pengalaman dan bukti sendiri dalam portfolio.\n\n\n\n\nIndeks contoh · Template\nContoh ringkasan 1 halaman. Video belum tersedia; paket contoh ini belum memenuhi kelengkapan pengumpulan video. Mahasiswa membuat video sendiri 3–5 menit: masalah 30 detik, demo 90 detik, hasil/beban 60 detik, keputusan 30 detik.\nPrototipe: papan berkode dengan kolom tahap, waktu, petugas. DEMO-001 dicuci, belum siap; DEMO-002 dikemas dan dicek, siap setelah cocok nota; DEMO-003 kosong, wajib cek. Papan internal tanpa nama/telepon. Petugas memeriksa tahap fisik sebelum mengisi. Demo memperlihatkan kasus normal dan status kosong.\nData sintetis untuk lima tugas berpasangan, bukan hasil lapangan. Waktu dalam detik.\n\n\n\nTugas\nCari awal\nCari pilot\nInput awal\nInput pilot\n\n\n\n\n1\n120\n60\n30\n45\n\n\n2\n150\n60\n45\n60\n\n\n3\n180\n90\n45\n60\n\n\n4\n210\n60\n60\n75\n\n\n5\n240\n90\n45\n60\n\n\nRata-rata\n180\n72\n45\n60\n\n\n\nPencarian turun 60% pada tugas contoh, input naik 15 detik. Belum membuktikan penghematan bersih operasi, omzet, atau dampak jangka panjang. Tugas sama dan sampel kecil berpotensi efek belajar. E3 mengungkap kelupaan mengisi waktu; Citra memperbesar kolom dan mengulang latihan.\nKeputusan cerita: lanjut uji terbatas dua minggu, Ratna owner, Bima menyerahkan SOP, review beban dan kelengkapan sebelum perluasan. Hasil lanjutan belum tersedia. AI membantu penyuntingan; angka sintetis diperiksa aritmetikanya. Tidak ada video, pengukuran atau testimoni nyata.\n\n\n\n Kembali ke atas"
+    "text": "Contoh fiktif untuk pembelajaran. Semua nama, dialog, data, transaksi, dan hasil paket ini ilustratif, bukan bukti lapangan atau nilai resmi. Gunakan pengalaman dan bukti sendiri dalam portfolio.\n\n\n\n\nIndeks · Template\nTim memperagakan latihan memilih dua abstrak. Setelah menunjukkan pilihan, pengguna diminta menunjuk kalimat yang mendukung keputusan dan menjelaskan batas klaimnya. Pertanyaan panel contoh: apakah latihan berlaku untuk bidang lain? Tim menjelaskan bahwa uji hanya memakai dua abstrak dan mengusulkan perluasan contoh sebelum mengklaim transfer. Dalam submisi nyata, tautkan materi dan bukti showcase serta tanggapan reviewer.\n\n\n\n Kembali ke atas"
   },
   {
-    "objectID": "examples/UAS/01-rencana-proyek.html",
-    "href": "examples/UAS/01-rencana-proyek.html",
-    "title": "Contoh — Rencana Proyek dan Kesepakatan Tim",
+    "objectID": "examples/UAS/01-penugasan-kontribusi.html",
+    "href": "examples/UAS/01-penugasan-kontribusi.html",
+    "title": "Contoh — Penugasan dan Kontribusi",
     "section": "",
-    "text": "Contoh fiktif untuk pembelajaran. Semua nama, dialog, data, transaksi, dan hasil paket ini ilustratif, bukan bukti lapangan atau nilai resmi. Gunakan pengalaman dan bukti sendiri dalam portfolio.\n\n\n\n\nIndeks contoh · Template\nContoh isi maksimal 3 halaman. Semua tokoh dan bukti fiktif.\nMitra skenario: Laundry Pelangi, pemilik Ratna. Masalah prioritas: status pesanan tersebar sehingga staf lambat menjawab pelanggan. Dalam E1 Ratna mengoreksi dugaan tim: yang dibutuhkan kepastian status, bukan chatbot.\n\n\n\n\n\n\n\n\nAnggota\nKompetensi\nTanggung jawab\n\n\n\n\nAlya / CONTOH-01\nWawancara\nKoordinasi dan discovery\n\n\nBima / CONTOH-02\nDesain proses\nPapan status, SOP dan pengujian\n\n\nCitra / CONTOH-03\nDesain informasi\nKartu, panduan dan evaluasi pemahaman\n\n\n\nRapat 30 menit setiap akhir tahap; keputusan dicatat, keberatan ditanyakan sebelum menutup, keterlambatan dirundingkan ulang. Semua ikut percakapan, dengan giliran bermakna.\nAlternatif: chatbot atau papan berkode. Pilih papan tanpa data pribadi karena lebih sederhana. Pilot cerita satu gerai selama tujuh hari. Owner harian Dedi, Ratna cadangan. “Siap” hanya setelah kemasan diperiksa; status kosong dijawab perlu cek. Hentikan bila data pribadi terbuka atau jawaban siap tanpa verifikasi.\nIndikator: waktu mencari status, kelengkapan catatan, kesalahan jawaban, dan tambahan waktu input. Jadwal relatif H1 discovery, H3 negosiasi, H4–H10 pilot, H11 evaluasi, H12 revisi. Ini bukan tanggal resmi UAS.\nAnggaran ilustratif: discovery/transportasi 300 ribu; papan/kartu 400 ribu; pelatihan/uji 200 ribu; cadangan 100 ribu. Total rencana Rp1 juta, realisasi cerita Rp900 ribu; cadangan tidak dipakai. Tidak ada transaksi nyata. Jam kerja belajar dicatat terpisah dan tidak diklaim sebagai laba. Di bawah plafon Rp10 juta tanpa kewajiban menghabiskannya.\nAI membantu menyunting pertanyaan; anggota menghapus pertanyaan yang menggiring. Seluruh data contoh disusun untuk pembelajaran.\n\n\n\n Kembali ke atas"
+    "text": "Contoh fiktif untuk pembelajaran. Semua nama, dialog, data, transaksi, dan hasil paket ini ilustratif, bukan bukti lapangan atau nilai resmi. Gunakan pengalaman dan bukti sendiri dalam portfolio.\n\n\n\n\nIndeks · Template\nTim contoh mendapat modul konsep K-R01 dan berkontribusi pada alur literatur dan riset. Dari tiga percakapan ilustratif, calon pengguna kesulitan membedakan judul yang relevan dari klaim yang benar-benar didukung abstrak. Tim menyusun latihan membaca kritis dengan artikel akses terbuka. Rani merancang pertanyaan, Eko menyusun contoh, dan Maya memeriksa sumber. Dalam submisi nyata, lampirkan kebutuhan pengguna yang disamarkan, Issue, PR, status, dan kontribusi seluruh anggota.\n\n\n\n Kembali ke atas"
   },
   {
     "objectID": "course/week-14.html",
@@ -4259,11 +4195,11 @@
     ]
   },
   {
-    "objectID": "assessment/index.html#uas-empat-artefak",
-    "href": "assessment/index.html#uas-empat-artefak",
+    "objectID": "assessment/index.html#uas-kipp-triune-academic-commons",
+    "href": "assessment/index.html#uas-kipp-triune-academic-commons",
     "title": "Assessment Pencapaian",
-    "section": "UAS empat artefak",
-    "text": "UAS empat artefak\nLihat ketentuan penilaian UAS: rencana 20%, proses komunikasi 35%, demonstrasi/hasil 25%, refleksi individual 20%. Nilai individual; BT bukan nol.",
+    "section": "UAS KIPP Triune Academic Commons",
+    "text": "UAS KIPP Triune Academic Commons\nLihat penilaian UAS untuk kontribusi individual, komunikasi dan TAIDA, review lintas tim, kualitas karya, refleksi, dan integritas AI.",
     "crumbs": [
       "Beranda",
       "Assessment Pencapaian"
@@ -4272,12 +4208,12 @@
   {
     "objectID": "assessment/uas.html",
     "href": "assessment/uas.html",
-    "title": "Penilaian UAS — Empat Artefak",
+    "title": "Penilaian UAS — KIPP Triune Academic Commons",
     "section": "",
-    "text": "Gunakan panduan penilaian UAS. Empat komponen: rencana 20%, proses komunikasi 35%, demonstrasi/hasil 25%, refleksi individual 20%.\nNilai tiap mahasiswa berdasarkan kontribusinya; artefak tim tidak otomatis menghasilkan nilai sama. Empat aspek per komponen diberi skor 1–4; jumlah /16 × 100. BT bukan nol; nilai akhir ditunda bila belum lengkap. Sertakan ID bukti dan satu prioritas perbaikan. Rubrik mingguan /20 dan formula UTS tidak dipakai untuk UAS.\nUntuk pilot KIPP-CIA, periksa tautan paket, hasil uji, ulasan sejawat, dan revisi dalam empat artefak. Gunakan bukti itu untuk menilai tindakan masing-masing mahasiswa dengan rubrik UAS yang sama.\nTemplate · Contoh fiktif\n\n\n\n Kembali ke atas",
+    "text": "Nilai kontribusi melalui portfolio UAS, tautan PR, komentar review, hasil uji, showcase dan refleksi. Telusuri tindakan masing-masing mahasiswa; banyaknya commit tidak menunjukkan kualitas kontribusi.\n\n\n\n\n\n\n\n\nKriteria\nBobot usulan\nBukti yang diperiksa\n\n\n\n\nKontribusi individual\n25%\nPeran, keputusan, pekerjaan dan revisi yang dapat ditelusuri\n\n\nKomunikasi dan TAIDA\n25%\nKebutuhan pengguna, respons terhadap pertanyaan, serta presentasi/showcase\n\n\nKolaborasi dan peer review\n20%\nKerja tim, review lintas tim dan tindak lanjut\n\n\nKualitas dan kegunaan artefak\n20%\nReferensi, kegunaan, contoh yang diuji, feedback dan perbaikan\n\n\nRefleksi dan integritas AI\n10%\nPembelajaran, verifikasi manusia, atribusi dan keterbatasan AI\n\n\n\nBobot di atas mengikuti usulan rubrik Triune (assessments/rubric.md). Penetapan resmi dan penyelarasan dengan RPS mengikuti keputusan dosen.\nPanduan UAS · Contoh fiktif\n\n\n\n Kembali ke atas",
     "crumbs": [
-      "Assessment",
-      "Penilaian UAS — Empat Artefak"
+      "Beranda",
+      "Penilaian UAS — KIPP Triune Academic Commons"
     ]
   },
   {
@@ -4857,60 +4793,18 @@
     ]
   },
   {
-    "objectID": "examples/UAS/02-percakapan-adaptasi.html",
-    "href": "examples/UAS/02-percakapan-adaptasi.html",
-    "title": "Contoh — Jejak Percakapan dan Adaptasi",
+    "objectID": "examples/UAS/02-review-dan-uji.html",
+    "href": "examples/UAS/02-review-dan-uji.html",
+    "title": "Contoh — Review, Uji Pengguna, dan Revisi",
     "section": "",
-    "text": "Contoh fiktif untuk pembelajaran. Semua nama, dialog, data, transaksi, dan hasil paket ini ilustratif, bukan bukti lapangan atau nilai resmi. Gunakan pengalaman dan bukti sendiri dalam portfolio.\nIndeks contoh · Template\nTiga episode sintetis; tabel ini bukan transkrip lapangan. ID/baris dapat dirujuk lintas artefak."
-  },
-  {
-    "objectID": "examples/UAS/02-percakapan-adaptasi.html#e1-discovery-h1",
-    "href": "examples/UAS/02-percakapan-adaptasi.html#e1-discovery-h1",
-    "title": "Contoh — Jejak Percakapan dan Adaptasi",
-    "section": "E1 — Discovery, H1",
-    "text": "E1 — Discovery, H1\nTujuan: memeriksa dugaan perlunya chatbot. Ratna pemilik; semua anggota hadir.\n\n\n\n\n\n\n\n\nBaris\nPembicara\nUjaran ilustratif\n\n\n\n\n1\nAlya\nKejadian apa yang terakhir membuat staf sulit menjawab?\n\n\n2\nRatna\nKami tidak tahu cucian sudah sampai tahap mana. Bukan kurang cepat membalas.\n\n\n3\nAlya\nJadi sumber masalahnya jejak tahap, bukan kecepatan pesan? Kami ubah fokus ke pencatatan; boleh diperiksa?\n\n\n4\nRatna\nYa, tunjukkan cara sederhana dulu.\n\n\n\nAdaptasi: tim meninggalkan pitch chatbot, membuat papan. Alya mengirim rancangan H2 untuk diperiksa Ratna."
-  },
-  {
-    "objectID": "examples/UAS/02-percakapan-adaptasi.html#e2-negosiasi-h3",
-    "href": "examples/UAS/02-percakapan-adaptasi.html#e2-negosiasi-h3",
-    "title": "Contoh — Jejak Percakapan dan Adaptasi",
-    "section": "E2 — Negosiasi, H3",
-    "text": "E2 — Negosiasi, H3\nTujuan: menyepakati pilot dan beban staf.\n\n\n\n\n\n\n\n\nBaris\nPembicara\nUjaran ilustratif\n\n\n\n\n1\nBima\nKami usulkan staf memperbarui papan setiap tahap. Apa yang sulit?\n\n\n2\nDedi\nKalau harus isi aplikasi juga, pekerjaan dobel.\n\n\n3\nBima\nBerarti pencatatan ganda membebani. Kita pakai papan saja tanpa aplikasi; nota transaksi tetap. Apakah cukup?\n\n\n4\nRatna\nBoleh tujuh hari; saya cadangan Dedi. Jangan pakai nama pelanggan di papan.\n\n\n\nAdaptasi: hilangkan input aplikasi. Bima menyiapkan papan dan latihan sebelum H4; Ratna review harian. Belum ada pembelian layanan lanjutan."
-  },
-  {
-    "objectID": "examples/UAS/02-percakapan-adaptasi.html#e3-evaluasi-h11",
-    "href": "examples/UAS/02-percakapan-adaptasi.html#e3-evaluasi-h11",
-    "title": "Contoh — Jejak Percakapan dan Adaptasi",
-    "section": "E3 — Evaluasi, H11",
-    "text": "E3 — Evaluasi, H11\nTujuan: membaca manfaat dan keterbatasan hasil.\n\n\n\n\n\n\n\n\nBaris\nPembicara\nUjaran ilustratif\n\n\n\n\n1\nCitra\nContoh uji lebih cepat, tetapi waktu input naik. Apa yang perlu diubah?\n\n\n2\nDedi\nSaat sibuk kami masih lupa waktu pembaruan.\n\n\n3\nCitra\nJadi kecepatan belum cukup. Saya perbesar kolom waktu dan latihan ulang status kosong; kita periksa lagi sebelum lanjut?\n\n\n4\nRatna\nSetuju uji terbatas lagi; jangan klaim semua masalah selesai.\n\n\n\nAdaptasi: kartu/papan direvisi; Citra menguji pemahaman H12. Keputusan lanjut terbatas, Ratna meninjau sesudah dua minggu; hasil lanjutan belum tersedia.\nAlya berbicara/mendengar/beradaptasi pada E1:1–3; Bima E2:1–3; Citra E3:1–3. Bukti nyata nantinya memerlukan tanggal, izin, akses dan cuplikan autentik. AI membantu penyusunan contoh, bukan mewawancarai tokoh."
+    "text": "Contoh fiktif untuk pembelajaran. Semua nama, dialog, data, transaksi, dan hasil paket ini ilustratif, bukan bukti lapangan atau nilai resmi. Gunakan pengalaman dan bukti sendiri dalam portfolio.\n\n\n\n\nIndeks · Template\nReviewer tim lain meminta peserta menuliskan kalimat abstrak yang mendukung pilihan mereka. Pada uji ilustratif, dua pengguna dapat memilih abstrak, tetapi satu menyamakan relevansi dengan kekuatan bukti. Maya menambahkan contoh tandingan dan Eko memperjelas petunjuk. Uji ulang pada satu pengguna memberi jawaban lebih spesifik; hasil ini belum menunjukkan efektivitas umum. AI membantu variasi pertanyaan; tim memeriksa contoh terhadap abstrak asli. Submisi nyata menautkan komentar review, catatan uji dan revisi.\n\n\n\n Kembali ke atas"
   },
   {
     "objectID": "examples/UAS/04-refleksi-individual.html",
     "href": "examples/UAS/04-refleksi-individual.html",
-    "title": "Contoh — Refleksi Individual dan Rencana Perbaikan",
+    "title": "Contoh — Refleksi Individual",
     "section": "",
-    "text": "Contoh fiktif untuk pembelajaran. Semua nama, dialog, data, transaksi, dan hasil paket ini ilustratif, bukan bukti lapangan atau nilai resmi. Gunakan pengalaman dan bukti sendiri dalam portfolio.\nIndeks contoh · Template\nContoh tiga refleksi ringkas; masing-masing dikembangkan maksimal 1 halaman dengan bukti autentik. Semua replay di bawah ilustratif."
-  },
-  {
-    "objectID": "examples/UAS/04-refleksi-individual.html#alya-contoh-01",
-    "href": "examples/UAS/04-refleksi-individual.html#alya-contoh-01",
-    "title": "Contoh — Refleksi Individual dan Rencana Perbaikan",
-    "section": "Alya — CONTOH-01",
-    "text": "Alya — CONTOH-01\nKontribusi E1:1–3: meminta kejadian konkret, merangkum, mengubah fokus chatbot menjadi jejak tahap. Awalnya saya menafsirkan penolakan teknologi sebagai penolakan kemampuan saya; fakta E1:2 menunjukkan kebutuhan berbeda. Pada replay R-A saya mengganti “chatbot kami cocok” dengan “bagian pekerjaan mana yang sulit?”. Respons pemeran lebih spesifik tentang status. Belum membuktikan kebiasaan permanen. AI menyarankan pertanyaan, saya membuang yang menggiring. Praktik berikut: dua pertanyaan terbuka dan satu konfirmasi sebelum menawarkan solusi pada pertemuan berikutnya."
-  },
-  {
-    "objectID": "examples/UAS/04-refleksi-individual.html#bima-contoh-02",
-    "href": "examples/UAS/04-refleksi-individual.html#bima-contoh-02",
-    "title": "Contoh — Refleksi Individual dan Rencana Perbaikan",
-    "section": "Bima — CONTOH-02",
-    "text": "Bima — CONTOH-02\nKontribusi E2:1–3: menggali beban input, menghapus aplikasi tambahan. Saya semula menyamakan banyak fitur dengan manfaat; keberatan Dedi mengubah pilihan. Replay R-B memperagakan jawaban “perlu cek” ketika kolom kosong; pemeran dapat menjelaskan aturan kembali. AI membantu memeriksa SOP; keputusan tetap saya periksa terhadap kesepakatan E2. Target berikut: uji satu kasus gagal bersama staf sebelum menjanjikan fungsi baru."
-  },
-  {
-    "objectID": "examples/UAS/04-refleksi-individual.html#citra-contoh-03",
-    "href": "examples/UAS/04-refleksi-individual.html#citra-contoh-03",
-    "title": "Contoh — Refleksi Individual dan Rencana Perbaikan",
-    "section": "Citra — CONTOH-03",
-    "text": "Citra — CONTOH-03\nKontribusi E3:1–3: membuka pembahasan beban, merangkum kelupaan waktu, merevisi papan. Saya takut menyebut hasil buruk; saya memilih menampilkan kenaikan waktu input. Replay R-C memakai kolom waktu lebih besar; pemeran ingat mengisinya pada satu latihan, belum bukti operasional berkelanjutan. AI menawarkan klaim “menghemat kerja 60%”, saya menolaknya karena hanya waktu pencarian yang dihitung. Target berikut: minta pengguna menjelaskan satu batas solusi sebelum menyetujui pesan akhir.\nNilai belum dihitung: contoh tidak memiliki bukti nyata atau skor assessor. BT bukan nol. Bobot empat artefak 20%, 35%, 25%, 20%; jangan gunakan formula rancangan lama."
+    "text": "Contoh fiktif untuk pembelajaran. Semua nama, dialog, data, transaksi, dan hasil paket ini ilustratif, bukan bukti lapangan atau nilai resmi. Gunakan pengalaman dan bukti sendiri dalam portfolio.\n\n\n\n\nIndeks · Template\nRani (fiktif): Saya merancang pertanyaan untuk calon pengguna. Awalnya saya berasumsi mereka membutuhkan daftar istilah. Percakapan memperlihatkan mereka lebih kesulitan menunjukkan bukti yang mendukung klaim. Saya mengganti daftar dengan pertanyaan latihan yang meminta kalimat sumber. Saya memeriksa hasil saran AI terhadap teks dan menolak contoh rujukan yang tidak dapat ditemukan. Berikutnya saya akan menguji latihan pada artikel dari bidang lain. Dalam pengumpulan nyata, saya menautkan kontribusi dan tanggapan terhadap review.\n\n\n\n Kembali ke atas"
   },
   {
     "objectID": "examples/UTS/hasil_1.html",
@@ -5229,7 +5123,7 @@
     "href": "examples/index.html#contoh-artefak-uas",
     "title": "Contoh Portfolio Mingguan",
     "section": "Contoh artefak UAS",
-    "text": "Contoh artefak UAS\nBuka paket contoh UAS Jejak Laundry: empat artefak berupa rencana proyek, jejak tiga episode percakapan, demonstrasi/hasil uji, dan refleksi individual. Semua tokoh, dialog dan data fiktif. Contoh belum menyertakan video dan bukan paket siap dinilai. UAS terpisah dari latihan capstone Minggu 15.",
+    "text": "Contoh artefak UAS\nBuka contoh portfolio Triune untuk melihat ilustrasi kontribusi, review, uji, showcase, dan refleksi.",
     "crumbs": [
       "Beranda",
       "Contoh Portfolio Mingguan"
@@ -5832,7 +5726,7 @@
     "href": "lk/index.html",
     "title": "Lembar Kerja",
     "section": "",
-    "text": "Gunakan daftar berikut untuk membuka lembar kerja setiap bab.\n\n\n\nBab\nLembar kerja\n\n\n\n\n01\nPeta Karakter Komunikasi Pribadi\n\n\n02\nTiga Narasi atas Satu Peristiwa\n\n\n03\nMendengarkan Tanpa Memperbaiki\n\n\n04\nPortofolio Terjemahan Lima Bahasa\n\n\n05\nWawancara Penemuan Kebutuhan\n\n\n06\nTiga Pitch untuk Tiga Pihak\n\n\n07\nPanduan Detoks Fitur\n\n\n08\nUjian Tengah Semester\n\n\n09\nDemonstrasi Pembangun Keinginan\n\n\n10\nDokumen Kesepakatan dan Lingkar Komitmen\n\n\n11\nPeta Pemangku Kepentingan dan Deliberasi Banyak Pihak\n\n\n12\nDeliberasi Komunitas\n\n\n13\nSatu Gagasan, Empat Bahasa Publik\n\n\n14\nSpesifikasi Kopilot dan Manajemen Risiko AI\n\n\n15\nCapstone perkuliahan dan latihan integrasi\n\n\nUAS\nUAS — Temukan Dayamu, Ciptakan Manfaat Bersama · Panduan empat artefak dan penilaian\n\n\n\n\n\n\n Kembali ke atas"
+    "text": "Gunakan daftar berikut untuk membuka lembar kerja setiap bab.\n\n\n\nBab\nLembar kerja\n\n\n\n\n01\nPeta Karakter Komunikasi Pribadi\n\n\n02\nTiga Narasi atas Satu Peristiwa\n\n\n03\nMendengarkan Tanpa Memperbaiki\n\n\n04\nPortofolio Terjemahan Lima Bahasa\n\n\n05\nWawancara Penemuan Kebutuhan\n\n\n06\nTiga Pitch untuk Tiga Pihak\n\n\n07\nPanduan Detoks Fitur\n\n\n08\nUjian Tengah Semester\n\n\n09\nDemonstrasi Pembangun Keinginan\n\n\n10\nDokumen Kesepakatan dan Lingkar Komitmen\n\n\n11\nPeta Pemangku Kepentingan dan Deliberasi Banyak Pihak\n\n\n12\nDeliberasi Komunitas\n\n\n13\nSatu Gagasan, Empat Bahasa Publik\n\n\n14\nSpesifikasi Kopilot dan Manajemen Risiko AI\n\n\n15\nCapstone perkuliahan dan latihan integrasi\n\n\nUAS\nKIPP Triune Academic Commons · Panduan pelaksanaan dan pengumpulan\n\n\n\n\n\n\n Kembali ke atas"
   },
   {
     "objectID": "lk/lk-02.html",
@@ -6089,51 +5983,37 @@
   {
     "objectID": "lk/lk-UAS/index.html",
     "href": "lk/lk-UAS/index.html",
-    "title": "UAS — Satu Masalah, Satu Pilot, Empat Artefak",
+    "title": "UAS — KIPP Triune Academic Commons",
     "section": "",
-    "text": "Bentuk tim 3–4 mahasiswa. Pilih satu mitra, satu masalah, dan satu pilot kecil yang sesuai kemampuan tim. Dengarkan masalah, buat percobaan, perbaiki berdasarkan respons, lalu pertanggungjawabkan hasilnya.\nSolusi dapat berupa jasa, panduan, desain, perbaikan proses, alat, kegiatan belajar, atau teknologi. Gunakan AI bila membantu kebutuhan yang telah divalidasi. Modal rancangan maksimal Rp10 juta per tim, bukan kewajiban uang pribadi atau janji hibah. Mulai dengan sumber daya tersedia; bedakan anggaran rencana dan realisasi.\nPaket empat artefak ini menggantikan pengumpulan 14 artefak serta ketentuan lima/tujuh ranah terpisah dalam proyek ini. Pendanaan, komunitas, dan publik dibahas bila relevan; tidak wajib menjadi laporan atau sesi tambahan. Tidak ada kewajiban penjualan, kontrak kedua, jumlah pengikut, atau penghimpunan dana nyata."
+    "text": "AI for Academic Work adalah proyek kelas untuk membangun sumber belajar akademik yang dapat digunakan kembali. Kecerdasan individu (II) terlihat dari kontribusi dan pertimbangan setiap mahasiswa, kecerdasan kolektif (CI) dari kerja tim dan review silang, serta kecerdasan artifisial (AI) dari bantuan yang diuji dan diperiksa manusia.\nProyek ini menggantikan tugas UAS sebelumnya. Gunakan repositori resmi Triune yang diumumkan dosen atau koordinator. Konten dan PR dikerjakan di repositori tersebut; portfolio KIPP ini merangkum bukti dan refleksi, tanpa menyalin karya ke repositori kedua."
   },
   {
-    "objectID": "lk/lk-UAS/index.html#tantangan-dan-lingkup",
-    "href": "lk/lk-UAS/index.html#tantangan-dan-lingkup",
-    "title": "UAS — Satu Masalah, Satu Pilot, Empat Artefak",
-    "section": "",
-    "text": "Bentuk tim 3–4 mahasiswa. Pilih satu mitra, satu masalah, dan satu pilot kecil yang sesuai kemampuan tim. Dengarkan masalah, buat percobaan, perbaiki berdasarkan respons, lalu pertanggungjawabkan hasilnya.\nSolusi dapat berupa jasa, panduan, desain, perbaikan proses, alat, kegiatan belajar, atau teknologi. Gunakan AI bila membantu kebutuhan yang telah divalidasi. Modal rancangan maksimal Rp10 juta per tim, bukan kewajiban uang pribadi atau janji hibah. Mulai dengan sumber daya tersedia; bedakan anggaran rencana dan realisasi.\nPaket empat artefak ini menggantikan pengumpulan 14 artefak serta ketentuan lima/tujuh ranah terpisah dalam proyek ini. Pendanaan, komunitas, dan publik dibahas bila relevan; tidak wajib menjadi laporan atau sesi tambahan. Tidak ada kewajiban penjualan, kontrak kedua, jumlah pengikut, atau penghimpunan dana nyata."
+    "objectID": "lk/lk-UAS/index.html#lingkup-dan-pembagian-kerja",
+    "href": "lk/lk-UAS/index.html#lingkup-dan-pembagian-kerja",
+    "title": "UAS — KIPP Triune Academic Commons",
+    "section": "Lingkup dan pembagian kerja",
+    "text": "Lingkup dan pembagian kerja\nRancangan pilot: 21 hari, 12 tim berisi 5–6 mahasiswa. Pembagian final mengikuti roster koordinator. Target seluruh kelas adalah 42 artefak: 12 modul pengetahuan, 12 tutorial keterampilan, 12 prompt AI teruji, dan 6 kasus integratif. Kelas juga menyiapkan enam alur belajar, satu portal Quarto, dan forum GitHub Discussions. Ini target kelas, bukan kuota setiap tim.\nEnam tema: AI untuk belajar, literatur dan riset, penulisan akademik, coding dan data, visualisasi dan presentasi, serta pemecahan masalah akademik. Temukan berkas yang ditugaskan melalui ARTIFACT_REGISTER.csv dan governance/team-roster.csv. Edit artefak yang sudah tersedia dan gunakan template sesuai jenisnya. Jaga ID dan metadata; jangan membuat duplikat."
   },
   {
-    "objectID": "lk/lk-UAS/index.html#empat-artefak-pengumpulan",
-    "href": "lk/lk-UAS/index.html#empat-artefak-pengumpulan",
-    "title": "UAS — Satu Masalah, Satu Pilot, Empat Artefak",
-    "section": "Empat artefak pengumpulan",
-    "text": "Empat artefak pengumpulan\n\n\n\n\n\n\n\n\n\nArtefak\nIsi minimum\nBentuk\nBobot\n\n\n\n\n1. Rencana proyek dan kesepakatan tim\nMasalah dan mitra; kondisi awal; kemampuan/peran anggota; solusi dan alternatif; indikator pilot; jadwal; anggaran\nMaksimal 3 halaman\n20%\n\n\n2. Jejak percakapan dan adaptasi\nTiga episode: discovery, negosiasi pelaksanaan/dukungan, evaluasi hasil. Tujuan, kutipan respons, kontribusi, adaptasi, dan tindak lanjut\nMaksimal 4 halaman + tautan bukti pilihan\n35%\n\n\n3. Demonstrasi solusi dan hasil uji\nPrototipe; cara uji; perbandingan kondisi awal/hasil; feedback; keterbatasan; keputusan lanjut/ubah/hentikan\nVideo 3–5 menit + ringkasan 1 halaman\n25%\n\n\n4. Refleksi individual dan rencana perbaikan\nKontribusi dengan ID bukti; satu tantangan/narasi diri; adaptasi; replay/perbaikan dan hasilnya; penggunaan AI; langkah belajar berikutnya\n1 halaman per mahasiswa, dihimpun dalam satu berkas kelompok\n20%\n\n\n\nIndeks portfolio hanya menjadi navigasi, bukan artefak kelima. Lampiran bukti mendukung empat artefak; tidak perlu register, proposal pendanaan, poster publik, jurnal dua episode, atau laporan stakeholder tersendiri. Batas halaman berlaku pada isi utama; video dan bukti terpilih ditautkan. Halaman Quarto dapat diekspor untuk memeriksa batas halaman."
+    "objectID": "lk/lk-UAS/index.html#dari-pembentukan-tim-hingga-siap-dinilai",
+    "href": "lk/lk-UAS/index.html#dari-pembentukan-tim-hingga-siap-dinilai",
+    "title": "UAS — KIPP Triune Academic Commons",
+    "section": "Dari pembentukan tim hingga siap dinilai",
+    "text": "Dari pembentukan tim hingga siap dinilai\n\n\n\n\n\n\n\n\nWaktu\nKegiatan\nBukti\n\n\n\n\nHari 1–7\nBentuk tim, tetapkan peran/ID, dengarkan minimal tiga calon pengguna per tim, buat Issue dan draf modul konsep (P0)\nRoster, ringkasan kebutuhan, Issue, draf dan rencana alur belajar\n\n\nHari 8–14\nKembangkan tutorial dan prompt (P1), uji contoh, ajukan pull request (PR), minta review tim lain, dan revisi\nPR, rujukan, contoh input-output, komentar dan tanggapan\n\n\nHari 15–19\nSelesaikan kasus integratif (P2) dan alur belajar sesuai penugasan, uji paket dengan minimal dua pengguna di luar tim, perbaiki dan minta review ulang\nCatatan uji, hasil validasi, revisi dan status PR\n\n\nHari 20–21\nShowcase, komunikasi TAIDA, dan refleksi individual\nRingkasan demo, feedback reviewer, tautan kontribusi tiap anggota dan refleksi\n\n\n\nBuat branch dari repositori resmi, edit file yang ditugaskan, commit, push, lalu buka PR. Gunakan python scripts/check_artifacts.py dan python scripts/check_portal.py bila bekerja lokal, atau periksa hasil validasi PR. Jangan bekerja langsung di main; koordinator menangani merge dan publikasi setelah pemeriksaan lulus."
   },
   {
-    "objectID": "lk/lk-UAS/index.html#proses-kerja-sederhana",
-    "href": "lk/lk-UAS/index.html#proses-kerja-sederhana",
-    "title": "UAS — Satu Masalah, Satu Pilot, Empat Artefak",
-    "section": "Proses kerja sederhana",
-    "text": "Proses kerja sederhana\n\nKenali tim dan dengarkan mitra. Sepakati peran, lakukan discovery, lalu konfirmasi satu masalah prioritas. Mulai artefak 1 dan episode pertama artefak 2.\nRancang dan negosiasikan uji kecil. Buat prototipe, indikator, anggaran, owner, jadwal, izin/data, serta kriteria berhenti. Catat negosiasi sebagai episode kedua.\nJalankan dan evaluasi. Ukur kondisi awal dan hasil dengan cara yang sebanding; catat kesalahan dan beban tambahan. Bahas hasil bersama mitra sebagai episode ketiga, lalu revisi.\nDemonstrasikan dan refleksikan. Rekam video, tulis ringkasan hasil, lakukan satu replay/perbaikan yang relevan per anggota, dan selesaikan refleksi.\n\nTiga episode adalah minimum tim; tidak wajib tiga orang berbeda atau tiga transkrip penuh. Bila bukti kontribusi seorang anggota belum terlihat, tambahkan cuplikan/sesi pelengkap terarah dalam artefak 2. Setiap anggota menunjukkan berbicara, mendengar, dan beradaptasi setidaknya pada satu episode. Refleksi menunjuk bukti tersebut."
+    "objectID": "lk/lk-UAS/index.html#pemeriksaan-mutu",
+    "href": "lk/lk-UAS/index.html#pemeriksaan-mutu",
+    "title": "UAS — KIPP Triune Academic Commons",
+    "section": "Pemeriksaan mutu",
+    "text": "Pemeriksaan mutu\n\nNyatakan pengguna dan tujuan, beri petunjuk penggunaan serta latihan atau asesmen.\nPastikan klaim penting memiliki rujukan yang dapat diperiksa, contoh benar-benar diuji, dan hasil uji tidak direkayasa.\nCatat bantuan AI, bagian yang dipakai atau ditolak, verifikasi manusia, dan batasannya.\nTindak lanjuti minimal satu masukan substantif dari reviewer tim lain dan catat uji pengguna yang bukan pembuat artefak.\nLindungi data pribadi, materi tanpa izin dan kredensial. Sertakan ringkasan bukti yang aman dan akses terbatas bila diperlukan.\nKoordinasikan perubahan status reviewed dengan pengelola register setelah review dan uji tercatat. PR yang masih menunggu merge ditulis apa adanya."
   },
   {
-    "objectID": "lk/lk-UAS/index.html#bukti-dan-penggunaan-ai",
-    "href": "lk/lk-UAS/index.html#bukti-dan-penggunaan-ai",
-    "title": "UAS — Satu Masalah, Satu Pilot, Empat Artefak",
-    "section": "Bukti dan penggunaan AI",
-    "text": "Bukti dan penggunaan AI\nPada setiap episode cantumkan ID, tanggal, person/peran, kontributor, nyata/simulasi, dan kutipan dengan nomor baris atau timestamp. Catat tujuan → respons → adaptasi → hasil → tindak lanjut. Pilih cuplikan yang cukup untuk memeriksa konteks; transkrip lengkap tidak diwajibkan. Konfirmasi catatan percakapan kepada pihak terkait bila tidak direkam.\nNyatakan penggunaan AI singkat pada artefak terkait: alat, tujuan, hasil dipakai/diubah/ditolak, dan verifikasi manusia; tulis tidak digunakan bila demikian. Jangan merekayasa wawancara, testimoni, transaksi, atau hasil uji. Minta izin penggunaan bukti; simpan data sensitif terbatas dan berikan akses assessor. Tandai role-play dengan jelas. Jika akses lapangan tidak tersedia, sepakati mitra kelas atau simulasi setara dengan dosen; jangan klaim dampak lapangan."
-  },
-  {
-    "objectID": "lk/lk-UAS/index.html#penilaian-individual",
-    "href": "lk/lk-UAS/index.html#penilaian-individual",
-    "title": "UAS — Satu Masalah, Satu Pilot, Empat Artefak",
-    "section": "Penilaian individual",
-    "text": "Penilaian individual\nNilai akhir /100 = 0,20 × rencana + 0,35 × proses komunikasi + 0,25 × demonstrasi/hasil + 0,20 × refleksi. Setiap komponen berskala 0–100 dan dinilai untuk mahasiswa bersangkutan. Artefak bersama memberi konteks; nilai anggota tidak otomatis sama.\n\n\n\n\n\n\n\nKomponen\nEmpat aspek yang dinilai\n\n\n\n\nRencana\nKetepatan masalah/person; relevansi kompetensi/peran; kelayakan pilot/indikator; kejelasan jadwal/biaya/kesepakatan\n\n\nProses komunikasi\nMendengar/validasi; bahasa dan bukti; adaptasi terhadap respons; kesepakatan/tindak lanjut dan relasi\n\n\nDemonstrasi/hasil\nKejelasan fungsi solusi; ketepatan pengujian; kejujuran hasil/beban/keterbatasan; keputusan dan kontribusi yang dapat ditelusuri\n\n\nRefleksi\nKontribusi berbukti; pemeriksaan narasi/asumsi; replay/perbaikan dan hasil; akuntabilitas AI serta rencana belajar\n\n\n\nSetiap aspek diberi 1–4: 1 perilaku awal dengan asumsi/klaim lemah; 2 mulai tampak tetapi belum konsisten; 3 tepat, berbukti, dan dapat dijalankan; 4 adaptif menghadapi kendala serta menguji perbaikan. Nilai komponen = jumlah empat skor ÷ 16 × 100. Assessor menyebut ID bukti dan satu prioritas perbaikan. Bukti yang belum cukup diberi BT, bukan nol; tunda nilai komponen/akhir sampai lengkap. Penolakan mitra atau hasil pilot yang kurang baik dapat tetap menunjukkan komunikasi kompeten bila ditangani dan dilaporkan dengan baik. Ambang kelulusan serta bobot UAS terhadap mata kuliah mengikuti ketetapan dosen."
-  },
-  {
-    "objectID": "lk/lk-UAS/index.html#minggu-15-dan-uas",
-    "href": "lk/lk-UAS/index.html#minggu-15-dan-uas",
-    "title": "UAS — Satu Masalah, Satu Pilot, Empat Artefak",
-    "section": "Minggu 15 dan UAS",
-    "text": "Minggu 15 dan UAS\nGunakan Minggu 9–14 untuk proses proyek; Minggu 15 untuk latihan integrasi, feedback, dan replay. UAS berlangsung pada jadwal ujian tersendiri; portfolio/nilai Minggu 15 dicatat terpisah. Tanggal diumumkan dosen.\nForum tim tetap 25 menit: paparan 5 menit, demonstrasi/hasil 5 menit, tanya jawab 10 menit, rangkuman revisi 5 menit. Video dapat digunakan pada slot demonstrasi. Pembelaan individual sekitar 8 menit menelusuri bukti kontribusi dan respons terhadap perubahan kondisi; tidak memerlukan artefak tambahan.\nBuka template empat artefak · Lihat contoh fiktif Jejak Laundry"
+    "objectID": "lk/lk-UAS/index.html#showcase-dan-penilaian",
+    "href": "lk/lk-UAS/index.html#showcase-dan-penilaian",
+    "title": "UAS — KIPP Triune Academic Commons",
+    "section": "Showcase dan penilaian",
+    "text": "Showcase dan penilaian\nTunjukkan kebutuhan pengguna → artefak → contoh penggunaan → hasil uji → revisi → dampak dan keterbatasan. Gunakan TAIDA (Target, Attention, Interest, Desire, Action) dalam penyajian dan jelaskan peran II, CI, dan AI. Tim lain menyampaikan satu pertanyaan substantif dan satu saran.\nPaket siap dinilai saat indeks memuat tautan karya dan PR, uji pengguna, review dan revisi, bukti showcase, serta refleksi setiap anggota. Ubah status menjadi Siap dinilai dan kirim indeks melalui kanal yang ditetapkan dosen. Tanggal dan format penyerahan mengikuti pengumuman dosen; capstone Minggu 15 tetap dicatat terpisah.\nBuka template portfolio · Lihat contoh · Baca rubrik\nDi repositori Triune, rujuk PROJECT_CHARTER.md, docs/student-workflow.md, QUALITY_GATE.md, assessments/rubric.md, dan assessments/showcase-guide.md."
   },
   {
     "objectID": "lk/lk-UTS/index.html",
@@ -6192,60 +6072,25 @@
     "text": "Cari nama atau NIM Anda pada tabel berikut, lalu unduh kelima file ZIP soal. Ambil paket sesuai NIM Anda.\nPaket aktif versi 2.0 tidak menggunakan password.\n\n\n\nNIM\nNama mahasiswa\nSoal 1\nSoal 2.a\nSoal 2.b\nSoal 3.a\nSoal 3.b\n\n\n\n\n07381119\nAli Baba\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18222009\nDaffa Ramadhan Elengi\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18222041\nKezia Caren Cahyadi\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18223103\nMuhammad Dhafin Faidhulhaq\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225001\nKezia Josephine Manik\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225003\nErin Cherryl Angela\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225005\nVirdhi Yastana Buma\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225007\nAmmar Zharif Fakhrudin\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225011\nAzka Atha’Us Salam\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225013\nAhmad Ibrahim Alhakim\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225015\nNathanael Louis Cahyono\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225017\nMuhammad Aquilla Arizqy\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225019\nFathir Mulya Gibran\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225021\nIhsan Fadhlih Akbar\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225023\nMaximillian Jose Andreas A\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225025\nRulyansyah Fajar Ramadhan\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225027\nPelangi Putri Sanyoto\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225029\nFakhri Athallah Dwi Andeo\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225033\nFaiq Fadhlul Bahri\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225035\nAkmal Nararya Hasan\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225037\nRagawa Bhramastya Aquila S\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225039\nObert Chandra\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225041\nAzka Fathiyya Haryadi\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225043\nMuhammad Daffa Aprilianto\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225045\nTristan Anthony Wijaya\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225047\nRijal Kholis Al-Ausath\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225049\nCecilia Maura Ciptami P\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225051\nJevon Cleverivello Aritonang\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225053\nMuhammad Razka Adhitya\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225055\nDimas Nurizki Falah\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225057\nTio Christian Doly Silitonga\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225059\nKeisha Nazla Ananta Putri\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225061\nOlsen Danilson Sitohang\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225063\nEka Suci Ramadhani\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225065\nSarah Christine R. Tambunan\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225067\nDavin Manuel Halim\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225069\nWinda Naila Nur Aisyah\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225071\nMichelle Nataneilla\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225073\nSabrina Aurelyn Sibarani\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225075\nDavindra Rasya Nugroho\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225077\nAqila Zahra Athaya\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225079\nGrasella\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225081\nOwen Reyhan Martua Pasaribu\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225083\nRosianna Maria Aviv Silalahi\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225085\nMuhammad Faisal Ramadhan\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225087\nMuhammad Nabil Aizar Ramadhan\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225089\nAriya Nanda Harimawan\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225091\nMuhammad Orkhan\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225093\nAgastya Tristan Dhaniswara\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225095\nTirta Wening Putri Harsono\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225097\nFayza Kamilia\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225099\nLana Dzakira Cahyadi\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225101\nNatasha Aurellia\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225103\nMuhammad Rizqi Azhar\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225105\nAthaillah Akmalu Ramadhan\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225107\nMuhammad Kafka Ghaisan Yusuf\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225109\nBanu Agil Triyanto\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225111\nPutu Nasya Adfarizka Winarta\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225113\nNaufal Rasya\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225115\nMuhammad Rafi Fadillah\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225117\nOmerio Orlando Manalu\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225119\nMouristio R. A. K. L. Praing\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225121\nFarrel Garuda Haryono\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n18225123\nLeroy Keane Muhammad Del Oro A\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b\n\n\n73811190\nArmein Z. R. Langi\nUnduh 1\nUnduh 2.a\nUnduh 2.b\nUnduh 3.a\nUnduh 3.b"
   },
   {
-    "objectID": "portfolio/UAS/02-percakapan-adaptasi.html",
-    "href": "portfolio/UAS/02-percakapan-adaptasi.html",
-    "title": "Jejak Percakapan dan Adaptasi",
+    "objectID": "portfolio/UAS/02-review-dan-uji.html",
+    "href": "portfolio/UAS/02-review-dan-uji.html",
+    "title": "Review, Uji Pengguna, dan Revisi",
     "section": "",
-    "text": "Indeks · Contoh\nBatas: 4 halaman + tautan bukti pilihan. Bobot: 35%. Tidak wajib transkrip lengkap atau laporan per audiens.\nUlangi blok berikut untuk E1 discovery, E2 negosiasi pelaksanaan/dukungan, dan E3 evaluasi hasil. Bila perlu, tambahkan cuplikan pelengkap dalam batas isi utama."
-  },
-  {
-    "objectID": "portfolio/UAS/02-percakapan-adaptasi.html#e1-discovery",
-    "href": "portfolio/UAS/02-percakapan-adaptasi.html#e1-discovery",
-    "title": "Jejak Percakapan dan Adaptasi",
-    "section": "E1 — Discovery",
-    "text": "E1 — Discovery\nTanggal, person/peran, kontributor, nyata/simulasi: [Isi].\nTujuan; fakta dan dugaan awal: [Isi].\n\n\n\nBaris/timestamp\nPembicara\nKutipan/catatan terkonfirmasi\n\n\n\n\n[Isi]\n[Isi]\n[Isi]\n\n\n\nRespons penting → adaptasi → hasil: [Isi perubahan pertanyaan, bahasa, solusi, atau keputusan].\nTindak lanjut: [Isi owner, tindakan, tenggat dan review; atau penolakan beralasan].\nBukti pilihan dan izin/akses: [Isi tautan; jelaskan bila tidak direkam]."
-  },
-  {
-    "objectID": "portfolio/UAS/02-percakapan-adaptasi.html#e2-negosiasi-pelaksanaandukungan",
-    "href": "portfolio/UAS/02-percakapan-adaptasi.html#e2-negosiasi-pelaksanaandukungan",
-    "title": "Jejak Percakapan dan Adaptasi",
-    "section": "E2 — Negosiasi pelaksanaan/dukungan",
-    "text": "E2 — Negosiasi pelaksanaan/dukungan\n[Gunakan isian yang sama. Bahas lingkup, biaya, peran, kewenangan, risiko dan kesepakatan. Pendanaan terpisah tidak wajib.]"
-  },
-  {
-    "objectID": "portfolio/UAS/02-percakapan-adaptasi.html#e3-evaluasi-bersama-mitra",
-    "href": "portfolio/UAS/02-percakapan-adaptasi.html#e3-evaluasi-bersama-mitra",
-    "title": "Jejak Percakapan dan Adaptasi",
-    "section": "E3 — Evaluasi bersama mitra",
-    "text": "E3 — Evaluasi bersama mitra\n[Gunakan isian yang sama. Bahas hasil uji, keberatan, perubahan, keputusan dan relasi.]"
-  },
-  {
-    "objectID": "portfolio/UAS/02-percakapan-adaptasi.html#keterlacakan-individual-dan-ai",
-    "href": "portfolio/UAS/02-percakapan-adaptasi.html#keterlacakan-individual-dan-ai",
-    "title": "Jejak Percakapan dan Adaptasi",
-    "section": "Keterlacakan individual dan AI",
-    "text": "Keterlacakan individual dan AI\n\n\n\nAnggota/NIM\nBukti berbicara\nBukti mendengar\nBukti beradaptasi\n\n\n\n\n[Isi tiap anggota]\n[ID/baris]\n[ID/baris]\n[ID/baris]\n\n\n\n[Isi alat/tujuan AI, hasil diterima/diubah/ditolak dan verifikasi; atau tidak digunakan.]"
+    "text": "Indeks · Contoh\nID artefak, PR, dan hasil validasi: [Tautkan].\n\n\n\n\n\n\n\n\n\nBukti\nTemuan/masukan\nTindakan dan hasil revisi\nKontributor dan tautan\n\n\n\n\nReview lintas tim\n[Isi reviewer, tanggal, komentar substantif]\n[Isi]\n[Isi]\n\n\nUji pengguna di luar tim\n[Isi tugas, minimal 2 pengguna, hasil dan batas uji]\n[Isi]\n[Isi]\n\n\n\nCantumkan sumber yang diperiksa dan deklarasi AI: alat, tujuan, keluaran yang dipakai/ditolak, pemeriksaan manusia dan keterbatasan. Jangan publikasikan data pribadi atau materi tanpa izin.\n\n\n\n Kembali ke atas"
   },
   {
     "objectID": "portfolio/UAS/04-refleksi-individual.html",
     "href": "portfolio/UAS/04-refleksi-individual.html",
-    "title": "Refleksi Individual dan Rencana Perbaikan",
+    "title": "Refleksi Individual",
     "section": "",
-    "text": "Indeks · Contoh\nBatas: 1 halaman per mahasiswa, dihimpun dalam satu berkas kelompok. Bobot: 20%. Ulangi blok untuk tiap anggota. Tidak wajib jurnal terpisah."
+    "text": "Indeks · Contoh\nUlangi untuk setiap anggota atau tautkan halaman refleksi masing-masing."
   },
   {
     "objectID": "portfolio/UAS/04-refleksi-individual.html#nama-nim",
     "href": "portfolio/UAS/04-refleksi-individual.html#nama-nim",
-    "title": "Refleksi Individual dan Rencana Perbaikan",
+    "title": "Refleksi Individual",
     "section": "[Nama — NIM]",
-    "text": "[Nama — NIM]\nKontribusi: [Isi tindakan sendiri dan ID/baris bukti; bedakan dari hasil tim].\nTantangan dan narasi diri: [Isi satu kejadian, fakta, interpretasi/emosi, asumsi yang diperiksa, pilihan respons].\nAdaptasi penting: [Isi respons pihak lain, perubahan yang dilakukan, dan hasil].\nReplay/perbaikan: [Isi sebelum → feedback → tindakan ulang/perbaikan → respons/hasil; tautkan bukti].\nPenggunaan AI: [Isi alat, tujuan, output dipakai/diubah/ditolak, verifikasi dan tanggung jawab; atau tidak digunakan].\nLangkah belajar: [Isi satu perilaku, kesempatan praktik berikut, tenggat dan indikator berhasil]."
-  },
-  {
-    "objectID": "portfolio/UAS/04-refleksi-individual.html#penilaian-oleh-assessor",
-    "href": "portfolio/UAS/04-refleksi-individual.html#penilaian-oleh-assessor",
-    "title": "Refleksi Individual dan Rencana Perbaikan",
-    "section": "Penilaian oleh assessor",
-    "text": "Penilaian oleh assessor\nSkor individual dicatat pada rubrik/rekap assessor, tidak menjadi artefak mahasiswa tambahan. Gunakan empat komponen dan bobot terbaru: 20%, 35%, 25%, 20%. Empat aspek per komponen, skala 1–4; nilai komponen = jumlah /16 × 100. BT bukan nol; tunda nilai akhir bila belum lengkap."
+    "text": "[Nama — NIM]\n\nKontribusi: [Peran, keputusan dan pekerjaan sendiri; tautkan Issue, PR, komentar atau bukti uji].\nKomunikasi dan kolaborasi: [Satu percakapan, review, atau masukan pengguna yang mengubah keputusan Anda].\nIntegritas AI: [Bantuan yang dipakai atau ditolak, cara memeriksa, keterbatasan; nyatakan bila tidak digunakan].\nPembelajaran: [Apa yang berubah dan satu langkah perbaikan yang dapat diperiksa]."
   },
   {
     "objectID": "portfolio/UTS/hasil_1.html",
@@ -8361,23 +8206,5 @@
     "title": "Minggu 14 — AI-Mediated Communication",
     "section": "Pegangan satu menit",
     "text": "Pegangan satu menit\n\nUse AI to increase human competence. Keep authority explicit. Keep relationship-critical communication human-owned."
-  },
-  {
-    "objectID": "lk/lk-UAS/index.html#pilot-uas-kipp-cia",
-    "href": "lk/lk-UAS/index.html#pilot-uas-kipp-cia",
-    "title": "UAS — Satu Masalah, Satu Pilot, Empat Artefak",
-    "section": "Pilot UAS KIPP-CIA",
-    "text": "Pilot UAS KIPP-CIA\nKIPP-CIA adalah pustaka bersama untuk prompt, skill, dan alur kerja akademik. Jadikan satu kebutuhan belajar sebagai masalah pilot dan pilih satu kelompok pengguna sebagai mitra. Contohnya, ajak kelompok belajar Probabilitas dan Statistika menguji apakah panduan Tutor Sokratik dan tabel frekuensi membantu mereka menjelaskan peluang spam pada demo Bayes dengan data sintetis. Tim juga dapat memilih topik mata kuliah lain dengan bukti yang dapat diperiksa.\n\nPilih satu paket katalog untuk diuji atau diperbaiki. Catat ID, versi, dan tautan sumber, lalu sepakati satu indikator dengan mitra.\nJalankan paket pada tugas yang disepakati. Catat contoh masukan, keluaran, cara pemeriksaan manusia, dan bagian yang perlu diperbaiki. Mintalah mahasiswa dari tim lain mencoba paket dan memberi ulasan.\nRevisi berdasarkan umpan balik mitra dan reviewer. Tautkan bukti melalui ID bukti UAS serta tautan paket, ulasan, atau pull request yang dapat diakses penilai. Jika perubahan baru diajukan, catat status pengajuannya.\n\nTarget 25 rancangan prompt dan 15 rancangan skill, dengan sedikitnya 10 prompt dan 6 skill teruji, berlaku untuk pustaka bersama lintas tim. Portfolio tiap tim 3–4 mahasiswa melaporkan pilot kecil dan kontribusi anggotanya. Kontribusi katalog dan ulasan sejawat menjadi bukti dalam empat artefak yang sudah ada.\nGunakan katalog lokal atau berkas Markdown untuk pilot. Bot Telegram dapat dipakai jika sudah tersedia di grup yang diizinkan. Penggunaan Telegram dan Ollama bersifat opsional. Untuk bukti publik, pakai data sintetis atau materi yang mendapat izin dan telah disamarkan.\nKatalog prompt · Katalog skill · Panduan kontribusi"
-  },
-  {
-    "objectID": "portfolio/UAS/index.html#bukti-pilot-kipp-cia",
-    "href": "portfolio/UAS/index.html#bukti-pilot-kipp-cia",
-    "title": "Portfolio UAS — [Judul Proyek Tim]",
-    "section": "Bukti pilot KIPP-CIA",
-    "text": "Bukti pilot KIPP-CIA\n\nRencana: tautkan paket atau alur kerja, sebutkan ID dan versi, serta jelaskan kebutuhan mitra dan indikator yang disepakati.\nPercakapan dan adaptasi: catat tiga episode bersama mitra dan tunjukkan revisi setelah uji silang atau ulasan tim lain.\nDemonstrasi: tunjukkan masukan, keluaran, pemeriksaan manusia, hasil terhadap indikator, dan keterbatasan. Tautkan bukti uji atau pull request jika tersedia.\nRefleksi: tunjukkan kontribusi pribadi terhadap paket, pengujian atau ulasan. Sertakan ID bukti dan jelaskan keputusan atas umpan balik.\n\nPanduan pilot KIPP-CIA",
-    "crumbs": [
-      "Beranda",
-      "Portfolio UAS — [Judul Proyek Tim]"
-    ]
   }
 ]

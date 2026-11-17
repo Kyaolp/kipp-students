@@ -1,14 +1,12 @@
 ---
-title: "Contoh UAS Empat Artefak — Jejak Laundry"
+title: "Contoh Portfolio Triune"
 ---
 
-**Contoh fiktif, bukan evidence mahasiswa.** Tim Jejak terdiri dari Alya, Bima dan Citra; Laundry Pelangi serta seluruh dialog, biaya, data dan replay adalah ilustrasi. Tidak ada mitra, transaksi atau hasil lapangan nyata.
+Contoh fiktif tentang modul membaca abstrak secara kritis. Semua nama, percakapan, review dan hasil uji merupakan ilustrasi; tidak ada Issue atau PR nyata.
 
-Paket memperlihatkan penyederhanaan menjadi satu mitra, satu masalah, satu pilot dan empat artefak:
+- [Penugasan dan Kontribusi](01-penugasan-kontribusi.qmd)
+- [Review, Uji Pengguna, dan Revisi](02-review-dan-uji.qmd)
+- [Showcase dan Hasil](03-showcase.qmd)
+- [Refleksi Individual](04-refleksi-individual.qmd)
 
-1. [Rencana Proyek dan Kesepakatan Tim](01-rencana-proyek.qmd).
-2. [Jejak Percakapan dan Adaptasi](02-percakapan-adaptasi.qmd).
-3. [Demonstrasi Solusi dan Hasil Uji](03-demonstrasi-hasil.qmd).
-4. [Refleksi Individual dan Rencana Perbaikan](04-refleksi-individual.qmd).
-
-Contoh demonstrasi belum memiliki video sehingga bukan paket siap dinilai. [Panduan aktif](../../lk/lk-UAS/index.qmd) · [Template empat artefak](../../portfolio/UAS/index.qmd). Minggu 15 untuk latihan dan revisi; UAS pada jadwal terpisah.
+[Panduan UAS](../../lk/lk-UAS/index.qmd) · [Penilaian](../../assessment/uas.qmd)

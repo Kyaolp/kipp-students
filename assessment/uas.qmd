@@ -1,11 +1,18 @@
 ---
-title: "Penilaian UAS — Empat Artefak"
+title: "Penilaian UAS — KIPP Triune Academic Commons"
+sidebar: assessment
 ---
 
-Gunakan [panduan penilaian UAS](../lk/lk-UAS/index.qmd#penilaian-individual). Empat komponen: rencana 20%, proses komunikasi 35%, demonstrasi/hasil 25%, refleksi individual 20%.
+Nilai kontribusi melalui [portfolio UAS](../portfolio/UAS/index.qmd), tautan PR, komentar review, hasil uji, showcase dan refleksi. Telusuri tindakan masing-masing mahasiswa; banyaknya commit tidak menunjukkan kualitas kontribusi.
 
-Nilai tiap mahasiswa berdasarkan kontribusinya; artefak tim tidak otomatis menghasilkan nilai sama. Empat aspek per komponen diberi skor 1–4; jumlah /16 × 100. BT bukan nol; nilai akhir ditunda bila belum lengkap. Sertakan ID bukti dan satu prioritas perbaikan. Rubrik mingguan /20 dan formula UTS tidak dipakai untuk UAS.
+| Kriteria | Bobot usulan | Bukti yang diperiksa |
+|---|---:|---|
+| Kontribusi individual | 25% | Peran, keputusan, pekerjaan dan revisi yang dapat ditelusuri |
+| Komunikasi dan TAIDA | 25% | Kebutuhan pengguna, respons terhadap pertanyaan, serta presentasi/showcase |
+| Kolaborasi dan peer review | 20% | Kerja tim, review lintas tim dan tindak lanjut |
+| Kualitas dan kegunaan artefak | 20% | Referensi, kegunaan, contoh yang diuji, feedback dan perbaikan |
+| Refleksi dan integritas AI | 10% | Pembelajaran, verifikasi manusia, atribusi dan keterbatasan AI |
 
-Untuk [pilot KIPP-CIA](../lk/lk-UAS/index.qmd#pilot-uas-kipp-cia), periksa tautan paket, hasil uji, ulasan sejawat, dan revisi dalam empat artefak. Gunakan bukti itu untuk menilai tindakan masing-masing mahasiswa dengan rubrik UAS yang sama.
+Bobot di atas mengikuti **usulan rubrik Triune** (`assessments/rubric.md`). Penetapan resmi dan penyelarasan dengan RPS mengikuti keputusan dosen.
 
-[Template](../portfolio/UAS/index.qmd) · [Contoh fiktif](../examples/UAS/index.qmd)
+[Panduan UAS](../lk/lk-UAS/index.qmd) · [Contoh fiktif](../examples/UAS/index.qmd)

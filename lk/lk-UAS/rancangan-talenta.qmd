@@ -1,9 +1,5 @@
 ---
-title: "UAS — Rancangan yang Disederhanakan"
+title: "Rancangan UAS Lama"
 ---
 
-Rancangan sosok dan talenta kini dilaksanakan melalui **empat artefak**, satu mitra, satu masalah, dan satu pilot kecil. Ketentuan tujuh ranah serta bobot sebelumnya tidak lagi menjadi paket pengumpulan aktif.
-
-[Baca panduan UAS dan bobot terbaru](index.qmd) · [Buka template](../../portfolio/UAS/index.qmd) · [Lihat contoh](../../examples/UAS/index.qmd)
-
-Kemampuan diri tetap dibahas dalam rencana dan refleksi. Percakapan pendanaan, komunitas, atau publik dipilih sesuai relevansi masalah, tanpa laporan tersendiri.
+Rancangan sosok dan talenta telah digantikan oleh [UAS KIPP Triune Academic Commons](index.qmd). Gunakan panduan baru untuk pembagian tim, kontribusi, review, uji pengguna, dan pengumpulan.
