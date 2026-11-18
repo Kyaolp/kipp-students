@@ -1,8 +1,8 @@
 ---
 title: "Problem–Solution Interest Pitch"
 week: 7
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "17"
 assessor_score: "—"
 description: "Problem–solution fit dan signal Interest."
 categories: [TAIDA, Interest]
@@ -18,8 +18,52 @@ Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan
 - Interest pitch dengan evidence atau demonstration.
 - Response, state assessment, hidden concern, dan adaptation.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 7](../examples/week-07.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+::: {.callout-tip title="Konteks Kelanjutan (Dari Minggu 6)"}
+Target adalah Staf Layanan Sirkulasi Perpustakaan. Pada minggu sebelumnya (Attention), target telah memberikan izin untuk melakukan observasi mandiri di lorong B terkait masalah buku yang berstatus "Tersedia" di OPAC namun sulit ditemukan secara fisik.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Attention evidence dan solution hypothesis
+
+Hasil observasi mandiri di lorong B selama 3 hari menunjukkan 18 buku berstatus "Tersedia" di OPAC tidak ada di rak. Setelah ditelusuri, 12 di antaranya tertumpuk di rak *return cart* (kereta pengembalian) yang sedang menunggu antrean sortir oleh staf. Target telah sepakat bahwa ini adalah sumber komplain utama mahasiswa.
+
+**Solution hypothesis:** Sistem pelabelan atau pendataan sementara (*Transit*) pada kereta pengembalian dapat mengarahkan mahasiswa yang mencari buku tanpa harus mendesak staf untuk segera menyortir buku ke rak utama.
+
+| Problem | Mechanism | Expected benefit | Value bagi target |
+|---|---|---|---|
+| Buku menumpuk di kereta sortir dan dianggap hilang | Label fisik "Transit" / Form pendataan sederhana | Mahasiswa tahu letak alternatif buku yang baru dikembalikan | Tekanan dan komplain mahasiswa terhadap staf berkurang drastis |
+| OPAC tidak sinkron secara *real-time* | Mahasiswa diarahkan ke area Transit sebelum bertanya | Pencarian lebih mandiri dan terarah | Beban kerja staf sirkulasi tidak bertambah |
+
+## Pitch dan demonstration
+
+> "Pak, dari observasi lorong B kemarin, ternyata mayoritas buku 'hilang' sebenarnya sedang transit di kereta pengembalian ini. Mahasiswa sering komplain karena OPAC masih bilang 'tersedia'. Saya buatkan prototipe *Google Form* dan QR Code ini. Jika staf menaruh tumpukan buku di kereta, cukup scan QR ini, dan status di *spreadsheet* publik akan otomatis tertulis 'Di Kereta Sortir'. Boleh kita coba di satu kereta minggu ini? Targetnya untuk melihat apakah komplain mahasiswa akan berkurang."
+
+Saya mendemonstrasikan proses pemindaian QR code dengan HP saya. Target melihat layar dan berkata, "Proses scannya cepat sih, tapi Bapak khawatir kalau jaringan WiFi perpustakaan lagi lambat atau *down*, form ini malah bikin kerjaan staf tersendat dan buku makin menumpuk di meja sirkulasi."
+
+## Hidden concern dan adaptation
+
+Awalnya saya mengira *concern* utama target adalah kemalasan atau keengganan mengetik data (*workload*). Namun, respons target menunjukkan kekhawatiran utamanya adalah **ketergantungan pada infrastruktur jaringan (koneksi WiFi)** dan potensi interupsi pada alur kerja operasional fisik.
+
+Adaptasi: Saya segera menarik mundur solusi digital (QR/Form) dan mengadaptasinya menjadi solusi fisik (analog) yang *low-effort*.
+> "Kalau begitu, kita tinggalkan dulu form online-nya, Pak. Bagaimana jika kita cukup pasang papan label fisik bertuliskan 'Rak Transit A' di kereta ini? Jika ada mahasiswa bertanya buku yang tidak ada di rak, Bapak cukup arahkan, 'Coba cek di Rak Transit A'. Tidak perlu koneksi internet sama sekali."
+
+Target menunjukkan sinyal **Interest**. Ia mengangguk setuju karena solusi adaptasi tersebut langsung menjawab keluhan mahasiswa tanpa risiko kendala teknis jaringan dan tanpa menambah durasi kerja staf. Target setuju untuk menguji coba penempelan label "Transit" di dua kereta pengembalian esok harinya.
+
+## Evidence, AI, dan feedback
+
+- Log observasi mandiri di lorong B (menemukan 12 buku di kereta sortir).
+- Screenshot prototipe Google Form dan QR Code versi pertama.
+- Desain kasar label fisik "Rak Transit A" yang disetujui target (*Bukti foto penempelan langsung tidak terekam/tercatat*).
+- **Penggunaan AI:** LLM digunakan untuk *brainstorming* solusi awal dengan prompt: *"Buat solusi low-effort untuk mengelola buku yang menumpuk di kereta pengembalian perpustakaan tanpa mengubah sistem server OPAC."* AI mengusulkan sistem form/QR yang kemudian saya jadikan prototipe *pitching*.
+- **Next practice:** Mengidentifikasi kendala infrastruktur lingkungan fisik (seperti koneksi internet) sebelum mengajukan solusi berbasis digital dalam area operasional.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| Person & Character | 3 | Mengidentifikasi ketakutan target terhadap gangguan alur kerja fisik |
+| Objective & State | 3 | Berhasil menggeser target ke Interest untuk pengujian solusi fisik |
+| Repertoire, Language & AI | 4 | Bantuan AI optimal; demonstrasi QR Code dilakukan di awal |
+| Response & Adaptation | 4 | Tanggap mengubah solusi digital (QR) menjadi fisik (Label) berdasar infrastruktur |
+| Agreement, Action & Relationship | 3 | Target sepakat mengeksekusi pilot uji coba label di kereta |
+
+**Total: 17/20 — Kompeten.**
