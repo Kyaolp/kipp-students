@@ -1,8 +1,8 @@
 ---
 title: "Desire-State Communication"
 week: 9
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "17"
 assessor_score: "—"
 description: "Current state, desired state, value, evidence, dan risk."
 categories: [TAIDA, Desire]
@@ -22,4 +22,66 @@ Membangun desired state bersama target dan menghubungkannya dengan solution seca
 [Buka contoh fiktif Minggu 9](../examples/week-09.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Konteks performance
+
+**Tanggal dan setting:** 18 November 2026, Ruang Baca / Perpustakaan Fakultas.
+
+**Persons dan relationship:** Saya sebagai inisiator solusi (mahasiswa), dan Ibu Rina sebagai Koordinator Perpustakaan (Target). Hubungan bersifat profesional-akademis.
+
+**Objective dan initial state:** Mengubah sistem pencatatan peminjaman buku dari buku tulis manual menjadi sistem digital sederhana. State awal: Pencatatan manual sering menyebabkan buku hilang karena sulit dilacak dan tulisan sulit dibaca, memakan waktu rekapitulasi di akhir bulan.
+
+## Evidence
+
+<div class="evidence-block">
+Bukti tidak terekam/tercatat.
+</div>
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | Target sangat pragmatis, mengutamakan kemudahan operasional, dan memiliki resistensi terhadap perubahan teknologi yang dianggap rumit. |
+| Objective & state | **Current state:** Pencatatan manual, rentan hilang, rekapitulasi lambat.<br>**Desired state:** Data tersimpan aman, mudah dicari, tanpa menambah langkah kerja pustakawan.<br>**Value:** Efisiensi waktu harian dan kepastian aset ruang baca.<br>**Acceptable risk:** Uji coba 3 hari paralel dengan buku manual.<br>**Evidence threshold:** Proses pencatatan digital terbukti tidak lebih dari 30 detik per peminjam. |
+| Repertoire & language | Saya menghindari jargon IT seperti "database relasional" atau "cloud storage". Komunikasi difokuskan pada "pencatatan otomatis" dan "form pengisian cepat". |
+| Response & adaptation | Saat target menyatakan kekhawatiran tentang keharusan mengetik ulang judul buku yang panjang, arsitektur solusi diadaptasi: input data menggunakan scan barcode ISBN atau dropdown, bukan ketik manual. |
+| Agreement/action | Disepakati *technical check* berupa uji coba purwarupa selama 3 hari tanpa mematikan sistem manual (sistem paralel) untuk memastikan kenyamanan target. |
+| Relationship outcome | Kepercayaan target meningkat karena concern utamanya (beban mengetik) didengarkan dan langsung dijawab dengan perubahan fitur. |
+
+## Feature–benefit–value–outcome chain
+
+`Form input scan barcode` → pustakawan tidak perlu mengetik panjang → waktu layanan tiap mahasiswa lebih cepat → antrean peminjaman berkurang → pustakawan memiliki waktu luang untuk inventarisasi dan mahasiswa merasa layanan lebih praktis.
+
+*(Setiap elemen di atas diajukan sebagai hipotesis untuk diuji selama masa pilot 3 hari).*
+
+## Penggunaan AI
+
+Penggunaan AI seminimal mungkin dan sebatas untuk:
+- Pengecekan tata bahasa dan perapian format penulisan (Markdown).
+- Klarifikasi beberapa terminologi ke dalam bahasa yang lebih ringkas.
+- Tidak ada pembuatan konten substantif atau fabrikasi data pengalaman nyata.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** Target menyatakan, "Saya mau coba pakai sistem barunya, asalkan saya tidak perlu kerja dua kali mengetik data yang sama."
+
+**Adaptation/replay:** Berdasarkan umpan balik tersebut, sistem yang awalnya berupa *spreadsheet* kosong diubah menjadi *form* berbasis *dropdown* terintegrasi dan *barcode scanner* agar entri data bisa dilakukan dalam dua kali klik. Target merespons positif perubahan ini.
+
+**Next practice:** Melakukan validasi teknis terkait asumsi kenyamanan pengguna langsung di lapangan sebelum menawarkan solusi akhir, guna menghindari penolakan berbasis asumsi awal.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | 3 | Mengidentifikasi resistensi target terhadap teknologi rumit dan menyesuaikan pendekatan. |
+| Objective & State | 4 | Current/desired state, value, risk, dan threshold terdefinisikan secara konkret dan jelas. |
+| Repertoire, Language & AI | 3 | Mengadaptasi bahasa komunikasi dengan membuang jargon IT; rantai value disajikan sebagai hipotesis. |
+| Response & Adaptation | 4 | Kekhawatiran target secara langsung mengubah desain fitur utama solusi (input teks menjadi scan/dropdown). |
+| Agreement, Action & Relationship | 3 | Menyepakati uji coba paralel yang meminimalisir risiko operasional target. |
+
+**Total:** 17 / 20
+
+### Assessment dosen {.assessor-only}
+**Skor:** — / 20
+**Evidence yang mendukung:** —
+**Prioritas perbaikan:** —
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
