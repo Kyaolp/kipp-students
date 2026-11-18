@@ -1,8 +1,8 @@
 ---
 title: "Target–Attention Challenge"
 week: 6
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "18"
 assessor_score: "—"
 description: "Target map, attention pitch, response, dan state assessment."
 categories: [TAIDA, Attention]
@@ -18,8 +18,80 @@ Memilih target person yang tepat dan membuat issue diakui relevan melalui eviden
 - Problem/opportunity pitch serta evidence.
 - Response, state sesudah pitch, dan adaptation.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 6](../examples/week-06.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+## Konteks performance
 
+**Tanggal dan setting:** Rabu, 20 November 2026. Area meja sirkulasi Perpustakaan Fakultas. Diskusi informal saat jam sepi pengunjung.
+
+**Persons dan relationship:** Saya sebagai mahasiswa yang rutin meminjam buku (pengguna). Target adalah Staf Layanan Sirkulasi yang sudah cukup familiar karena saya sering bertanya mengenai ketersediaan buku.
+
+**Objective dan initial state:** Mengubah state target dari sekadar mengetahui adanya keluhan mahasiswa (*problem aware*) menjadi tertarik meninjau akar masalah (*attention*) terkait inefisiensi pencarian buku di rak, serta mendapatkan izin untuk memetakan satu lorong rak sebagai *pilot test*.
+
+## Target map
+
+| Person | Relevance | Authority | Current state |
+|---|---|---|---|
+| Kepala Perpustakaan | Pemegang anggaran dan kebijakan | Menyetujui perubahan sistem | Unaware / Netral |
+| Staf Layanan Sirkulasi | Menerima komplain harian dari mahasiswa | Mengizinkan observasi lapangan | Problem aware |
+| Perwakilan BEM | Mewakili suara dan kendala mahasiswa | Mendukung urgensi perbaikan | Problem aware |
+| Tim IT Universitas | Pengelola server OPAC | Mengeksekusi update sistem | Unaware |
+
+Saya memilih **Staf Layanan Sirkulasi** sebagai target awal. Walaupun ia tidak memiliki otoritas mengubah sistem, ia memegang data operasional dan merasakan langsung beban dari komplain mahasiswa setiap hari. Pendekatan ke Kepala Perpustakaan terlalu dini jika belum ada bukti awal di lapangan.
+
+## Evidence
+
+**Attention Pitch:**
+> "Pak, dalam observasi singkat saya minggu lalu bersama 10 teman mahasiswa, rata-rata kami butuh waktu 15–20 menit mencari buku yang di sistem OPAC tertulis 'tersedia'. Catatan log pencarian kami menunjukkan ada gap antara nomor panggil di sistem dengan peletakan fisik di lorong B. Saya tidak bermaksud menyimpulkan staf kurang rapi. Bolehkah saya membandingkan data OPAC dengan kondisi fisik khusus di satu rak lorong B minggu ini untuk melihat apakah ada pola *miss-mapping*?"
+
+**Response Target:**
+> "Memang keluhan mahasiswa soal buku susah dicari itu sering terjadi, tapi biasanya karena mahasiswa sendiri yang setelah baca menaruh buku sembarangan. Kita juga sedang kurang orang untuk *stock opname* rutin setiap lorong." 
+
+**Adaptation & State Assessment:**
+State target berpindah ke **Attention with reservation**. Ia merespons masalah tetapi memberikan pembelaan terkait kapasitas staf dan perilaku mahasiswa (menyiratkan keengganan menambah beban kerja).
+Saya merespons kembali:
+> "Saya sangat mengerti staf saat ini sudah *overloaded*. Karena itu, observasi rak ini akan saya lakukan sendiri tanpa mengganggu waktu kerja Bapak. Hasilnya nanti murni berupa draf perbandingan data, bukan permintaan untuk langsung menata ulang. Apakah diperbolehkan?"
+
+**Agreement:** Target setuju memberikan izin observasi mandiri di lorong B selama tidak mengganggu alur jalan pengunjung. (*Bukti rekaman audio percakapan tidak terekam/tercatat secara langsung untuk menjaga kenyamanan target, namun poin persetujuan tertulis di log harian saya*).
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | Target dipilih karena memiliki *direct pain point* (menerima komplain). Target defensif saat merasa pekerjaannya berpotensi dikritik atau ditambah. |
+| Objective & state | Berhasil digeser ke *Attention*. Target mau mendengarkan meskipun awalnya ragu karena asumsi beban kerja. |
+| Repertoire & language | Pitch disampaikan dengan framing kolaboratif ("Saya tidak menyimpulkan staf kurang rapi"). Data kuantitatif kecil (10 teman, 15-20 menit) efektif untuk konkretisasi tanpa melebih-lebihkan. |
+| Response & adaptation | Saat target memberikan *challenge* berupa "kurang orang", adaptasi difokuskan pada jaminan "tanpa mengorbankan sumber daya staf". |
+| Agreement/action | Izin observasi mandiri berhasil didapatkan dengan batasan yang jelas (satu lorong, tidak mengganggu operasional). |
+| Relationship outcome | Terbangun rasa saling percaya. Staf merasa terbantu alih-alih dihakimi kinerjanya. |
+
+## Penggunaan AI
+
+- **Alat dan peran:** LLM digunakan sebagai *sparring partner* untuk menyempurnakan struktur *Attention Pitch*.
+- **Prompt:** "Berperanlah sebagai staf perpustakaan yang defensif. Saya akan melakukan pitch terkait masalah penataan buku. Berikan respons skeptis."
+- **Output yang diadaptasi:** AI menyarankan untuk mempertegas "ukur sampel" dan "jaminan tidak menambah beban kerja", yang kemudian saya integrasikan ke dalam respons adaptasi saya.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** Target merasa lega saat ditekankan bahwa inisiatif ini tidak membebankannya. Hal ini membuktikan bahwa menghilangkan kekhawatiran (*risk-mitigation*) sama pentingnya dengan memaparkan data.
+
+**Adaptation/replay:** Mengubah kata "kita meninjau" pada pitch awal menjadi penegasan bahwa aksi teknisnya akan "saya lakukan sendiri".
+
+**Next practice:** Saya akan melatih penyampaian *attention pitch* agar langsung memuat jaminan minim risiko di awal (dalam 30 detik pertama), sehingga tidak memicu respons defensif dari target.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | 4 | Target dipilih sesuai dengan level relevansi operasional harian. |
+| Objective & State | 3 | Target tergerak ke state *attention* meski masih ada *reservation*. |
+| Repertoire, Language & AI | 4 | Bahasa adaptif, kolaboratif, menghindari framing menyalahkan staf. |
+| Response & Adaptation | 4 | Cepat menangkap keberatan tersembunyi (beban kerja) dan merespons solutif. |
+| Agreement, Action & Relationship | 3 | Izin pilot project diperoleh; hubungan profesional terjaga. |
+
+**Total:** 18 / 20
+
+### Assessment dosen
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai
 {{< include ../includes/evidence-template.md >}}
