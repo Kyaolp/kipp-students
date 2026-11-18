@@ -1,25 +1,69 @@
 ---
 title: "Action & Agreement Challenge"
 week: 10
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "17"
 assessor_score: "—"
 description: "Barrier, authority, negotiation, agreement, dan action evidence."
 categories: [TAIDA, Action]
 ---
 
-## Kompetensi target
+---
+title: "Minggu 10 — Action & Agreement"
+week: 10
+sidebar: portfolio
+---
 
-Menemukan desire–action gap dan menghasilkan agreement yang feasible serta eksplisit.
+## Desire–action gap
 
-## Evidence wajib
+Target (Ketua Himpunan) menginginkan penerapan sistem pilah sampah (organik dan anorganik) di ruang himpunan, tetapi belum ada tindakan nyata. Discovery menunjukkan beberapa barrier berikut:
 
-- Barrier dan authority map.
-- Options dan trade-off yang dibahas.
-- Agreement dengan owner/deadline serta bukti action atau review.
+| Barrier | Person dengan authority | Respons |
+|---|---|---|
+| Persetujuan anggaran tong sampah | Bendahara Himpunan | Harus menyetujui pengeluaran dana |
+| Penyesuaian jadwal angkut sampah | Petugas Kebersihan Fakultas | Dapat menentukan titik kumpul akhir |
+| Pembuatan poster panduan visual | Divisi Kominfo Himpunan | Dapat mendesain dan mencetak poster |
+| Pemantauan kelayakan harian | Saya (Mahasiswa) | Dapat melakukan rekapitulasi harian |
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 10](../examples/week-10.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+Sebelumnya, saya keliru meminta Divisi Kominfo untuk menyetujui keseluruhan jalannya program, padahal *authority* final untuk operasional ruang dan anggaran ada pada Ketua dan Bendahara.
+
+## Options dan trade-off
+
+1. **Pilot 1 minggu, 2 jenis tong (Organik/Anorganik):** *Evidence* cepat terlihat, risiko anggaran rendah, dan *workload* ringan.
+2. **Implementasi permanen, 4 jenis tong:** *Evidence* lebih komprehensif, namun butuh *budget* besar dan proses persetujuan birokrasi yang lama.
+3. **Kampanye kesadaran tanpa penyediaan tong baru:** Cepat dan tanpa biaya, tetapi tidak menguji *mechanism solution* (perubahan kebiasaan) di lapangan.
+
+Target memilih opsi 1 dengan syarat desain poster panduan dibuat seringkas mungkin dan evaluasi dilakukan segera setelah fase pilot selesai.
+
+## Agreement eksplisit
+
+> **Scope:** Area ruang himpunan utama, 12–16 November 2026.  
+> **Owner:** Saya (pemantauan harian & koordinasi); Bendahara (pengadaan tong); Petugas Kebersihan (pengangkutan akhir tiap sore).  
+> **Deadline:** Pengadaan tong selesai 11 November; keputusan *go/no-go* untuk permanen tanggal 17 November.  
+> **Evidence:** Foto kondisi tempat sampah setiap pukul 16.00 dan persentase sampah yang salah masuk kategori (kontaminasi silang).  
+> **Stop rule:** Pilot dihentikan lebih awal jika tempat sampah menimbulkan bau menyengat yang mengganggu ruang diskusi selama 2 hari berturut-turut.  
+> **Review:** 17 November pukul 13.00 WIB.
+
+## Action evidence dan adaptation
+
+Saat koordinasi teknis awal, Petugas Kebersihan menyarankan bahwa tong organik tanpa pelapis khusus akan cepat kotor dan sulit dibersihkan. Saya beradaptasi dengan segera merevisi daftar kebutuhan kepada Bendahara untuk menambahkan pengadaan plastik pelapis *biodegradable*. 
+
+Bukti foto pertemuan koordinasi dan revisi RAB: **Bukti tidak terekam/tercatat.**
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| Person & Character | 3 | *Authority* dan *responsibility* tiap pihak dibedakan dengan jelas |
+| Objective & State | 3 | *Desire–action gap* teridentifikasi dengan spesifik |
+| Repertoire, Language & AI | 3 | *Options* dan *trade-off* dipaparkan secara proporsional |
+| Response & Adaptation | 4 | Masukan teknis dari petugas kebersihan langsung diakomodasi ke dalam rencana |
+| Agreement, Action & Relationship | 4 | *Scope*, *owner*, *deadline*, *stop rule*, dan *review* dirumuskan lengkap |
+
+**Total: 17/20 — Lanjut.**
+
+## Pengungkapan Penggunaan AI
+
+* **Proofreading & Perapian Format:** Menggunakan AI murni untuk merapikan tata bahasa, memperbaiki ejaan (*typo*), dan memastikan format tabel konsisten tanpa mengubah substansi ide (estimasi kontribusi AI: ~5%).
 
 {{< include ../includes/evidence-template.md >}}
